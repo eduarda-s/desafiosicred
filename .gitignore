@@ -1,0 +1,27 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+
+# Temporarios do Excel e do Power BI
+~$*.xlsx
+*.tmp
+
+# Scripts auxiliares de entrega (nao fazem parte do projeto)
+commitar.sh
+commitar.bat
