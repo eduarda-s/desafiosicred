@@ -1,0 +1,1001 @@
+﻿CHAVE,NOME,AGENCIA,AGENCIA_NOME,CIDADE,DATA_ASSOCIACAO,DATA_VALIDA,RENDA_MENSAL,RENDA_INFORMADA,CONTA_CORRENTE,CARTAO,CREDITO,INVESTIMENTO,CONSORCIO,SEGURO,SALDO_MEDIO,PIX_MENSAL,COMPRAS_CARTAO,QTD_PRODUTOS,TEMPO_RELACIONAMENTO_ANOS,FAIXA_TEMPO,FAIXA_RENDA,INDICE_MOVIMENTACAO,SCORE_PRODUTOS,SCORE_TEMPO,SCORE_MOVIMENTACAO,SCORE_TOTAL,CLASSIFICACAO,OPORT_CROSS_SELL,OPORT_BAIXA_UTILIZACAO
+1,Fernanda Sobrenome,1,Agencia 1,Pato Branco,2023-11-03,True,14714.0,True,True,True,True,False,False,False,245843,55,1400,3,2.82,2 a 3 anos,R$ 8.001 a R$ 15.000,64.5,1,1,3,5,Maduro,False,False
+2,Carlos Sobrenome,2,Agencia 2,Pato Branco,2020-11-06,True,20161.0,True,True,True,True,False,False,False,3031,43,19923,3,5.81,Mais de 5 anos,Acima de R$ 15.000,36.6,1,3,0,4,Em Desenvolvimento,False,True
+3,Bruno Sobrenome,4,Agencia 4,Pato Branco,2018-05-01,True,23834.0,True,False,False,True,False,True,False,10181,95,7251,2,8.33,Mais de 5 anos,Acima de R$ 15.000,34.7,1,3,0,4,Em Desenvolvimento,True,True
+4,Juliana Sobrenome,4,Agencia 4,Pato Branco,2020-07-09,True,24436.0,True,False,True,True,False,True,False,151001,53,19505,3,6.14,Mais de 5 anos,Acima de R$ 15.000,68.5,1,3,3,7,Engajado,False,False
+5,Amanda Sobrenome,5,Agencia 5,Cascavel,2024-09-24,True,15961.0,True,True,True,False,False,False,True,159737,50,6637,3,1.93,Menos de 2 anos,Acima de R$ 15.000,53.4,1,0,2,3,Em Desenvolvimento,False,False
+6,Bruno Sobrenome,5,Agencia 5,Pato Branco,2020-12-28,True,2614.0,True,False,True,True,True,True,False,130176,86,6906,4,5.67,Mais de 5 anos,Ate R$ 3.000,55.9,2,3,2,7,Engajado,False,False
+7,Bruno Sobrenome,2,Agencia 2,Toledo,2025-06-03,True,11624.0,True,True,False,True,True,True,True,218415,63,17819,5,1.24,Menos de 2 anos,R$ 8.001 a R$ 15.000,82.0,2,0,3,5,Maduro,False,False
+8,Ricardo Sobrenome,2,Agencia 2,Cascavel,2024-01-26,True,11326.0,True,True,True,False,False,True,False,111386,88,12573,3,2.59,2 a 3 anos,R$ 8.001 a R$ 15.000,59.6,1,1,2,4,Em Desenvolvimento,False,False
+9,Paula Sobrenome,5,Agencia 5,Cascavel,2021-08-12,True,4988.0,True,False,True,True,False,True,True,245085,28,18694,4,5.05,Mais de 5 anos,R$ 3.001 a R$ 8.000,79.2,2,3,3,8,Engajado,False,False
+10,Carlos Sobrenome,2,Agencia 2,Cascavel,2021-06-09,True,9067.0,True,True,True,False,False,True,True,222716,46,12259,4,5.22,Mais de 5 anos,R$ 8.001 a R$ 15.000,71.9,2,3,3,8,Engajado,False,False
+11,Carlos Sobrenome,4,Agencia 4,Pato Branco,2021-04-16,True,9865.0,True,True,True,False,False,True,False,239146,19,4898,3,5.37,Mais de 5 anos,R$ 8.001 a R$ 15.000,58.3,1,3,2,6,Maduro,False,False
+12,Lucas Sobrenome,3,Agencia 3,Pato Branco,2020-04-13,True,17048.0,True,True,False,False,False,True,True,215964,8,11597,3,6.38,Mais de 5 anos,Acima de R$ 15.000,60.2,1,3,2,6,Maduro,False,False
+13,Ricardo Sobrenome,4,Agencia 4,Cascavel,2020-09-02,True,14157.0,True,False,False,True,False,False,True,91176,98,18070,2,5.99,Mais de 5 anos,R$ 8.001 a R$ 15.000,65.5,1,3,3,7,Engajado,False,False
+14,Carlos Sobrenome,4,Agencia 4,Cascavel,2020-05-12,True,25585.0,True,True,False,True,True,True,False,74978,51,8660,4,6.3,Mais de 5 anos,Acima de R$ 15.000,39.2,2,3,1,6,Maduro,False,False
+15,Paula Sobrenome,5,Agencia 5,Cascavel,2025-08-04,True,14824.0,True,True,False,False,True,False,False,33590,66,8981,2,1.07,Menos de 2 anos,R$ 8.001 a R$ 15.000,35.3,1,0,0,1,Inicial,False,True
+16,Amanda Sobrenome,3,Agencia 3,Toledo,2021-02-10,True,9819.0,True,False,True,False,True,False,False,193146,67,14734,2,5.55,Mais de 5 anos,R$ 8.001 a R$ 15.000,74.6,1,3,3,7,Engajado,False,False
+17,Mariana Sobrenome,1,Agencia 1,Cascavel,2020-05-11,True,2401.0,True,True,True,True,True,True,True,240839,7,18530,6,6.3,Mais de 5 anos,Ate R$ 3.000,72.9,3,3,3,9,Engajado,False,False
+18,Paula Sobrenome,3,Agencia 3,Pato Branco,2023-01-21,True,27183.0,True,False,True,True,True,True,False,100155,53,11105,4,3.61,3 a 5 anos,Acima de R$ 15.000,47.6,2,2,1,5,Maduro,False,False
+19,Bruno Sobrenome,3,Agencia 3,Cascavel,2021-10-06,True,28911.0,True,False,True,True,True,False,True,183226,36,8390,4,4.9,3 a 5 anos,Acima de R$ 15.000,57.0,2,2,2,6,Maduro,False,False
+20,Ricardo Sobrenome,2,Agencia 2,Pato Branco,2021-04-20,True,20429.0,True,False,False,False,False,True,False,184107,18,15099,1,5.36,Mais de 5 anos,Acima de R$ 15.000,60.8,0,3,2,5,Maduro,True,False
+21,Juliana Sobrenome,5,Agencia 5,Toledo,2019-04-07,True,16833.0,True,True,False,True,False,True,True,82870,72,4000,4,7.4,Mais de 5 anos,Acima de R$ 15.000,39.7,2,3,1,6,Maduro,False,False
+22,Joao Sobrenome,4,Agencia 4,Chapeco,2019-10-17,True,14369.0,True,True,False,False,False,False,True,221624,17,13929,2,6.87,Mais de 5 anos,R$ 8.001 a R$ 15.000,65.9,1,3,3,7,Engajado,False,False
+23,Paula Sobrenome,2,Agencia 2,Maringa,2021-01-06,True,27188.0,True,False,True,False,True,True,False,152163,93,15289,3,5.65,Mais de 5 anos,Acima de R$ 15.000,72.8,1,3,3,7,Engajado,False,False
+24,Juliana Sobrenome,3,Agencia 3,Cascavel,2020-09-13,True,15045.0,True,True,True,True,False,False,True,111646,17,6672,4,5.96,Mais de 5 anos,Acima de R$ 15.000,34.6,2,3,0,5,Maduro,False,True
+25,Ricardo Sobrenome,4,Agencia 4,Chapeco,2023-07-25,True,18252.0,True,True,False,True,False,True,False,200562,98,5144,3,3.1,3 a 5 anos,Acima de R$ 15.000,71.6,1,2,3,6,Maduro,False,False
+26,Mariana Sobrenome,1,Agencia 1,Pato Branco,2021-01-02,True,3486.0,True,True,False,True,True,True,False,188018,25,11861,4,5.66,Mais de 5 anos,R$ 3.001 a R$ 8.000,59.1,2,3,2,7,Engajado,False,False
+27,Amanda Sobrenome,3,Agencia 3,Pato Branco,2022-06-21,True,9835.0,True,False,True,False,True,False,False,153811,50,14169,2,4.19,3 a 5 anos,R$ 8.001 a R$ 15.000,61.8,1,2,2,5,Maduro,False,False
+28,Paula Sobrenome,2,Agencia 2,Toledo,2023-09-18,True,22675.0,True,False,True,False,True,True,True,35725,65,7776,4,2.95,2 a 3 anos,Acima de R$ 15.000,34.1,2,1,0,3,Em Desenvolvimento,False,True
+29,Amanda Sobrenome,4,Agencia 4,Pato Branco,2025-09-17,True,5544.0,True,True,False,False,True,True,False,136606,96,3629,3,0.95,Menos de 2 anos,R$ 3.001 a R$ 8.000,55.6,1,0,2,3,Em Desenvolvimento,False,False
+30,Ricardo Sobrenome,3,Agencia 3,Pato Branco,2025-03-15,True,5239.0,True,True,False,True,True,False,False,170560,51,9683,3,1.46,Menos de 2 anos,R$ 3.001 a R$ 8.000,59.7,1,0,2,3,Em Desenvolvimento,False,False
+31,Juliana Sobrenome,5,Agencia 5,Maringa,2023-02-17,True,23460.0,True,True,True,True,True,False,False,188196,44,12190,4,3.53,3 a 5 anos,Acima de R$ 15.000,64.7,2,2,3,7,Engajado,False,False
+32,Paula Sobrenome,1,Agencia 1,Maringa,2021-06-27,True,11208.0,True,True,False,True,False,True,True,67008,98,1268,4,5.17,Mais de 5 anos,R$ 8.001 a R$ 15.000,39.4,2,3,1,6,Maduro,False,False
+33,Bruno Sobrenome,4,Agencia 4,Maringa,2025-05-19,True,16786.0,True,False,True,False,False,True,True,120822,8,11673,3,1.28,Menos de 2 anos,Acima de R$ 15.000,41.2,1,0,1,2,Inicial,False,False
+34,Carlos Sobrenome,3,Agencia 3,Pato Branco,2023-03-21,True,12267.0,True,True,True,True,False,False,False,87232,26,9462,3,3.44,3 a 5 anos,R$ 8.001 a R$ 15.000,36.3,1,2,0,3,Em Desenvolvimento,False,True
+35,Mariana Sobrenome,5,Agencia 5,Pato Branco,2026-06-11,True,13933.0,True,False,False,True,True,False,True,34042,12,18944,3,0.22,Menos de 2 anos,R$ 8.001 a R$ 15.000,34.1,1,0,0,1,Inicial,False,True
+36,Juliana Sobrenome,3,Agencia 3,Pato Branco,2025-05-27,True,2468.0,True,True,False,False,True,True,False,201959,30,12313,3,1.26,Menos de 2 anos,Ate R$ 3.000,64.3,1,0,3,4,Em Desenvolvimento,False,False
+37,Lucas Sobrenome,4,Agencia 4,Pato Branco,2021-07-03,True,14290.0,True,False,False,True,False,False,True,228626,26,9026,2,5.16,Mais de 5 anos,R$ 8.001 a R$ 15.000,63.4,1,3,3,7,Engajado,False,False
+38,Amanda Sobrenome,5,Agencia 5,Toledo,2026-06-13,True,9789.0,True,True,True,True,False,True,False,102130,17,9706,4,0.21,Menos de 2 anos,R$ 8.001 a R$ 15.000,36.9,2,0,0,2,Inicial,False,True
+39,Ricardo Sobrenome,2,Agencia 2,Maringa,2020-08-15,True,7790.0,True,True,False,True,False,False,False,105077,31,18489,2,6.04,Mais de 5 anos,R$ 3.001 a R$ 8.000,51.6,1,3,2,6,Maduro,False,False
+40,Joao Sobrenome,2,Agencia 2,Pato Branco,2025-10-16,True,15920.0,True,False,False,False,True,True,False,45228,32,2925,2,0.87,Menos de 2 anos,Acima de R$ 15.000,21.4,1,0,0,1,Inicial,True,True
+41,Carlos Sobrenome,5,Agencia 5,Chapeco,2021-08-08,True,10889.0,True,True,True,False,True,False,True,161854,57,16860,4,5.06,Mais de 5 anos,R$ 8.001 a R$ 15.000,68.1,2,3,3,8,Engajado,False,False
+42,Amanda Sobrenome,4,Agencia 4,Chapeco,2018-03-09,True,12874.0,True,False,True,False,False,False,False,15463,11,1137,1,8.48,Mais de 5 anos,R$ 8.001 a R$ 15.000,7.1,0,3,0,3,Em Desenvolvimento,False,True
+43,Ricardo Sobrenome,3,Agencia 3,Toledo,2019-10-02,True,12965.0,True,True,True,True,True,True,True,170524,76,19148,6,6.91,Mais de 5 anos,R$ 8.001 a R$ 15.000,76.9,3,3,3,9,Engajado,False,False
+44,Carlos Sobrenome,3,Agencia 3,Pato Branco,2025-05-23,True,26582.0,True,False,False,True,False,True,True,172760,18,11978,3,1.27,Menos de 2 anos,Acima de R$ 15.000,53.9,1,0,2,3,Em Desenvolvimento,False,False
+45,Mariana Sobrenome,5,Agencia 5,Toledo,2026-04-06,True,8743.0,True,True,True,True,False,False,True,200564,48,6088,4,0.4,Menos de 2 anos,R$ 8.001 a R$ 15.000,60.7,2,0,2,4,Em Desenvolvimento,False,False
+46,Carlos Sobrenome,1,Agencia 1,Toledo,2026-08-10,True,17810.0,True,False,False,False,True,False,False,10278,98,11062,1,0.05,Menos de 2 anos,Acima de R$ 15.000,40.8,0,0,1,1,Inicial,True,False
+47,Paula Sobrenome,2,Agencia 2,Pato Branco,2026-01-01,True,2876.0,True,False,False,True,False,False,False,162945,26,9609,1,0.66,Menos de 2 anos,Ate R$ 3.000,51.3,0,0,2,2,Inicial,False,False
+48,Carlos Sobrenome,1,Agencia 1,Pato Branco,2020-02-14,True,8110.0,True,True,False,False,False,True,False,170260,91,10681,2,6.54,Mais de 5 anos,R$ 8.001 a R$ 15.000,70.1,1,3,3,7,Engajado,False,False
+49,Paula Sobrenome,1,Agencia 1,Maringa,2024-12-24,True,4470.0,True,False,True,True,False,False,True,21661,43,19288,3,1.68,Menos de 2 anos,R$ 3.001 a R$ 8.000,40.6,1,0,1,2,Inicial,False,False
+50,Fernanda Sobrenome,3,Agencia 3,Pato Branco,2022-03-08,True,26620.0,True,True,True,False,False,False,False,153217,12,2499,2,4.48,3 a 5 anos,Acima de R$ 15.000,36.8,1,2,0,3,Em Desenvolvimento,True,True
+51,Fernanda Sobrenome,2,Agencia 2,Maringa,2025-08-26,True,25791.0,True,False,True,True,True,True,True,69678,31,18022,5,1.01,Menos de 2 anos,Acima de R$ 15.000,44.8,2,0,1,3,Em Desenvolvimento,False,False
+52,Paula Sobrenome,3,Agencia 3,Maringa,2026-05-28,True,4635.0,True,False,True,False,True,True,True,142938,95,6543,4,0.26,Menos de 2 anos,R$ 3.001 a R$ 8.000,60.3,2,0,2,4,Em Desenvolvimento,False,False
+53,Amanda Sobrenome,4,Agencia 4,Pato Branco,2018-02-26,True,19044.0,True,True,False,True,False,False,False,58253,72,9023,2,8.51,Mais de 5 anos,Acima de R$ 15.000,40.9,1,3,1,5,Maduro,True,False
+54,Carlos Sobrenome,3,Agencia 3,Toledo,2022-11-24,True,21174.0,True,True,True,True,True,True,True,85737,10,17521,6,3.76,3 a 5 anos,Acima de R$ 15.000,42.0,3,2,1,6,Maduro,False,False
+55,Mariana Sobrenome,1,Agencia 1,Chapeco,2021-04-06,True,7206.0,True,True,False,False,False,True,True,213494,80,10862,3,5.4,Mais de 5 anos,R$ 3.001 a R$ 8.000,76.6,1,3,3,7,Engajado,False,False
+56,Mariana Sobrenome,5,Agencia 5,Cascavel,2019-12-25,True,26065.0,True,False,False,False,False,False,True,36352,48,1214,1,6.68,Mais de 5 anos,Acima de R$ 15.000,21.9,0,3,0,3,Em Desenvolvimento,True,True
+57,Ricardo Sobrenome,2,Agencia 2,Pato Branco,2022-09-22,True,18393.0,True,False,True,True,False,True,True,10399,53,12201,4,3.94,3 a 5 anos,Acima de R$ 15.000,31.1,2,2,0,4,Em Desenvolvimento,False,True
+58,Carlos Sobrenome,1,Agencia 1,Pato Branco,2022-07-15,True,19838.0,True,False,True,False,True,False,True,237523,45,13205,3,4.13,3 a 5 anos,Acima de R$ 15.000,75.7,1,2,3,6,Maduro,False,False
+59,Bruno Sobrenome,1,Agencia 1,Toledo,2021-05-10,True,11380.0,True,False,True,False,True,True,False,179113,86,3746,3,5.31,Mais de 5 anos,R$ 8.001 a R$ 15.000,61.9,1,3,2,6,Maduro,False,False
+60,Mariana Sobrenome,5,Agencia 5,Maringa,2023-11-14,True,29767.0,True,False,False,True,True,False,True,132571,63,19104,3,2.79,2 a 3 anos,Acima de R$ 15.000,66.4,1,1,3,5,Maduro,False,False
+61,Paula Sobrenome,3,Agencia 3,Pato Branco,2021-03-08,True,29222.0,True,True,False,False,False,False,False,178909,68,3037,1,5.48,Mais de 5 anos,Acima de R$ 15.000,56.9,0,3,2,5,Maduro,True,False
+62,Ricardo Sobrenome,2,Agencia 2,Maringa,2022-04-07,True,28543.0,True,True,False,False,True,False,False,20477,25,7505,2,4.4,3 a 5 anos,Acima de R$ 15.000,20.4,1,2,0,3,Em Desenvolvimento,True,True
+63,Carlos Sobrenome,5,Agencia 5,Cascavel,2018-08-28,True,22547.0,True,True,False,True,False,True,True,156258,46,5534,4,8.01,Mais de 5 anos,Acima de R$ 15.000,50.6,2,3,2,7,Engajado,False,False
+64,Mariana Sobrenome,2,Agencia 2,Chapeco,2021-04-07,True,2400.0,True,False,False,False,False,False,True,31621,19,15988,1,5.4,Mais de 5 anos,Ate R$ 3.000,31.4,0,3,0,3,Em Desenvolvimento,False,True
+65,Lucas Sobrenome,4,Agencia 4,Pato Branco,2021-04-02,True,18920.0,True,False,True,True,False,False,False,147444,43,5372,2,5.41,Mais de 5 anos,Acima de R$ 15.000,47.6,1,3,1,5,Maduro,True,False
+66,Ricardo Sobrenome,4,Agencia 4,Maringa,2022-01-14,True,14017.0,True,False,True,False,False,True,True,192676,67,2178,3,4.62,3 a 5 anos,R$ 8.001 a R$ 15.000,58.6,1,2,2,5,Maduro,False,False
+67,Carlos Sobrenome,3,Agencia 3,Pato Branco,2018-05-21,True,8714.0,True,False,False,False,True,True,True,23855,87,14057,3,8.28,Mais de 5 anos,R$ 8.001 a R$ 15.000,44.9,1,3,1,5,Maduro,False,False
+68,Joao Sobrenome,2,Agencia 2,Maringa,2026-05-17,True,29178.0,True,False,False,False,False,True,True,35409,9,17833,2,0.29,Menos de 2 anos,Acima de R$ 15.000,32.2,1,0,0,1,Inicial,True,True
+69,Carlos Sobrenome,1,Agencia 1,Pato Branco,2018-11-07,True,21605.0,True,False,True,False,True,True,False,181204,53,9845,3,7.81,Mais de 5 anos,Acima de R$ 15.000,63.0,1,3,3,7,Engajado,False,False
+70,Bruno Sobrenome,3,Agencia 3,Pato Branco,2026-04-24,True,20673.0,True,False,False,True,True,False,True,20544,28,12220,3,0.35,Menos de 2 anos,Acima de R$ 15.000,27.2,1,0,0,1,Inicial,False,True
+71,Carlos Sobrenome,2,Agencia 2,Pato Branco,2025-10-13,True,20533.0,True,False,True,False,True,False,False,70580,64,8772,2,0.88,Menos de 2 anos,Acima de R$ 15.000,41.5,1,0,1,2,Inicial,True,False
+72,Lucas Sobrenome,2,Agencia 2,Cascavel,2021-05-03,True,29930.0,True,True,False,False,True,False,False,121020,27,983,2,5.33,Mais de 5 anos,Acima de R$ 15.000,32.3,1,3,0,4,Em Desenvolvimento,True,True
+73,Amanda Sobrenome,1,Agencia 1,Chapeco,2024-08-19,True,10355.0,True,False,True,True,True,True,True,130277,24,17341,5,2.03,2 a 3 anos,R$ 8.001 a R$ 15.000,53.8,2,1,2,5,Maduro,False,False
+74,Amanda Sobrenome,5,Agencia 5,Pato Branco,2025-12-06,True,21191.0,True,True,True,False,False,False,True,209172,45,5434,3,0.73,Menos de 2 anos,Acima de R$ 15.000,60.6,1,0,2,3,Em Desenvolvimento,False,False
+75,Lucas Sobrenome,5,Agencia 5,Pato Branco,2018-05-13,True,26165.0,True,True,False,False,False,False,False,84301,36,9401,1,8.3,Mais de 5 anos,Acima de R$ 15.000,38.4,0,3,1,4,Em Desenvolvimento,True,False
+76,Bruno Sobrenome,3,Agencia 3,Cascavel,2023-12-09,True,22910.0,True,False,False,False,True,False,True,19461,58,7046,2,2.72,2 a 3 anos,Acima de R$ 15.000,28.0,1,1,0,2,Inicial,True,True
+77,Lucas Sobrenome,1,Agencia 1,Chapeco,2021-09-04,True,,False,True,False,False,False,True,True,28150,4,1643,3,4.99,3 a 5 anos,Nao informado,9.2,1,2,0,3,Em Desenvolvimento,False,True
+78,Juliana Sobrenome,5,Agencia 5,Cascavel,2025-02-28,True,4638.0,True,True,False,True,False,False,False,181331,32,19590,2,1.5,Menos de 2 anos,R$ 3.001 a R$ 8.000,69.7,1,0,3,4,Em Desenvolvimento,False,False
+79,Lucas Sobrenome,3,Agencia 3,Pato Branco,2026-02-02,True,14546.0,True,False,False,True,False,False,True,225631,87,3839,2,0.57,Menos de 2 anos,R$ 8.001 a R$ 15.000,71.1,1,0,3,4,Em Desenvolvimento,False,False
+80,Carlos Sobrenome,4,Agencia 4,Pato Branco,2026-02-10,True,14613.0,True,True,True,False,False,False,False,75207,46,268,2,0.55,Menos de 2 anos,R$ 8.001 a R$ 15.000,27.4,1,0,0,1,Inicial,False,True
+81,Fernanda Sobrenome,3,Agencia 3,Chapeco,2024-05-04,True,2821.0,True,True,True,False,True,True,True,75848,73,10341,5,2.32,2 a 3 anos,Ate R$ 3.000,46.9,2,1,1,4,Em Desenvolvimento,False,False
+82,Carlos Sobrenome,5,Agencia 5,Pato Branco,2018-04-27,True,20004.0,True,False,False,True,False,True,True,243028,32,17604,3,8.34,Mais de 5 anos,Acima de R$ 15.000,78.6,1,3,3,7,Engajado,False,False
+83,Paula Sobrenome,2,Agencia 2,Chapeco,2026-08-09,True,5161.0,True,False,True,False,False,False,False,83603,81,17225,1,0.06,Menos de 2 anos,R$ 3.001 a R$ 8.000,58.5,0,0,2,2,Inicial,False,False
+84,Amanda Sobrenome,2,Agencia 2,Maringa,2024-06-15,True,13741.0,True,False,True,False,True,True,True,101384,11,1825,4,2.21,2 a 3 anos,R$ 8.001 a R$ 15.000,24.9,2,1,0,3,Em Desenvolvimento,False,True
+85,Mariana Sobrenome,1,Agencia 1,Chapeco,2018-07-25,True,16296.0,True,True,False,False,True,True,True,38234,29,17994,4,8.1,Mais de 5 anos,Acima de R$ 15.000,38.3,2,3,1,6,Maduro,False,False
+86,Ricardo Sobrenome,5,Agencia 5,Cascavel,2018-08-08,True,27636.0,True,False,False,True,False,True,True,108350,79,17505,3,8.06,Mais de 5 anos,Acima de R$ 15.000,62.8,1,3,2,6,Maduro,False,False
+87,Juliana Sobrenome,4,Agencia 4,Pato Branco,2021-12-06,True,13296.0,True,False,True,False,True,False,False,9935,15,5163,2,4.73,3 a 5 anos,R$ 8.001 a R$ 15.000,12.4,1,2,0,3,Em Desenvolvimento,False,True
+88,Ricardo Sobrenome,5,Agencia 5,Cascavel,2018-04-28,True,25388.0,True,True,True,False,False,True,True,84475,60,17174,4,8.34,Mais de 5 anos,Acima de R$ 15.000,54.0,2,3,2,7,Engajado,False,False
+89,Fernanda Sobrenome,4,Agencia 4,Pato Branco,2023-07-08,True,4744.0,True,True,False,True,True,True,False,122837,55,1939,4,3.15,3 a 5 anos,R$ 3.001 a R$ 8.000,41.2,2,2,1,5,Maduro,False,False
+90,Paula Sobrenome,2,Agencia 2,Pato Branco,2023-08-18,True,9030.0,True,False,False,False,True,True,True,41744,79,15747,3,3.03,3 a 5 anos,R$ 8.001 a R$ 15.000,48.3,1,2,1,4,Em Desenvolvimento,False,False
+91,Carlos Sobrenome,3,Agencia 3,Maringa,2024-09-16,True,25090.0,True,True,True,True,True,True,True,74659,97,479,6,1.95,Menos de 2 anos,Acima de R$ 15.000,39.8,3,0,1,4,Em Desenvolvimento,False,False
+92,Juliana Sobrenome,2,Agencia 2,Toledo,2024-06-15,True,25263.0,True,False,True,False,True,False,False,99912,22,14831,2,2.21,2 a 3 anos,Acima de R$ 15.000,43.6,1,1,1,3,Em Desenvolvimento,True,False
+93,Mariana Sobrenome,2,Agencia 2,Maringa,2023-05-09,True,16813.0,True,True,False,True,False,True,True,39296,26,12642,4,3.31,3 a 5 anos,Acima de R$ 15.000,31.0,2,2,0,4,Em Desenvolvimento,False,True
+94,Fernanda Sobrenome,2,Agencia 2,Pato Branco,2021-04-14,True,29606.0,True,False,False,False,True,False,True,62189,23,7235,2,5.38,Mais de 5 anos,Acima de R$ 15.000,26.9,1,3,0,4,Em Desenvolvimento,True,True
+95,Amanda Sobrenome,5,Agencia 5,Pato Branco,2024-05-07,True,22510.0,True,True,True,True,True,True,False,14555,56,17259,5,2.31,2 a 3 anos,Acima de R$ 15.000,38.9,2,1,1,4,Em Desenvolvimento,False,False
+96,Joao Sobrenome,5,Agencia 5,Pato Branco,2019-10-14,True,23267.0,True,False,False,False,True,False,False,122871,66,12112,1,6.88,Mais de 5 anos,Acima de R$ 15.000,56.9,0,3,2,5,Maduro,True,False
+97,Mariana Sobrenome,5,Agencia 5,Pato Branco,2020-05-25,True,20293.0,True,True,False,False,True,True,False,55982,100,11597,3,6.26,Mais de 5 anos,Acima de R$ 15.000,50.8,1,3,2,6,Maduro,False,False
+98,Carlos Sobrenome,1,Agencia 1,Toledo,2020-11-07,True,26009.0,True,True,True,True,True,True,True,177586,86,6976,6,5.81,Mais de 5 anos,Acima de R$ 15.000,65.3,3,3,3,9,Engajado,False,False
+99,Carlos Sobrenome,5,Agencia 5,Maringa,2022-06-01,True,23197.0,True,True,False,True,True,True,True,37526,37,6320,5,4.25,3 a 5 anos,Acima de R$ 15.000,25.5,2,2,0,4,Em Desenvolvimento,False,True
+100,Amanda Sobrenome,1,Agencia 1,Pato Branco,2021-12-27,True,27734.0,True,True,True,True,False,True,False,83672,45,15716,4,4.67,3 a 5 anos,Acima de R$ 15.000,48.6,2,2,1,5,Maduro,False,False
+101,Mariana Sobrenome,4,Agencia 4,Cascavel,2018-06-11,True,26422.0,True,True,False,False,False,True,False,168927,21,3840,2,8.22,Mais de 5 anos,Acima de R$ 15.000,43.4,1,3,1,5,Maduro,True,False
+102,Lucas Sobrenome,3,Agencia 3,Toledo,2021-02-25,True,19691.0,True,True,True,False,False,True,True,211894,6,17379,4,5.51,Mais de 5 anos,Acima de R$ 15.000,65.7,2,3,3,8,Engajado,False,False
+103,Carlos Sobrenome,1,Agencia 1,Cascavel,2023-09-17,True,24370.0,True,True,False,True,True,True,True,17865,8,12726,5,2.95,2 a 3 anos,Acima de R$ 15.000,22.0,2,1,0,3,Em Desenvolvimento,False,True
+104,Bruno Sobrenome,1,Agencia 1,Pato Branco,2022-07-03,True,22046.0,True,True,True,False,False,True,False,184254,24,16957,3,4.16,3 a 5 anos,Acima de R$ 15.000,64.6,1,2,3,6,Maduro,False,False
+105,Amanda Sobrenome,4,Agencia 4,Maringa,2019-01-14,True,19969.0,True,False,True,True,True,True,False,218122,63,17577,4,7.62,Mais de 5 anos,Acima de R$ 15.000,81.6,2,3,3,8,Engajado,False,False
+106,Joao Sobrenome,2,Agencia 2,Pato Branco,2025-05-09,True,23863.0,True,True,False,False,False,False,True,143630,95,5335,2,1.31,Menos de 2 anos,Acima de R$ 15.000,59.2,1,0,2,3,Em Desenvolvimento,True,False
+107,Lucas Sobrenome,5,Agencia 5,Toledo,2020-12-05,True,13925.0,True,False,False,False,True,False,False,211965,86,6222,1,5.73,Mais de 5 anos,R$ 8.001 a R$ 15.000,71.5,0,3,3,6,Maduro,False,False
+108,Juliana Sobrenome,4,Agencia 4,Chapeco,2026-08-14,True,18453.0,True,False,True,True,True,True,True,158594,76,7164,5,0.04,Menos de 2 anos,Acima de R$ 15.000,59.6,2,0,2,4,Em Desenvolvimento,False,False
+109,Lucas Sobrenome,4,Agencia 4,Cascavel,2021-05-04,True,15368.0,True,False,False,False,True,True,True,237159,27,16873,3,5.32,Mais de 5 anos,Acima de R$ 15.000,75.2,1,3,3,7,Engajado,False,False
+110,Mariana Sobrenome,4,Agencia 4,Chapeco,2023-08-25,True,2113.0,True,False,False,True,True,False,True,18393,35,7977,3,3.01,3 a 5 anos,Ate R$ 3.000,23.2,1,2,0,3,Em Desenvolvimento,False,True
+111,Amanda Sobrenome,5,Agencia 5,Maringa,2024-03-07,True,17785.0,True,True,True,True,True,False,False,248649,81,14963,4,2.48,2 a 3 anos,Acima de R$ 15.000,88.3,2,1,3,6,Maduro,False,False
+112,Bruno Sobrenome,2,Agencia 2,Pato Branco,,False,17077.0,True,True,False,True,True,False,False,1301,15,8568,3,,Nao informado,Acima de R$ 15.000,14.5,1,1,0,2,Inicial,False,True
+113,Ricardo Sobrenome,3,Agencia 3,Cascavel,2020-05-24,True,19324.0,True,False,True,False,True,False,False,61460,29,541,2,6.27,Mais de 5 anos,Acima de R$ 15.000,20.4,1,3,0,4,Em Desenvolvimento,True,True
+114,Bruno Sobrenome,4,Agencia 4,Pato Branco,2021-01-17,True,23152.0,True,True,False,False,True,True,True,94114,94,10641,4,5.62,Mais de 5 anos,Acima de R$ 15.000,55.5,2,3,2,7,Engajado,False,False
+115,Juliana Sobrenome,5,Agencia 5,Cascavel,2023-01-10,True,19396.0,True,False,True,False,True,True,False,114398,77,2592,3,3.64,3 a 5 anos,Acima de R$ 15.000,45.1,1,2,1,4,Em Desenvolvimento,False,False
+116,Lucas Sobrenome,1,Agencia 1,Cascavel,2022-09-17,True,25633.0,True,False,False,False,True,True,False,229417,39,7502,2,3.95,3 a 5 anos,Acima de R$ 15.000,65.1,1,2,3,6,Maduro,True,False
+117,Fernanda Sobrenome,2,Agencia 2,Pato Branco,2024-06-23,True,12141.0,True,True,True,False,False,True,True,174823,2,7770,4,2.18,2 a 3 anos,R$ 8.001 a R$ 15.000,45.5,2,1,1,4,Em Desenvolvimento,False,False
+118,Mariana Sobrenome,5,Agencia 5,Toledo,2025-01-07,True,3250.0,True,True,False,True,True,False,False,211737,51,19714,3,1.64,Menos de 2 anos,R$ 3.001 a R$ 8.000,80.6,1,0,3,4,Em Desenvolvimento,False,False
+119,Joao Sobrenome,2,Agencia 2,Toledo,2023-01-28,True,2373.0,True,True,True,False,True,False,True,190871,75,9657,4,3.59,3 a 5 anos,Ate R$ 3.000,69.3,2,2,3,7,Engajado,False,False
+120,Ricardo Sobrenome,1,Agencia 1,Pato Branco,2023-01-09,True,8207.0,True,False,False,True,True,False,True,90112,62,3441,3,3.64,3 a 5 anos,R$ 8.001 a R$ 15.000,37.8,1,2,1,4,Em Desenvolvimento,False,False
+121,Joao Sobrenome,2,Agencia 2,Cascavel,2023-05-20,True,3628.0,True,True,True,False,False,False,True,12677,33,5120,3,3.28,3 a 5 anos,R$ 3.001 a R$ 8.000,17.7,1,2,0,3,Em Desenvolvimento,False,True
+122,Fernanda Sobrenome,4,Agencia 4,Cascavel,2024-10-07,True,21308.0,True,True,False,False,True,True,False,201532,31,10319,3,1.89,Menos de 2 anos,Acima de R$ 15.000,62.1,1,0,2,3,Em Desenvolvimento,False,False
+123,Carlos Sobrenome,3,Agencia 3,Pato Branco,2018-07-03,True,8033.0,True,True,True,False,False,True,True,107235,32,7044,4,8.16,Mais de 5 anos,R$ 8.001 a R$ 15.000,38.1,2,3,1,6,Maduro,False,False
+124,Juliana Sobrenome,2,Agencia 2,Pato Branco,2021-09-08,True,11847.0,True,False,False,True,True,True,False,76841,62,1089,3,4.97,3 a 5 anos,R$ 8.001 a R$ 15.000,32.5,1,2,0,3,Em Desenvolvimento,False,True
+125,Fernanda Sobrenome,2,Agencia 2,Pato Branco,2018-12-05,True,6890.0,True,True,True,False,True,False,False,82360,13,12966,3,7.73,Mais de 5 anos,R$ 3.001 a R$ 8.000,36.5,1,3,0,4,Em Desenvolvimento,False,True
+126,Amanda Sobrenome,5,Agencia 5,Chapeco,2019-04-14,True,29779.0,True,False,True,False,False,False,False,6436,82,13526,1,7.38,Mais de 5 anos,Acima de R$ 15.000,38.7,0,3,1,4,Em Desenvolvimento,True,False
+127,Ricardo Sobrenome,2,Agencia 2,Toledo,,False,18496.0,True,False,False,True,False,True,True,163408,69,4034,3,,Nao informado,Acima de R$ 15.000,55.2,1,1,2,4,Em Desenvolvimento,False,False
+128,Paula Sobrenome,1,Agencia 1,Pato Branco,2019-05-26,True,14844.0,True,True,False,True,False,False,True,126379,52,7313,3,7.26,Mais de 5 anos,R$ 8.001 a R$ 15.000,47.9,1,3,1,5,Maduro,False,False
+129,Carlos Sobrenome,3,Agencia 3,Chapeco,2018-08-17,True,20751.0,True,False,True,False,False,True,False,53074,1,16315,2,8.04,Mais de 5 anos,Acima de R$ 15.000,31.6,1,3,0,4,Em Desenvolvimento,True,True
+130,Mariana Sobrenome,3,Agencia 3,Toledo,2020-03-22,True,9936.0,True,True,False,False,True,True,True,182911,42,393,4,6.44,Mais de 5 anos,R$ 8.001 a R$ 15.000,48.6,2,3,1,6,Maduro,False,False
+131,Juliana Sobrenome,4,Agencia 4,Maringa,2019-04-27,True,6516.0,True,True,True,False,False,False,False,155109,49,10987,2,7.34,Mais de 5 anos,R$ 3.001 a R$ 8.000,58.1,1,3,2,6,Maduro,False,False
+132,Joao Sobrenome,5,Agencia 5,Pato Branco,2018-03-15,True,14507.0,True,True,True,True,True,True,False,66468,18,13124,5,8.46,Mais de 5 anos,R$ 8.001 a R$ 15.000,34.4,2,3,0,5,Maduro,False,True
+133,Juliana Sobrenome,3,Agencia 3,Chapeco,2022-08-14,True,10320.0,True,True,False,False,False,False,False,136128,58,6570,1,4.04,3 a 5 anos,R$ 8.001 a R$ 15.000,49.8,0,2,1,3,Em Desenvolvimento,False,False
+134,Mariana Sobrenome,5,Agencia 5,Chapeco,2026-03-26,True,23318.0,True,True,True,False,False,True,False,155394,63,18024,3,0.43,Menos de 2 anos,Acima de R$ 15.000,69.8,1,0,3,4,Em Desenvolvimento,False,False
+135,Mariana Sobrenome,3,Agencia 3,Toledo,2024-11-19,True,27629.0,True,False,False,False,False,False,True,239423,78,951,1,1.78,Menos de 2 anos,Acima de R$ 15.000,67.9,0,0,3,3,Em Desenvolvimento,True,False
+136,Joao Sobrenome,2,Agencia 2,Chapeco,2020-05-21,True,17226.0,True,True,True,True,False,False,True,150582,28,2559,4,6.28,Mais de 5 anos,Acima de R$ 15.000,40.7,2,3,1,6,Maduro,False,False
+137,Bruno Sobrenome,5,Agencia 5,Cascavel,2021-11-28,True,21246.0,True,True,True,False,True,False,True,122140,93,7167,4,4.75,3 a 5 anos,Acima de R$ 15.000,56.4,2,2,2,6,Maduro,False,False
+138,Carlos Sobrenome,2,Agencia 2,Cascavel,2024-02-04,True,15142.0,True,False,False,True,False,True,False,6967,7,6861,2,2.57,2 a 3 anos,Acima de R$ 15.000,11.7,1,1,0,2,Inicial,True,True
+139,Fernanda Sobrenome,4,Agencia 4,Pato Branco,2023-11-02,True,5592.0,True,False,True,False,True,False,True,177641,21,16776,3,2.83,2 a 3 anos,R$ 3.001 a R$ 8.000,61.7,1,1,2,4,Em Desenvolvimento,False,False
+140,Lucas Sobrenome,4,Agencia 4,Toledo,2020-05-20,True,28617.0,True,False,False,True,False,False,False,8519,55,11071,1,6.28,Mais de 5 anos,Acima de R$ 15.000,30.0,0,3,0,3,Em Desenvolvimento,True,True
+141,Fernanda Sobrenome,1,Agencia 1,Maringa,2019-07-04,True,17005.0,True,True,False,False,True,True,True,77967,14,1254,4,7.16,Mais de 5 anos,Acima de R$ 15.000,21.1,2,3,0,5,Maduro,False,True
+142,Ricardo Sobrenome,5,Agencia 5,Pato Branco,2020-01-05,True,22980.0,True,False,True,False,False,True,False,238714,91,1585,2,6.65,Mais de 5 anos,Acima de R$ 15.000,71.7,1,3,3,7,Engajado,True,False
+143,Lucas Sobrenome,1,Agencia 1,Pato Branco,2020-01-13,True,19605.0,True,False,True,True,False,False,False,42371,93,10643,2,6.63,Mais de 5 anos,Acima de R$ 15.000,45.5,1,3,1,5,Maduro,True,False
+144,Lucas Sobrenome,4,Agencia 4,Toledo,2019-09-17,True,14799.0,True,True,False,False,False,True,True,59395,12,16901,3,6.95,Mais de 5 anos,R$ 8.001 a R$ 15.000,35.9,1,3,0,4,Em Desenvolvimento,False,True
+145,Amanda Sobrenome,2,Agencia 2,Toledo,,False,16441.0,True,False,False,True,True,True,False,9746,82,13888,3,,Nao informado,Acima de R$ 15.000,39.7,1,1,1,3,Em Desenvolvimento,False,False
+146,Bruno Sobrenome,4,Agencia 4,Pato Branco,2026-04-13,True,5561.0,True,True,True,False,False,False,False,205931,97,18991,2,0.38,Menos de 2 anos,R$ 3.001 a R$ 8.000,89.4,1,0,3,4,Em Desenvolvimento,False,False
+147,Paula Sobrenome,2,Agencia 2,Toledo,2024-12-16,True,12036.0,True,False,False,False,True,True,True,226121,54,16057,3,1.7,Menos de 2 anos,R$ 8.001 a R$ 15.000,79.0,1,0,3,4,Em Desenvolvimento,False,False
+148,Amanda Sobrenome,3,Agencia 3,Pato Branco,2023-01-26,True,26168.0,True,True,True,True,False,True,True,160826,13,11795,5,3.59,3 a 5 anos,Acima de R$ 15.000,50.5,2,2,2,6,Maduro,False,False
+149,Joao Sobrenome,3,Agencia 3,Pato Branco,2026-07-02,True,2801.0,True,False,True,False,False,False,False,100949,28,4203,1,0.16,Menos de 2 anos,Ate R$ 3.000,32.3,0,0,0,0,Inicial,False,True
+150,Mariana Sobrenome,3,Agencia 3,Cascavel,2022-10-15,True,5320.0,True,True,True,False,True,True,True,182717,4,8263,5,3.87,3 a 5 anos,R$ 3.001 a R$ 8.000,48.6,2,2,1,5,Maduro,False,False
+151,Paula Sobrenome,3,Agencia 3,Chapeco,2020-10-10,True,28215.0,True,False,False,True,True,False,False,162254,1,4196,2,5.89,Mais de 5 anos,Acima de R$ 15.000,38.4,1,3,1,5,Maduro,True,False
+152,Carlos Sobrenome,5,Agencia 5,Pato Branco,2022-11-12,True,28797.0,True,False,False,True,False,True,False,63650,89,15570,2,3.8,3 a 5 anos,Acima de R$ 15.000,54.3,1,2,2,5,Maduro,True,False
+153,Paula Sobrenome,4,Agencia 4,Toledo,2020-01-26,True,16529.0,True,True,True,False,False,True,False,126088,44,2213,3,6.59,Mais de 5 anos,Acima de R$ 15.000,39.5,1,3,1,5,Maduro,False,False
+154,Ricardo Sobrenome,1,Agencia 1,Pato Branco,2025-02-21,True,,False,False,False,False,True,False,False,136286,42,4180,1,1.52,Menos de 2 anos,Nao informado,43.4,0,0,1,1,Inicial,False,False
+155,Ricardo Sobrenome,3,Agencia 3,Pato Branco,2024-02-22,True,12115.0,True,False,False,False,False,False,False,109650,47,3308,0,2.52,2 a 3 anos,R$ 8.001 a R$ 15.000,38.0,0,1,1,2,Inicial,False,False
+156,Bruno Sobrenome,4,Agencia 4,Chapeco,2023-06-27,True,18120.0,True,False,True,True,False,True,False,108065,12,13085,3,3.18,3 a 5 anos,Acima de R$ 15.000,40.8,1,2,1,4,Em Desenvolvimento,False,False
+157,Bruno Sobrenome,4,Agencia 4,Pato Branco,,False,15271.0,True,False,False,False,False,True,True,145050,31,8019,2,,Nao informado,Acima de R$ 15.000,47.4,1,1,1,3,Em Desenvolvimento,True,False
+158,Amanda Sobrenome,5,Agencia 5,Pato Branco,2018-06-06,True,13274.0,True,False,False,True,False,False,False,122115,43,6079,1,8.23,Mais de 5 anos,R$ 8.001 a R$ 15.000,43.2,0,3,1,4,Em Desenvolvimento,False,False
+159,Amanda Sobrenome,1,Agencia 1,Maringa,,False,13889.0,True,False,False,False,True,True,True,62649,97,12598,3,,Nao informado,R$ 8.001 a R$ 15.000,52.5,1,1,2,4,Em Desenvolvimento,False,False
+160,Lucas Sobrenome,3,Agencia 3,Chapeco,2021-10-01,True,28055.0,True,False,True,True,False,False,True,73574,57,8391,3,4.91,3 a 5 anos,Acima de R$ 15.000,39.8,1,2,1,4,Em Desenvolvimento,False,False
+161,Juliana Sobrenome,3,Agencia 3,Chapeco,2020-03-10,True,24990.0,True,False,True,False,True,True,False,217124,42,17589,3,6.47,Mais de 5 anos,Acima de R$ 15.000,76.5,1,3,3,7,Engajado,False,False
+162,Amanda Sobrenome,5,Agencia 5,Pato Branco,2026-02-06,True,21417.0,True,True,False,False,False,False,True,80775,53,18271,2,0.56,Menos de 2 anos,Acima de R$ 15.000,53.0,1,0,2,3,Em Desenvolvimento,True,False
+163,Lucas Sobrenome,2,Agencia 2,Pato Branco,2018-11-04,True,25169.0,True,True,True,False,True,True,True,96774,78,9779,5,7.82,Mais de 5 anos,Acima de R$ 15.000,51.1,2,3,2,7,Engajado,False,False
+164,Lucas Sobrenome,2,Agencia 2,Chapeco,2022-02-25,True,27484.0,True,False,False,True,True,False,True,118695,82,7513,3,4.51,3 a 5 anos,Acima de R$ 15.000,53.3,1,2,2,5,Maduro,False,False
+165,Ricardo Sobrenome,1,Agencia 1,Pato Branco,2021-03-10,True,12786.0,True,False,False,True,False,True,True,155173,77,9663,3,5.47,Mais de 5 anos,R$ 8.001 a R$ 15.000,62.7,1,3,2,6,Maduro,False,False
+166,Bruno Sobrenome,5,Agencia 5,Pato Branco,2019-02-13,True,22686.0,True,False,True,False,True,False,False,46080,55,17841,2,7.54,Mais de 5 anos,Acima de R$ 15.000,46.2,1,3,1,5,Maduro,True,False
+167,Lucas Sobrenome,4,Agencia 4,Pato Branco,2022-04-07,True,2741.0,True,False,True,False,False,True,False,174992,34,18446,2,4.4,3 a 5 anos,Ate R$ 3.000,66.8,1,2,3,6,Maduro,False,False
+168,Amanda Sobrenome,4,Agencia 4,Cascavel,2018-08-09,True,17638.0,True,False,False,True,True,True,True,239326,71,3497,4,8.06,Mais de 5 anos,Acima de R$ 15.000,69.5,2,3,3,8,Engajado,False,False
+169,Amanda Sobrenome,5,Agencia 5,Maringa,2019-12-07,True,22969.0,True,False,True,True,True,False,True,165758,3,1528,4,6.73,Mais de 5 anos,Acima de R$ 15.000,35.6,2,3,0,5,Maduro,False,True
+170,Paula Sobrenome,2,Agencia 2,Chapeco,2021-11-24,True,24038.0,True,True,True,True,False,True,True,200597,71,8675,5,4.76,3 a 5 anos,Acima de R$ 15.000,69.3,2,2,3,7,Engajado,False,False
+171,Mariana Sobrenome,1,Agencia 1,Maringa,2018-01-03,True,20296.0,True,False,True,False,True,False,True,178686,45,1573,3,8.65,Mais de 5 anos,Acima de R$ 15.000,49.5,1,3,1,5,Maduro,False,False
+172,Mariana Sobrenome,4,Agencia 4,Pato Branco,2019-12-05,True,10424.0,True,True,True,False,True,False,True,199456,78,10750,4,6.74,Mais de 5 anos,R$ 8.001 a R$ 15.000,73.4,2,3,3,8,Engajado,False,False
+173,Fernanda Sobrenome,1,Agencia 1,Cascavel,2021-07-15,True,3213.0,True,False,False,False,True,True,False,110861,81,16015,2,5.13,Mais de 5 anos,R$ 3.001 a R$ 8.000,62.0,1,3,2,6,Maduro,False,False
+174,Fernanda Sobrenome,3,Agencia 3,Pato Branco,,False,11260.0,True,False,False,False,True,True,True,56589,0,3602,3,,Nao informado,R$ 8.001 a R$ 15.000,16.0,1,1,0,2,Inicial,False,True
+175,Bruno Sobrenome,2,Agencia 2,Maringa,2024-05-19,True,2635.0,True,True,False,True,True,False,True,194314,32,16262,4,2.28,2 a 3 anos,Ate R$ 3.000,68.0,2,1,3,6,Maduro,False,False
+176,Amanda Sobrenome,4,Agencia 4,Toledo,2020-06-27,True,6292.0,True,True,False,True,False,False,False,65681,45,7541,2,6.17,Mais de 5 anos,R$ 3.001 a R$ 8.000,34.3,1,3,0,4,Em Desenvolvimento,False,True
+177,Mariana Sobrenome,2,Agencia 2,Toledo,2025-05-15,True,25042.0,True,False,True,True,False,False,True,243775,60,10175,3,1.29,Menos de 2 anos,Acima de R$ 15.000,76.6,1,0,3,4,Em Desenvolvimento,False,False
+178,Juliana Sobrenome,5,Agencia 5,Maringa,2018-11-01,True,27981.0,True,False,True,False,False,False,True,801,57,4924,2,7.83,Mais de 5 anos,Acima de R$ 15.000,20.5,1,3,0,4,Em Desenvolvimento,True,True
+179,Juliana Sobrenome,5,Agencia 5,Toledo,2025-12-28,True,26391.0,True,True,True,False,True,True,False,26050,7,12722,4,0.67,Menos de 2 anos,Acima de R$ 15.000,23.8,2,0,0,2,Inicial,False,True
+180,Bruno Sobrenome,5,Agencia 5,Cascavel,2021-02-26,True,7272.0,True,False,False,False,True,False,True,105403,96,10689,2,5.51,Mais de 5 anos,R$ 3.001 a R$ 8.000,58.3,1,3,2,6,Maduro,False,False
+181,Lucas Sobrenome,4,Agencia 4,Maringa,2023-12-21,True,12621.0,True,True,True,True,False,False,False,223320,74,12007,3,2.69,2 a 3 anos,R$ 8.001 a R$ 15.000,78.0,1,1,3,5,Maduro,False,False
+182,Joao Sobrenome,4,Agencia 4,Maringa,2022-01-04,True,15880.0,True,True,True,False,True,True,True,133430,58,5160,5,4.65,3 a 5 anos,Acima de R$ 15.000,48.0,2,2,1,5,Maduro,False,False
+183,Paula Sobrenome,5,Agencia 5,Pato Branco,2022-02-13,True,16869.0,True,False,True,True,True,True,False,224710,16,382,4,4.54,3 a 5 anos,Acima de R$ 15.000,49.2,2,2,1,5,Maduro,False,False
+184,Juliana Sobrenome,5,Agencia 5,Maringa,2023-02-23,True,9805.0,True,True,True,False,False,True,True,126129,12,12193,4,3.52,3 a 5 anos,R$ 8.001 a R$ 15.000,43.6,2,2,1,5,Maduro,False,False
+185,Ricardo Sobrenome,1,Agencia 1,Pato Branco,2018-02-05,True,25765.0,True,False,True,False,False,False,False,233324,48,10157,1,8.56,Mais de 5 anos,Acima de R$ 15.000,71.8,0,3,3,6,Maduro,True,False
+186,Lucas Sobrenome,2,Agencia 2,Cascavel,2024-09-24,True,11449.0,True,True,True,True,True,True,False,55556,85,6684,5,1.93,Menos de 2 anos,R$ 8.001 a R$ 15.000,40.4,2,0,1,3,Em Desenvolvimento,False,False
+187,Lucas Sobrenome,2,Agencia 2,Cascavel,2020-01-04,True,14201.0,True,True,True,True,False,False,False,7901,62,16207,3,6.65,Mais de 5 anos,R$ 8.001 a R$ 15.000,37.5,1,3,1,5,Maduro,False,False
+188,Ricardo Sobrenome,2,Agencia 2,Pato Branco,2018-06-01,True,8179.0,True,True,False,False,False,False,True,69550,24,3078,2,8.25,Mais de 5 anos,R$ 8.001 a R$ 15.000,23.9,1,3,0,4,Em Desenvolvimento,False,True
+189,Carlos Sobrenome,3,Agencia 3,Pato Branco,2024-06-22,True,24057.0,True,False,False,True,True,True,True,243274,57,4584,4,2.19,2 a 3 anos,Acima de R$ 15.000,68.4,2,1,3,6,Maduro,False,False
+190,Paula Sobrenome,1,Agencia 1,Pato Branco,2023-06-22,True,3055.0,True,False,True,False,False,False,False,150627,64,2979,1,3.19,3 a 5 anos,R$ 3.001 a R$ 8.000,50.0,0,2,1,3,Em Desenvolvimento,False,False
+191,Juliana Sobrenome,4,Agencia 4,Toledo,2022-11-07,True,4091.0,True,False,True,True,False,True,True,224550,66,19215,4,3.81,3 a 5 anos,R$ 3.001 a R$ 8.000,85.5,2,2,3,7,Engajado,False,False
+192,Bruno Sobrenome,1,Agencia 1,Toledo,2018-08-04,True,14375.0,True,False,True,True,False,True,True,149853,0,6264,4,8.07,Mais de 5 anos,R$ 8.001 a R$ 15.000,38.0,2,3,1,6,Maduro,False,False
+193,Lucas Sobrenome,3,Agencia 3,Pato Branco,2022-02-26,True,6200.0,True,True,True,True,True,False,False,180958,14,16515,4,4.51,3 a 5 anos,R$ 3.001 a R$ 8.000,60.9,2,2,2,6,Maduro,False,False
+194,Ricardo Sobrenome,1,Agencia 1,Pato Branco,2026-03-08,True,23775.0,True,True,True,True,False,False,True,199824,64,16774,4,0.48,Menos de 2 anos,Acima de R$ 15.000,77.8,2,0,3,5,Maduro,False,False
+195,Bruno Sobrenome,4,Agencia 4,Cascavel,2022-09-15,True,19418.0,True,False,True,False,True,False,False,120971,46,16480,2,3.96,3 a 5 anos,Acima de R$ 15.000,57.1,1,2,2,5,Maduro,True,False
+196,Fernanda Sobrenome,3,Agencia 3,Maringa,2019-08-10,True,10455.0,True,False,True,True,True,True,False,93565,83,16215,4,7.06,Mais de 5 anos,R$ 8.001 a R$ 15.000,59.4,2,3,2,7,Engajado,False,False
+197,Lucas Sobrenome,1,Agencia 1,Pato Branco,2018-03-06,True,10952.0,True,False,True,False,False,False,True,222861,66,19695,2,8.48,Mais de 5 anos,R$ 8.001 a R$ 15.000,86.0,1,3,3,7,Engajado,False,False
+198,Carlos Sobrenome,2,Agencia 2,Cascavel,2020-08-07,True,26980.0,True,False,False,True,True,False,False,221356,28,51,2,6.06,Mais de 5 anos,Acima de R$ 15.000,51.4,1,3,2,6,Maduro,True,False
+199,Amanda Sobrenome,2,Agencia 2,Cascavel,2023-09-16,True,13060.0,True,False,True,True,True,True,False,203455,39,5335,4,2.95,2 a 3 anos,R$ 8.001 a R$ 15.000,58.0,2,1,2,5,Maduro,False,False
+200,Fernanda Sobrenome,1,Agencia 1,Chapeco,2024-08-05,True,9053.0,True,False,True,False,True,False,True,35982,51,12247,3,2.07,2 a 3 anos,R$ 8.001 a R$ 15.000,36.5,1,1,0,2,Inicial,False,True
+201,Joao Sobrenome,3,Agencia 3,Pato Branco,2019-06-28,True,22961.0,True,True,True,False,True,False,False,21215,32,3791,3,7.17,Mais de 5 anos,Acima de R$ 15.000,18.0,1,3,0,4,Em Desenvolvimento,False,True
+202,Amanda Sobrenome,4,Agencia 4,Pato Branco,2025-10-09,True,26387.0,True,True,True,True,False,False,False,115129,38,5267,3,0.89,Menos de 2 anos,Acima de R$ 15.000,39.4,1,0,1,2,Inicial,False,False
+203,Joao Sobrenome,2,Agencia 2,Cascavel,2026-01-04,True,11233.0,True,False,True,True,False,True,False,224847,23,4791,3,0.65,Menos de 2 anos,R$ 8.001 a R$ 15.000,56.4,1,0,2,3,Em Desenvolvimento,False,False
+204,Lucas Sobrenome,4,Agencia 4,Toledo,2023-10-06,True,10337.0,True,False,False,False,True,False,False,41437,15,6040,1,2.9,2 a 3 anos,R$ 8.001 a R$ 15.000,20.0,0,1,0,1,Inicial,False,True
+205,Joao Sobrenome,1,Agencia 1,Pato Branco,2026-03-23,True,29339.0,True,False,False,False,True,True,True,148699,25,9980,3,0.44,Menos de 2 anos,Acima de R$ 15.000,49.0,1,0,1,2,Inicial,False,False
+206,Juliana Sobrenome,3,Agencia 3,Pato Branco,2024-06-10,True,27975.0,True,False,True,False,True,False,True,155709,6,4182,3,2.22,2 a 3 anos,Acima de R$ 15.000,38.2,1,1,1,3,Em Desenvolvimento,False,False
+207,Mariana Sobrenome,5,Agencia 5,Toledo,2026-02-07,True,13829.0,True,True,False,True,True,True,True,165981,61,1128,5,0.56,Menos de 2 anos,R$ 8.001 a R$ 15.000,49.6,2,0,1,3,Em Desenvolvimento,False,False
+208,Paula Sobrenome,5,Agencia 5,Pato Branco,2021-03-28,True,9749.0,True,True,True,False,True,False,False,59215,63,17772,3,5.42,Mais de 5 anos,R$ 8.001 a R$ 15.000,49.9,1,3,1,5,Maduro,False,False
+209,Lucas Sobrenome,1,Agencia 1,Cascavel,2021-05-02,True,11643.0,True,False,False,False,False,True,False,142140,9,19440,1,5.33,Mais de 5 anos,R$ 8.001 a R$ 15.000,55.0,0,3,2,5,Maduro,False,False
+210,Amanda Sobrenome,1,Agencia 1,Pato Branco,2026-03-20,True,23173.0,True,True,True,False,False,True,False,1914,91,3140,3,0.45,Menos de 2 anos,Acima de R$ 15.000,26.5,1,0,0,1,Inicial,False,True
+211,Amanda Sobrenome,4,Agencia 4,Toledo,2020-07-10,True,5642.0,True,False,True,True,True,True,True,40589,94,17933,5,6.14,Mais de 5 anos,R$ 3.001 a R$ 8.000,54.3,2,3,2,7,Engajado,False,False
+212,Joao Sobrenome,3,Agencia 3,Pato Branco,2019-03-07,True,8396.0,True,True,True,True,True,False,True,58486,43,3805,5,7.48,Mais de 5 anos,R$ 8.001 a R$ 15.000,27.5,2,3,0,5,Maduro,False,True
+213,Joao Sobrenome,1,Agencia 1,Cascavel,2023-02-07,True,3582.0,True,True,True,True,True,True,True,235914,86,4746,6,3.56,3 a 5 anos,R$ 3.001 a R$ 8.000,74.0,3,2,3,8,Engajado,False,False
+214,Ricardo Sobrenome,2,Agencia 2,Pato Branco,2022-03-21,True,27663.0,True,True,True,False,False,False,False,186818,61,2642,2,4.44,3 a 5 anos,Acima de R$ 15.000,56.6,1,2,2,5,Maduro,True,False
+215,Ricardo Sobrenome,1,Agencia 1,Pato Branco,2026-06-24,True,11936.0,True,True,False,True,True,True,True,178540,30,8987,5,0.18,Menos de 2 anos,R$ 8.001 a R$ 15.000,55.0,2,0,2,4,Em Desenvolvimento,False,False
+216,Joao Sobrenome,1,Agencia 1,Chapeco,2026-08-05,True,15343.0,True,True,False,False,False,True,False,176271,16,14750,2,0.07,Menos de 2 anos,Acima de R$ 15.000,57.8,1,0,2,3,Em Desenvolvimento,True,False
+217,Fernanda Sobrenome,2,Agencia 2,Chapeco,2020-05-13,True,26565.0,True,False,False,True,True,False,False,178180,89,5658,2,6.3,Mais de 5 anos,Acima de R$ 15.000,64.8,1,3,3,7,Engajado,True,False
+218,Juliana Sobrenome,1,Agencia 1,Toledo,2020-04-20,True,20379.0,True,False,True,True,False,True,True,91758,8,4324,4,6.36,Mais de 5 anos,Acima de R$ 15.000,26.2,2,3,0,5,Maduro,False,True
+219,Mariana Sobrenome,4,Agencia 4,Toledo,2022-10-24,True,25669.0,True,False,False,False,True,True,True,197749,99,19605,3,3.85,3 a 5 anos,Acima de R$ 15.000,89.5,1,2,3,6,Maduro,False,False
+220,Mariana Sobrenome,3,Agencia 3,Toledo,2021-10-15,True,21417.0,True,True,False,True,True,True,True,7558,35,19530,5,4.87,3 a 5 anos,Acima de R$ 15.000,35.1,2,2,0,4,Em Desenvolvimento,False,True
+221,Carlos Sobrenome,2,Agencia 2,Chapeco,2025-08-15,True,8834.0,True,False,False,False,False,True,True,225702,100,4991,2,1.04,Menos de 2 anos,R$ 8.001 a R$ 15.000,76.3,1,0,3,4,Em Desenvolvimento,False,False
+222,Joao Sobrenome,1,Agencia 1,Maringa,2024-01-23,True,20924.0,True,True,True,False,True,True,True,51108,96,12939,5,2.6,2 a 3 anos,Acima de R$ 15.000,50.8,2,1,2,5,Maduro,False,False
+223,Ricardo Sobrenome,2,Agencia 2,Pato Branco,2021-01-08,True,27170.0,True,False,False,False,True,False,True,9384,37,3894,2,5.64,Mais de 5 anos,Acima de R$ 15.000,16.2,1,3,0,4,Em Desenvolvimento,True,True
+224,Joao Sobrenome,3,Agencia 3,Pato Branco,2020-04-26,True,24776.0,True,False,True,True,False,True,False,169297,77,4744,3,6.34,Mais de 5 anos,Acima de R$ 15.000,58.8,1,3,2,6,Maduro,False,False
+225,Lucas Sobrenome,2,Agencia 2,Chapeco,2023-10-17,True,22651.0,True,True,False,True,True,True,False,60569,4,19981,4,2.87,2 a 3 anos,Acima de R$ 15.000,38.1,2,1,1,4,Em Desenvolvimento,False,False
+226,Mariana Sobrenome,3,Agencia 3,Pato Branco,2024-01-09,True,7679.0,True,False,False,True,True,True,True,146188,16,16355,4,2.64,2 a 3 anos,R$ 3.001 a R$ 8.000,53.9,2,1,2,5,Maduro,False,False
+227,Joao Sobrenome,1,Agencia 1,Maringa,2024-01-15,True,28131.0,True,True,True,True,False,True,True,12436,14,18863,5,2.62,2 a 3 anos,Acima de R$ 15.000,29.8,2,1,0,3,Em Desenvolvimento,False,True
+228,Joao Sobrenome,1,Agencia 1,Maringa,,False,7248.0,True,True,True,False,True,False,False,106018,41,3885,3,,Nao informado,R$ 3.001 a R$ 8.000,36.3,1,1,0,2,Inicial,False,True
+229,Lucas Sobrenome,3,Agencia 3,Pato Branco,2022-03-09,True,9752.0,True,True,True,False,True,False,True,37730,49,1182,4,4.48,3 a 5 anos,R$ 8.001 a R$ 15.000,22.3,2,2,0,4,Em Desenvolvimento,False,True
+230,Joao Sobrenome,2,Agencia 2,Toledo,2020-07-27,True,13933.0,True,True,True,False,False,True,True,114721,0,2509,4,6.09,Mais de 5 anos,R$ 8.001 a R$ 15.000,26.3,2,3,0,5,Maduro,False,True
+231,Carlos Sobrenome,2,Agencia 2,Cascavel,2025-11-13,True,,False,False,False,False,True,True,True,146395,81,19635,3,0.79,Menos de 2 anos,Nao informado,74.2,1,0,3,4,Em Desenvolvimento,False,False
+232,Juliana Sobrenome,1,Agencia 1,Pato Branco,2024-02-17,True,21999.0,True,False,False,False,False,True,True,132967,3,12840,2,2.53,2 a 3 anos,Acima de R$ 15.000,43.7,1,1,1,3,Em Desenvolvimento,True,False
+233,Joao Sobrenome,2,Agencia 2,Maringa,2021-12-12,True,7483.0,True,True,True,True,False,True,True,172423,45,14268,5,4.71,3 a 5 anos,R$ 3.001 a R$ 8.000,64.1,2,2,3,7,Engajado,False,False
+234,Fernanda Sobrenome,3,Agencia 3,Cascavel,2023-12-20,True,26480.0,True,False,True,False,True,True,True,201242,4,18792,4,2.69,2 a 3 anos,Acima de R$ 15.000,65.3,2,1,3,6,Maduro,False,False
+235,Joao Sobrenome,5,Agencia 5,Toledo,2021-09-22,True,20189.0,True,True,True,True,False,True,True,110771,45,3359,5,4.94,3 a 5 anos,Acima de R$ 15.000,37.6,2,2,1,5,Maduro,False,False
+236,Mariana Sobrenome,5,Agencia 5,Pato Branco,2019-04-09,True,13371.0,True,True,False,False,True,True,True,117244,54,6364,4,7.39,Mais de 5 anos,R$ 8.001 a R$ 15.000,44.9,2,3,1,6,Maduro,False,False
+237,Paula Sobrenome,1,Agencia 1,Cascavel,2021-08-04,True,15539.0,True,True,True,True,True,True,False,100113,40,14389,5,5.07,Mais de 5 anos,Acima de R$ 15.000,48.2,2,3,1,6,Maduro,False,False
+238,Joao Sobrenome,4,Agencia 4,Pato Branco,2024-11-20,True,11870.0,True,False,True,False,True,True,True,207751,77,4005,4,1.77,Menos de 2 anos,R$ 8.001 a R$ 15.000,65.9,2,0,3,5,Maduro,False,False
+239,Lucas Sobrenome,1,Agencia 1,Chapeco,2026-02-25,True,19012.0,True,True,False,True,True,False,True,18498,26,2428,4,0.51,Menos de 2 anos,Acima de R$ 15.000,13.8,2,0,0,2,Inicial,False,True
+240,Amanda Sobrenome,3,Agencia 3,Toledo,2023-02-19,True,9081.0,True,True,False,False,False,False,True,70982,95,8403,2,3.53,3 a 5 anos,R$ 8.001 a R$ 15.000,48.7,1,2,1,4,Em Desenvolvimento,False,False
+241,Fernanda Sobrenome,3,Agencia 3,Cascavel,2023-07-05,True,21135.0,True,True,False,False,True,False,True,247546,7,9872,3,3.15,3 a 5 anos,Acima de R$ 15.000,63.7,1,2,3,6,Maduro,False,False
+242,Juliana Sobrenome,3,Agencia 3,Maringa,2026-06-26,True,19234.0,True,False,True,False,False,True,False,72159,86,7788,2,0.18,Menos de 2 anos,Acima de R$ 15.000,45.9,1,0,1,2,Inicial,True,False
+243,Juliana Sobrenome,2,Agencia 2,Pato Branco,2019-05-24,True,26032.0,True,False,False,True,False,True,False,22442,69,18511,2,7.27,Mais de 5 anos,Acima de R$ 15.000,46.0,1,3,1,5,Maduro,True,False
+244,Fernanda Sobrenome,1,Agencia 1,Pato Branco,2018-10-18,True,7649.0,True,False,True,True,False,False,True,90861,78,18476,3,7.87,Mais de 5 anos,R$ 3.001 a R$ 8.000,60.6,1,3,2,6,Maduro,False,False
+245,Lucas Sobrenome,3,Agencia 3,Pato Branco,2018-01-21,True,28666.0,True,True,True,True,True,False,True,62902,13,15122,5,8.61,Mais de 5 anos,Acima de R$ 15.000,34.9,2,3,0,5,Maduro,False,True
+246,Juliana Sobrenome,5,Agencia 5,Pato Branco,2020-07-17,True,6779.0,True,True,True,True,False,True,True,40937,57,5582,5,6.12,Mais de 5 anos,R$ 3.001 a R$ 8.000,30.2,2,3,0,5,Maduro,False,True
+247,Amanda Sobrenome,2,Agencia 2,Cascavel,2025-05-23,True,27035.0,True,True,False,True,True,True,False,75273,0,19792,4,1.27,Menos de 2 anos,Acima de R$ 15.000,40.4,2,0,1,3,Em Desenvolvimento,False,False
+248,Fernanda Sobrenome,5,Agencia 5,Chapeco,2019-10-06,True,17435.0,True,True,True,False,False,True,False,161067,17,14179,3,6.9,Mais de 5 anos,Acima de R$ 15.000,54.6,1,3,2,6,Maduro,False,False
+249,Fernanda Sobrenome,5,Agencia 5,Pato Branco,2025-11-02,True,13801.0,True,True,False,True,True,True,True,217452,88,8116,5,0.82,Menos de 2 anos,R$ 8.001 a R$ 15.000,75.6,2,0,3,5,Maduro,False,False
+250,Carlos Sobrenome,5,Agencia 5,Chapeco,2021-10-19,True,15845.0,True,False,False,True,False,False,True,135309,19,196,2,4.86,3 a 5 anos,Acima de R$ 15.000,31.8,1,2,0,3,Em Desenvolvimento,True,True
+251,Lucas Sobrenome,4,Agencia 4,Pato Branco,2023-08-08,True,18175.0,True,True,True,True,False,True,True,181201,72,2020,5,3.06,3 a 5 anos,Acima de R$ 15.000,56.9,2,2,2,6,Maduro,False,False
+252,Juliana Sobrenome,2,Agencia 2,Pato Branco,2018-08-13,True,28285.0,True,False,True,True,True,False,False,7242,95,13873,3,8.05,Mais de 5 anos,Acima de R$ 15.000,42.6,1,3,1,5,Maduro,False,False
+253,Joao Sobrenome,3,Agencia 3,Pato Branco,2024-09-15,True,13920.0,True,True,False,False,True,False,True,91508,94,9171,3,1.95,Menos de 2 anos,R$ 8.001 a R$ 15.000,53.3,1,0,2,3,Em Desenvolvimento,False,False
+254,Mariana Sobrenome,2,Agencia 2,Pato Branco,2022-01-06,True,29227.0,True,True,False,False,False,False,False,16172,24,4395,1,4.65,3 a 5 anos,Acima de R$ 15.000,15.0,0,2,0,2,Inicial,True,True
+255,Ricardo Sobrenome,3,Agencia 3,Pato Branco,2023-07-15,True,16074.0,True,False,True,True,False,False,False,21285,28,13818,2,3.13,3 a 5 anos,Acima de R$ 15.000,29.5,1,2,0,3,Em Desenvolvimento,True,True
+256,Carlos Sobrenome,1,Agencia 1,Cascavel,2018-01-17,True,28974.0,True,True,True,False,False,False,False,160665,12,5121,2,8.62,Mais de 5 anos,Acima de R$ 15.000,41.7,1,3,1,5,Maduro,True,False
+257,Bruno Sobrenome,5,Agencia 5,Pato Branco,,False,28012.0,True,True,True,True,True,False,True,246662,69,10186,5,,Nao informado,Acima de R$ 15.000,79.6,2,1,3,6,Maduro,False,False
+258,Carlos Sobrenome,3,Agencia 3,Chapeco,2019-10-27,True,17004.0,True,False,False,True,False,True,True,152003,97,6049,3,6.84,Mais de 5 anos,Acima de R$ 15.000,62.1,1,3,2,6,Maduro,False,False
+259,Carlos Sobrenome,1,Agencia 1,Cascavel,2024-07-08,True,10931.0,True,False,False,True,True,True,False,126719,88,8789,3,2.14,2 a 3 anos,R$ 8.001 a R$ 15.000,58.3,1,1,2,4,Em Desenvolvimento,False,False
+260,Ricardo Sobrenome,1,Agencia 1,Chapeco,2025-04-14,True,7453.0,True,True,True,True,False,False,False,154771,100,10132,3,1.38,Menos de 2 anos,R$ 3.001 a R$ 8.000,69.1,1,0,3,4,Em Desenvolvimento,False,False
+261,Carlos Sobrenome,4,Agencia 4,Chapeco,2021-02-16,True,7303.0,True,False,True,True,False,True,False,236392,36,1187,3,5.53,Mais de 5 anos,R$ 3.001 a R$ 8.000,57.4,1,3,2,6,Maduro,False,False
+262,Fernanda Sobrenome,2,Agencia 2,Pato Branco,2018-11-18,True,18607.0,True,True,False,False,True,False,True,233385,65,15190,3,7.78,Mais de 5 anos,Acima de R$ 15.000,82.0,1,3,3,7,Engajado,False,False
+263,Lucas Sobrenome,4,Agencia 4,Pato Branco,2023-12-13,True,15515.0,True,False,False,True,False,True,False,150265,93,16750,2,2.71,2 a 3 anos,Acima de R$ 15.000,74.2,1,1,3,5,Maduro,True,False
+264,Joao Sobrenome,3,Agencia 3,Maringa,2018-01-07,True,4160.0,True,True,True,False,False,False,False,215102,17,6858,2,8.64,Mais de 5 anos,R$ 3.001 a R$ 8.000,55.9,1,3,2,6,Maduro,False,False
+265,Juliana Sobrenome,4,Agencia 4,Cascavel,,False,7361.0,True,False,True,False,True,False,False,199562,69,14805,2,,Nao informado,R$ 3.001 a R$ 8.000,76.4,1,1,3,5,Maduro,False,False
+266,Amanda Sobrenome,2,Agencia 2,Chapeco,2023-08-09,True,22444.0,True,True,False,False,True,True,True,127494,83,9021,4,3.06,3 a 5 anos,Acima de R$ 15.000,57.5,2,2,2,6,Maduro,False,False
+267,Lucas Sobrenome,2,Agencia 2,Pato Branco,2019-03-15,True,5843.0,True,False,False,True,False,False,False,170220,4,17219,1,7.46,Mais de 5 anos,R$ 3.001 a R$ 8.000,56.4,0,3,2,5,Maduro,False,False
+268,Paula Sobrenome,3,Agencia 3,Pato Branco,2024-02-14,True,11165.0,True,False,False,True,True,False,True,235537,66,15929,3,2.54,2 a 3 anos,R$ 8.001 a R$ 15.000,83.4,1,1,3,5,Maduro,False,False
+269,Mariana Sobrenome,1,Agencia 1,Maringa,2021-04-20,True,25880.0,True,True,False,True,True,True,True,137791,75,19760,5,5.36,Mais de 5 anos,Acima de R$ 15.000,70.8,2,3,3,8,Engajado,False,False
+270,Mariana Sobrenome,5,Agencia 5,Maringa,2023-07-07,True,24522.0,True,False,True,False,False,False,False,243401,62,1148,1,3.15,3 a 5 anos,Acima de R$ 15.000,65.1,0,2,3,5,Maduro,True,False
+271,Fernanda Sobrenome,3,Agencia 3,Chapeco,2023-08-21,True,5103.0,True,False,True,True,True,True,False,147625,49,13563,4,3.03,3 a 5 anos,R$ 3.001 a R$ 8.000,59.6,2,2,2,6,Maduro,False,False
+272,Amanda Sobrenome,4,Agencia 4,Pato Branco,2023-04-01,True,18500.0,True,True,True,False,False,True,False,25252,44,9583,3,3.41,3 a 5 anos,Acima de R$ 15.000,29.2,1,2,0,3,Em Desenvolvimento,False,True
+273,Paula Sobrenome,4,Agencia 4,Chapeco,2020-02-01,True,7695.0,True,True,False,False,True,False,False,107725,76,19732,2,6.58,Mais de 5 anos,R$ 3.001 a R$ 8.000,64.9,1,3,3,7,Engajado,False,False
+274,Fernanda Sobrenome,1,Agencia 1,Pato Branco,2018-09-03,True,3217.0,True,True,False,False,False,True,False,17525,8,16835,2,7.99,Mais de 5 anos,R$ 3.001 a R$ 8.000,26.9,1,3,0,4,Em Desenvolvimento,False,True
+275,Fernanda Sobrenome,1,Agencia 1,Maringa,2018-08-15,True,14497.0,True,False,True,True,True,True,True,20315,61,6483,5,8.04,Mais de 5 anos,R$ 8.001 a R$ 15.000,28.1,2,3,0,5,Maduro,False,True
+276,Fernanda Sobrenome,4,Agencia 4,Pato Branco,2018-03-05,True,3586.0,True,False,True,True,False,False,False,185172,32,19304,2,8.49,Mais de 5 anos,R$ 3.001 a R$ 8.000,70.2,1,3,3,7,Engajado,False,False
+277,Amanda Sobrenome,4,Agencia 4,Chapeco,2021-09-16,True,24032.0,True,True,False,True,True,False,True,153332,20,1357,4,4.95,3 a 5 anos,Acima de R$ 15.000,37.2,2,2,1,5,Maduro,False,False
+278,Juliana Sobrenome,1,Agencia 1,Toledo,2019-06-16,True,18307.0,True,False,False,True,False,False,True,75273,58,3466,2,7.21,Mais de 5 anos,Acima de R$ 15.000,34.0,1,3,0,4,Em Desenvolvimento,True,True
+279,Fernanda Sobrenome,2,Agencia 2,Toledo,2026-08-12,True,22205.0,True,False,False,False,True,True,True,21722,25,62,3,0.05,Menos de 2 anos,Acima de R$ 15.000,11.7,1,0,0,1,Inicial,False,True
+280,Fernanda Sobrenome,3,Agencia 3,Cascavel,2019-06-08,True,8468.0,True,False,True,False,False,True,False,70756,96,14832,2,7.23,Mais de 5 anos,R$ 8.001 a R$ 15.000,57.1,1,3,2,6,Maduro,False,False
+281,Bruno Sobrenome,1,Agencia 1,Pato Branco,2020-12-28,True,28662.0,True,False,False,True,False,False,True,60804,23,4622,2,5.67,Mais de 5 anos,Acima de R$ 15.000,23.5,1,3,0,4,Em Desenvolvimento,True,True
+282,Paula Sobrenome,3,Agencia 3,Pato Branco,2022-07-16,True,6441.0,True,True,False,False,True,False,True,145046,91,1416,3,4.12,3 a 5 anos,R$ 3.001 a R$ 8.000,53.2,1,2,2,5,Maduro,False,False
+283,Lucas Sobrenome,1,Agencia 1,Pato Branco,2021-07-26,True,29575.0,True,True,True,False,True,True,True,124545,28,4400,5,5.1,Mais de 5 anos,Acima de R$ 15.000,38.0,2,3,1,6,Maduro,False,False
+284,Carlos Sobrenome,2,Agencia 2,Pato Branco,2019-12-16,True,22083.0,True,True,True,True,False,False,False,67473,65,10694,3,6.7,Mais de 5 anos,Acima de R$ 15.000,43.8,1,3,1,5,Maduro,False,False
+285,Ricardo Sobrenome,5,Agencia 5,Pato Branco,2019-11-27,True,6005.0,True,False,True,True,False,True,False,115920,100,3029,3,6.76,Mais de 5 anos,R$ 3.001 a R$ 8.000,51.7,1,3,2,6,Maduro,False,False
+286,Juliana Sobrenome,2,Agencia 2,Chapeco,2023-04-06,True,21986.0,True,True,True,True,False,False,False,115288,92,621,3,3.4,3 a 5 anos,Acima de R$ 15.000,46.4,1,2,1,4,Em Desenvolvimento,False,False
+287,Ricardo Sobrenome,2,Agencia 2,Pato Branco,2025-07-06,True,8440.0,True,False,True,False,False,False,False,72900,52,12683,1,1.15,Menos de 2 anos,R$ 8.001 a R$ 15.000,44.2,0,0,1,1,Inicial,False,False
+288,Juliana Sobrenome,2,Agencia 2,Cascavel,2020-01-28,True,14041.0,True,True,False,False,True,False,False,207575,89,9739,2,6.59,Mais de 5 anos,R$ 8.001 a R$ 15.000,76.2,1,3,3,7,Engajado,False,False
+289,Paula Sobrenome,4,Agencia 4,Pato Branco,2020-01-28,True,6722.0,True,True,False,True,True,True,False,65103,55,7881,4,6.59,Mais de 5 anos,R$ 3.001 a R$ 8.000,36.8,2,3,0,5,Maduro,False,True
+290,Joao Sobrenome,5,Agencia 5,Pato Branco,2026-01-18,True,13687.0,True,False,False,True,True,True,True,18603,87,8815,4,0.61,Menos de 2 anos,R$ 8.001 a R$ 15.000,36.8,2,0,0,2,Inicial,False,True
+291,Lucas Sobrenome,5,Agencia 5,Cascavel,2026-03-09,True,19960.0,True,False,True,True,True,False,False,84745,16,8886,3,0.48,Menos de 2 anos,Acima de R$ 15.000,32.7,1,0,0,1,Inicial,False,True
+292,Mariana Sobrenome,2,Agencia 2,Pato Branco,2022-01-02,True,5798.0,True,True,False,False,True,True,False,183501,91,9107,3,4.66,3 a 5 anos,R$ 3.001 a R$ 8.000,71.4,1,2,3,6,Maduro,False,False
+293,Fernanda Sobrenome,4,Agencia 4,Maringa,2025-07-22,True,4723.0,True,False,True,True,True,True,False,229068,10,9629,4,1.11,Menos de 2 anos,R$ 3.001 a R$ 8.000,60.1,2,0,2,4,Em Desenvolvimento,False,False
+294,Ricardo Sobrenome,2,Agencia 2,Toledo,2022-10-18,True,20722.0,True,False,False,False,True,False,True,40736,13,9349,2,3.87,3 a 5 anos,Acima de R$ 15.000,23.8,1,2,0,3,Em Desenvolvimento,True,True
+295,Bruno Sobrenome,2,Agencia 2,Pato Branco,2019-09-27,True,23989.0,True,False,False,True,False,False,False,174452,56,3286,1,6.92,Mais de 5 anos,Acima de R$ 15.000,53.0,0,3,2,5,Maduro,True,False
+296,Juliana Sobrenome,1,Agencia 1,Chapeco,2024-11-09,True,27897.0,True,False,False,False,True,True,False,65272,1,8836,2,1.8,Menos de 2 anos,Acima de R$ 15.000,24.5,1,0,0,1,Inicial,True,True
+297,Amanda Sobrenome,3,Agencia 3,Toledo,2025-01-08,True,3160.0,True,False,False,True,True,False,True,95446,88,17142,3,1.64,Menos de 2 anos,R$ 3.001 a R$ 8.000,62.2,1,0,2,3,Em Desenvolvimento,False,False
+298,Carlos Sobrenome,3,Agencia 3,Cascavel,2024-08-19,True,9858.0,True,False,False,True,False,True,True,178498,38,6910,3,2.03,2 a 3 anos,R$ 8.001 a R$ 15.000,54.2,1,1,2,4,Em Desenvolvimento,False,False
+299,Mariana Sobrenome,1,Agencia 1,Pato Branco,2022-03-25,True,27305.0,True,True,False,False,False,True,False,38398,5,14462,2,4.43,3 a 5 anos,Acima de R$ 15.000,27.8,1,2,0,3,Em Desenvolvimento,True,True
+300,Amanda Sobrenome,2,Agencia 2,Toledo,2023-01-23,True,12740.0,True,False,True,True,True,False,False,29925,85,1597,3,3.6,3 a 5 anos,R$ 8.001 a R$ 15.000,29.2,1,2,0,3,Em Desenvolvimento,False,True
+301,Ricardo Sobrenome,2,Agencia 2,Maringa,2025-09-15,True,6645.0,True,True,False,False,True,False,True,154254,69,3465,3,0.96,Menos de 2 anos,R$ 3.001 a R$ 8.000,52.5,1,0,2,3,Em Desenvolvimento,False,False
+302,Ricardo Sobrenome,4,Agencia 4,Pato Branco,2023-05-02,True,27802.0,True,False,False,True,True,True,True,132843,24,6622,4,3.33,3 a 5 anos,Acima de R$ 15.000,40.7,2,2,1,5,Maduro,False,False
+303,Ricardo Sobrenome,5,Agencia 5,Pato Branco,2019-08-15,True,23284.0,True,False,False,True,True,False,False,224268,7,12741,2,7.04,Mais de 5 anos,Acima de R$ 15.000,62.5,1,3,2,6,Maduro,True,False
+304,Fernanda Sobrenome,4,Agencia 4,Maringa,2019-02-19,True,4956.0,True,True,False,False,True,True,False,105095,87,19301,3,7.53,Mais de 5 anos,R$ 3.001 a R$ 8.000,66.3,1,3,3,7,Engajado,False,False
+305,Juliana Sobrenome,3,Agencia 3,Chapeco,2020-12-26,True,14886.0,True,True,True,True,True,False,True,174571,9,4314,5,5.68,Mais de 5 anos,R$ 8.001 a R$ 15.000,42.7,2,3,1,6,Maduro,False,False
+306,Juliana Sobrenome,5,Agencia 5,Pato Branco,2022-05-21,True,3438.0,True,False,True,True,False,True,True,66142,95,8334,4,4.28,3 a 5 anos,R$ 3.001 a R$ 8.000,47.3,2,2,1,5,Maduro,False,False
+307,Joao Sobrenome,1,Agencia 1,Pato Branco,2022-06-11,True,7336.0,True,True,False,True,False,True,False,83863,47,1937,3,4.22,3 a 5 anos,R$ 3.001 a R$ 8.000,31.8,1,2,0,3,Em Desenvolvimento,False,True
+308,Lucas Sobrenome,2,Agencia 2,Toledo,2023-01-13,True,,False,False,True,False,True,False,True,108536,95,15715,3,3.63,3 a 5 anos,Nao informado,64.9,1,2,3,6,Maduro,False,False
+309,Ricardo Sobrenome,1,Agencia 1,Pato Branco,2018-01-11,True,4056.0,True,True,False,True,True,True,True,243651,92,6227,5,8.63,Mais de 5 anos,R$ 3.001 a R$ 8.000,78.7,2,3,3,8,Engajado,False,False
+310,Ricardo Sobrenome,2,Agencia 2,Pato Branco,2020-03-04,True,18173.0,True,False,False,False,True,False,False,212236,22,1241,1,6.49,Mais de 5 anos,Acima de R$ 15.000,49.4,0,3,1,4,Em Desenvolvimento,True,False
+311,Lucas Sobrenome,1,Agencia 1,Chapeco,2022-11-03,True,17576.0,True,False,False,True,False,True,False,247888,6,9397,2,3.82,3 a 5 anos,Acima de R$ 15.000,62.6,1,2,2,5,Maduro,True,False
+312,Ricardo Sobrenome,1,Agencia 1,Chapeco,2019-04-19,True,23840.0,True,True,False,False,False,True,True,194284,25,10579,3,7.36,Mais de 5 anos,Acima de R$ 15.000,59.0,1,3,2,6,Maduro,False,False
+313,Mariana Sobrenome,4,Agencia 4,Pato Branco,2024-06-12,True,22666.0,True,False,False,False,False,False,True,80089,100,11370,1,2.21,2 a 3 anos,Acima de R$ 15.000,55.9,0,1,2,3,Em Desenvolvimento,True,False
+314,Mariana Sobrenome,2,Agencia 2,Cascavel,2019-06-21,True,7436.0,True,False,True,True,True,True,True,249864,99,9661,5,7.19,Mais de 5 anos,R$ 3.001 a R$ 8.000,86.8,2,3,3,8,Engajado,False,False
+315,Paula Sobrenome,2,Agencia 2,Pato Branco,2021-10-09,True,10213.0,True,False,True,False,True,False,True,199077,85,19673,3,4.89,3 a 5 anos,R$ 8.001 a R$ 15.000,86.0,1,2,3,6,Maduro,False,False
+316,Lucas Sobrenome,5,Agencia 5,Toledo,2021-07-25,True,29933.0,True,True,True,True,False,True,True,95727,70,15702,5,5.1,Mais de 5 anos,Acima de R$ 15.000,56.4,2,3,2,7,Engajado,False,False
+317,Ricardo Sobrenome,1,Agencia 1,Pato Branco,2022-03-08,True,10755.0,True,True,False,False,False,False,False,222401,96,12074,1,4.48,3 a 5 anos,R$ 8.001 a R$ 15.000,83.3,0,2,3,5,Maduro,False,False
+318,Bruno Sobrenome,2,Agencia 2,Cascavel,2022-12-09,True,29933.0,True,True,True,True,True,True,False,211121,80,14397,5,3.72,3 a 5 anos,Acima de R$ 15.000,80.3,2,2,3,7,Engajado,False,False
+319,Bruno Sobrenome,4,Agencia 4,Pato Branco,2021-01-21,True,25428.0,True,False,False,True,False,False,False,103157,39,10687,1,5.6,Mais de 5 anos,Acima de R$ 15.000,44.2,0,3,1,4,Em Desenvolvimento,True,False
+320,Mariana Sobrenome,4,Agencia 4,Toledo,2025-04-06,True,8291.0,True,False,True,False,True,True,False,101177,11,19066,3,1.4,Menos de 2 anos,R$ 8.001 a R$ 15.000,46.5,1,0,1,2,Inicial,False,False
+321,Juliana Sobrenome,5,Agencia 5,Chapeco,2019-04-24,True,7323.0,True,False,False,True,True,False,True,127838,47,16766,3,7.35,Mais de 5 anos,R$ 3.001 a R$ 8.000,59.1,1,3,2,6,Maduro,False,False
+322,Bruno Sobrenome,3,Agencia 3,Maringa,2023-03-15,True,7059.0,True,False,False,True,True,False,True,44586,38,13391,3,3.46,3 a 5 anos,R$ 3.001 a R$ 8.000,36.1,1,2,0,3,Em Desenvolvimento,False,True
+323,Carlos Sobrenome,2,Agencia 2,Pato Branco,2024-05-14,True,23963.0,True,True,False,True,False,True,False,226274,39,13870,3,2.29,2 a 3 anos,Acima de R$ 15.000,72.6,1,1,3,5,Maduro,False,False
+324,Ricardo Sobrenome,5,Agencia 5,Pato Branco,2023-08-11,True,7853.0,True,False,False,False,False,True,False,207461,0,17492,1,3.05,3 a 5 anos,R$ 3.001 a R$ 8.000,63.7,0,2,3,5,Maduro,False,False
+325,Carlos Sobrenome,5,Agencia 5,Pato Branco,2026-02-01,True,4379.0,True,False,True,True,False,True,True,66770,0,9589,4,0.57,Menos de 2 anos,R$ 3.001 a R$ 8.000,25.7,2,0,0,2,Inicial,False,True
+326,Mariana Sobrenome,1,Agencia 1,Pato Branco,2026-04-09,True,17603.0,True,True,False,False,False,True,True,66137,94,9329,3,0.39,Menos de 2 anos,Acima de R$ 15.000,48.2,1,0,1,2,Inicial,False,False
+327,Joao Sobrenome,4,Agencia 4,Pato Branco,2026-02-19,True,11022.0,True,False,False,False,True,True,False,222117,33,5253,2,0.53,Menos de 2 anos,R$ 8.001 a R$ 15.000,59.4,1,0,2,3,Em Desenvolvimento,False,False
+328,Joao Sobrenome,2,Agencia 2,Pato Branco,2019-09-05,True,6073.0,True,True,False,False,True,False,False,148897,50,8360,2,6.98,Mais de 5 anos,R$ 3.001 a R$ 8.000,53.5,1,3,2,6,Maduro,False,False
+329,Carlos Sobrenome,1,Agencia 1,Maringa,2019-01-22,True,2213.0,True,False,True,True,False,True,False,119261,42,13841,3,7.6,Mais de 5 anos,Ate R$ 3.000,52.0,1,3,2,6,Maduro,False,False
+330,Lucas Sobrenome,2,Agencia 2,Pato Branco,2020-06-01,True,2835.0,True,True,False,True,False,True,False,95091,46,10923,3,6.25,Mais de 5 anos,Ate R$ 3.000,44.7,1,3,1,5,Maduro,False,False
+331,Paula Sobrenome,2,Agencia 2,Cascavel,2022-11-20,True,18349.0,True,False,True,True,True,False,False,57882,50,9149,3,3.78,3 a 5 anos,Acima de R$ 15.000,36.1,1,2,0,3,Em Desenvolvimento,False,True
+332,Fernanda Sobrenome,2,Agencia 2,Pato Branco,2025-06-21,True,29276.0,True,True,True,False,True,True,True,142756,35,3744,5,1.19,Menos de 2 anos,Acima de R$ 15.000,42.0,2,0,1,3,Em Desenvolvimento,False,False
+333,Carlos Sobrenome,3,Agencia 3,Cascavel,2018-06-14,True,28998.0,True,False,True,False,False,True,True,101682,91,19120,3,8.21,Mais de 5 anos,Acima de R$ 15.000,66.5,1,3,3,7,Engajado,False,False
+334,Lucas Sobrenome,4,Agencia 4,Pato Branco,2022-09-13,True,27341.0,True,True,True,True,False,True,True,32480,80,11653,5,3.96,3 a 5 anos,Acima de R$ 15.000,41.2,2,2,1,5,Maduro,False,False
+335,Ricardo Sobrenome,2,Agencia 2,Maringa,2025-08-26,True,12783.0,True,False,True,True,True,True,True,173952,91,14776,5,1.01,Menos de 2 anos,R$ 8.001 a R$ 15.000,75.8,2,0,3,5,Maduro,False,False
+336,Paula Sobrenome,4,Agencia 4,Maringa,2020-06-11,True,23437.0,True,True,True,True,True,False,True,213432,80,10659,5,6.22,Mais de 5 anos,Acima de R$ 15.000,76.4,2,3,3,8,Engajado,False,False
+337,Joao Sobrenome,1,Agencia 1,Toledo,2023-10-11,True,21863.0,True,True,False,False,False,True,False,230740,100,9611,2,2.89,2 a 3 anos,Acima de R$ 15.000,82.9,1,1,3,5,Maduro,True,False
+338,Mariana Sobrenome,3,Agencia 3,Pato Branco,2023-08-25,True,2265.0,True,False,False,False,True,True,True,201202,26,9971,3,3.01,3 a 5 anos,Ate R$ 3.000,60.2,1,2,2,5,Maduro,False,False
+339,Fernanda Sobrenome,4,Agencia 4,Pato Branco,2018-03-20,True,4671.0,True,True,True,False,False,False,True,6095,37,3802,3,8.45,Mais de 5 anos,R$ 3.001 a R$ 8.000,15.4,1,3,0,4,Em Desenvolvimento,False,True
+340,Fernanda Sobrenome,4,Agencia 4,Pato Branco,,False,10900.0,True,False,False,True,False,True,True,116408,47,17696,3,,Nao informado,R$ 8.001 a R$ 15.000,57.7,1,1,2,4,Em Desenvolvimento,False,False
+341,Carlos Sobrenome,4,Agencia 4,Cascavel,2024-09-22,True,6176.0,True,False,True,False,False,True,False,180035,83,16667,2,1.94,Menos de 2 anos,R$ 3.001 a R$ 8.000,77.7,1,0,3,4,Em Desenvolvimento,False,False
+342,Bruno Sobrenome,1,Agencia 1,Pato Branco,2021-05-04,True,14509.0,True,False,False,False,True,True,True,21626,65,125,3,5.32,Mais de 5 anos,R$ 8.001 a R$ 15.000,21.8,1,3,0,4,Em Desenvolvimento,False,True
+343,Joao Sobrenome,1,Agencia 1,Cascavel,2023-07-06,True,27166.0,True,False,True,False,False,True,False,190001,93,11439,2,3.15,3 a 5 anos,Acima de R$ 15.000,75.7,1,2,3,6,Maduro,True,False
+344,Lucas Sobrenome,1,Agencia 1,Pato Branco,2019-04-20,True,11742.0,True,True,True,False,False,True,False,43330,18,2172,3,7.36,Mais de 5 anos,R$ 8.001 a R$ 15.000,16.2,1,3,0,4,Em Desenvolvimento,False,True
+345,Bruno Sobrenome,4,Agencia 4,Chapeco,2020-10-15,True,17837.0,True,False,True,False,True,False,False,143014,66,3462,2,5.87,Mais de 5 anos,Acima de R$ 15.000,49.6,1,3,1,5,Maduro,True,False
+346,Mariana Sobrenome,5,Agencia 5,Pato Branco,2020-07-27,True,27500.0,True,False,True,False,False,False,True,238567,86,7787,2,6.09,Mais de 5 anos,Acima de R$ 15.000,78.5,1,3,3,7,Engajado,True,False
+347,Juliana Sobrenome,5,Agencia 5,Pato Branco,2021-07-23,True,21938.0,True,True,False,True,False,True,False,169197,73,4485,3,5.1,Mais de 5 anos,Acima de R$ 15.000,57.6,1,3,2,6,Maduro,False,False
+348,Ricardo Sobrenome,5,Agencia 5,Toledo,2022-03-23,True,9970.0,True,True,True,True,False,True,True,179305,37,12126,5,4.44,3 a 5 anos,R$ 8.001 a R$ 15.000,60.9,2,2,2,6,Maduro,False,False
+349,Lucas Sobrenome,1,Agencia 1,Toledo,2019-06-12,True,3169.0,True,True,False,False,False,False,False,172591,79,16338,1,7.22,Mais de 5 anos,R$ 3.001 a R$ 8.000,74.4,0,3,3,6,Maduro,False,False
+350,Lucas Sobrenome,2,Agencia 2,Cascavel,2022-04-01,True,28894.0,True,False,False,False,True,False,False,142411,59,7633,1,4.41,3 a 5 anos,Acima de R$ 15.000,52.9,0,2,2,4,Em Desenvolvimento,True,False
+351,Paula Sobrenome,1,Agencia 1,Cascavel,2023-06-11,True,23144.0,True,True,False,True,False,True,True,212606,84,6293,4,3.22,3 a 5 anos,Acima de R$ 15.000,71.4,2,2,3,7,Engajado,False,False
+352,Paula Sobrenome,2,Agencia 2,Maringa,2024-08-07,True,9772.0,True,True,True,True,False,False,False,230475,68,4521,3,2.06,2 a 3 anos,R$ 8.001 a R$ 15.000,68.8,1,1,3,5,Maduro,False,False
+353,Ricardo Sobrenome,4,Agencia 4,Toledo,2022-10-01,True,27369.0,True,False,True,False,False,True,False,144071,29,16683,2,3.91,3 a 5 anos,Acima de R$ 15.000,57.3,1,2,2,5,Maduro,True,False
+354,Ricardo Sobrenome,5,Agencia 5,Chapeco,2019-12-02,True,22528.0,True,True,False,False,False,True,False,5737,40,4088,2,6.74,Mais de 5 anos,Acima de R$ 15.000,16.5,1,3,0,4,Em Desenvolvimento,True,True
+355,Amanda Sobrenome,4,Agencia 4,Chapeco,2026-05-28,True,25912.0,True,False,False,False,False,False,False,9242,46,9515,0,0.26,Menos de 2 anos,Acima de R$ 15.000,25.8,0,0,0,0,Inicial,True,True
+356,Paula Sobrenome,2,Agencia 2,Maringa,2023-07-08,True,7581.0,True,False,False,False,True,False,True,165185,8,18579,2,3.15,3 a 5 anos,R$ 3.001 a R$ 8.000,58.4,1,2,2,5,Maduro,False,False
+357,Amanda Sobrenome,5,Agencia 5,Cascavel,2025-03-01,True,20565.0,True,True,True,False,False,True,False,147881,55,1891,3,1.5,Menos de 2 anos,Acima de R$ 15.000,46.0,1,0,1,2,Inicial,False,False
+358,Lucas Sobrenome,3,Agencia 3,Toledo,,False,8099.0,True,True,True,True,True,False,False,153237,27,16236,4,,Nao informado,R$ 8.001 a R$ 15.000,57.8,2,1,2,5,Maduro,False,False
+359,Bruno Sobrenome,1,Agencia 1,Cascavel,2020-05-16,True,22079.0,True,True,True,True,False,False,False,1337,15,12354,3,6.29,Mais de 5 anos,Acima de R$ 15.000,19.4,1,3,0,4,Em Desenvolvimento,False,True
+360,Bruno Sobrenome,1,Agencia 1,Cascavel,2020-11-25,True,24247.0,True,False,True,True,True,True,False,6542,20,18219,4,5.76,Mais de 5 anos,Acima de R$ 15.000,29.0,2,3,0,5,Maduro,False,True
+361,Juliana Sobrenome,4,Agencia 4,Pato Branco,2024-05-12,True,14105.0,True,True,False,True,False,False,False,119638,50,5435,2,2.3,2 a 3 anos,R$ 8.001 a R$ 15.000,43.8,1,1,1,3,Em Desenvolvimento,False,False
+362,Fernanda Sobrenome,3,Agencia 3,Pato Branco,2018-12-04,True,24679.0,True,True,False,False,True,True,False,115695,66,3299,3,7.74,Mais de 5 anos,Acima de R$ 15.000,43.7,1,3,1,5,Maduro,False,False
+363,Bruno Sobrenome,4,Agencia 4,Pato Branco,2022-11-21,True,17169.0,True,True,True,True,False,False,False,17893,39,13464,3,3.77,3 a 5 anos,Acima de R$ 15.000,31.1,1,2,0,3,Em Desenvolvimento,False,True
+364,Mariana Sobrenome,3,Agencia 3,Maringa,2018-07-24,True,16866.0,True,True,True,False,False,False,True,72612,84,2987,3,8.1,Mais de 5 anos,Acima de R$ 15.000,39.1,1,3,1,5,Maduro,False,False
+365,Bruno Sobrenome,3,Agencia 3,Pato Branco,2020-11-07,True,12513.0,True,False,True,False,True,True,True,108812,82,17897,4,5.81,Mais de 5 anos,R$ 8.001 a R$ 15.000,64.2,2,3,3,8,Engajado,False,False
+366,Juliana Sobrenome,4,Agencia 4,Pato Branco,2023-02-18,True,24176.0,True,False,False,False,True,True,False,221090,100,11981,2,3.53,3 a 5 anos,Acima de R$ 15.000,84.0,1,2,3,6,Maduro,True,False
+367,Bruno Sobrenome,4,Agencia 4,Chapeco,2021-05-15,True,13373.0,True,True,True,False,True,False,True,186598,6,14012,4,5.29,Mais de 5 anos,R$ 8.001 a R$ 15.000,56.9,2,3,2,7,Engajado,False,False
+368,Bruno Sobrenome,1,Agencia 1,Toledo,2024-02-01,True,5902.0,True,False,False,False,False,False,True,129187,13,17387,1,2.58,2 a 3 anos,R$ 3.001 a R$ 8.000,51.0,0,1,2,3,Em Desenvolvimento,False,False
+369,Mariana Sobrenome,2,Agencia 2,Toledo,,False,11330.0,True,True,True,True,False,False,True,26090,55,5478,4,,Nao informado,R$ 8.001 a R$ 15.000,27.0,2,1,0,3,Em Desenvolvimento,False,True
+370,Fernanda Sobrenome,2,Agencia 2,Chapeco,2018-07-09,True,13255.0,True,False,False,True,False,False,True,53664,60,19175,2,8.14,Mais de 5 anos,R$ 8.001 a R$ 15.000,50.1,1,3,1,5,Maduro,False,False
+371,Lucas Sobrenome,5,Agencia 5,Toledo,2018-10-04,True,9699.0,True,True,False,True,False,False,False,161712,85,50,2,7.9,Mais de 5 anos,R$ 8.001 a R$ 15.000,53.6,1,3,2,6,Maduro,False,False
+372,Lucas Sobrenome,4,Agencia 4,Toledo,2018-12-28,True,11589.0,True,False,False,True,True,True,True,45955,39,3363,4,7.67,Mais de 5 anos,R$ 8.001 a R$ 15.000,23.8,2,3,0,5,Maduro,False,True
+373,Amanda Sobrenome,5,Agencia 5,Pato Branco,2026-01-26,True,12385.0,True,True,True,True,True,True,True,83415,82,2265,6,0.59,Menos de 2 anos,R$ 8.001 a R$ 15.000,40.1,3,0,1,4,Em Desenvolvimento,False,False
+374,Carlos Sobrenome,1,Agencia 1,Chapeco,2024-05-06,True,6334.0,True,True,False,True,True,True,False,198140,17,12683,4,2.32,2 a 3 anos,R$ 3.001 a R$ 8.000,60.4,2,1,2,5,Maduro,False,False
+375,Fernanda Sobrenome,1,Agencia 1,Toledo,2026-06-19,True,26316.0,True,False,False,False,False,False,False,106894,6,15721,0,0.2,Menos de 2 anos,Acima de R$ 15.000,42.3,0,0,1,1,Inicial,True,False
+376,Joao Sobrenome,1,Agencia 1,Maringa,2020-09-05,True,2277.0,True,True,False,False,False,True,True,2724,56,2289,3,5.98,Mais de 5 anos,Ate R$ 3.000,17.4,1,3,0,4,Em Desenvolvimento,False,True
+377,Juliana Sobrenome,2,Agencia 2,Maringa,2020-06-14,True,7438.0,True,False,False,False,True,False,False,138896,49,1634,1,6.21,Mais de 5 anos,R$ 3.001 a R$ 8.000,42.3,0,3,1,4,Em Desenvolvimento,False,False
+378,Amanda Sobrenome,3,Agencia 3,Maringa,2023-11-04,True,22853.0,True,False,True,True,True,False,False,140381,10,5888,3,2.82,2 a 3 anos,Acima de R$ 15.000,37.6,1,1,1,3,Em Desenvolvimento,False,False
+379,Mariana Sobrenome,3,Agencia 3,Cascavel,2025-12-21,True,5786.0,True,True,False,True,False,True,True,217052,10,18313,4,0.69,Menos de 2 anos,R$ 3.001 a R$ 8.000,68.8,2,0,3,5,Maduro,False,False
+380,Bruno Sobrenome,1,Agencia 1,Maringa,2026-02-21,True,4627.0,True,False,True,True,True,True,False,108902,83,17531,4,0.52,Menos de 2 anos,R$ 3.001 a R$ 8.000,64.2,2,0,3,5,Maduro,False,False
+381,Fernanda Sobrenome,1,Agencia 1,Chapeco,2018-04-19,True,3624.0,True,True,True,False,False,False,False,213334,13,4520,2,8.36,Mais de 5 anos,R$ 3.001 a R$ 8.000,52.0,1,3,2,6,Maduro,False,False
+382,Mariana Sobrenome,1,Agencia 1,Chapeco,2022-08-23,True,24679.0,True,False,False,True,False,True,True,68535,100,4650,3,4.02,3 a 5 anos,Acima de R$ 15.000,44.6,1,2,1,4,Em Desenvolvimento,False,False
+383,Juliana Sobrenome,3,Agencia 3,Pato Branco,2022-08-06,True,26248.0,True,False,False,False,False,False,False,192139,95,9883,0,4.07,3 a 5 anos,Acima de R$ 15.000,75.1,0,2,3,5,Maduro,True,False
+384,Lucas Sobrenome,1,Agencia 1,Maringa,2022-06-23,True,12727.0,True,False,True,True,True,True,True,3686,19,15742,5,4.19,3 a 5 anos,R$ 8.001 a R$ 15.000,25.1,2,2,0,4,Em Desenvolvimento,False,True
+385,Ricardo Sobrenome,1,Agencia 1,Pato Branco,2025-04-16,True,,False,True,False,False,False,True,True,133607,91,9215,3,1.37,Menos de 2 anos,Nao informado,60.9,1,0,2,3,Em Desenvolvimento,False,False
+386,Joao Sobrenome,5,Agencia 5,Pato Branco,,False,10195.0,True,False,False,False,False,False,True,208531,23,8151,1,,Nao informado,R$ 8.001 a R$ 15.000,57.9,0,1,2,3,Em Desenvolvimento,False,False
+387,Fernanda Sobrenome,3,Agencia 3,Chapeco,2024-04-20,True,22217.0,True,False,False,False,False,False,True,103503,21,19242,1,2.36,2 a 3 anos,Acima de R$ 15.000,49.7,0,1,1,2,Inicial,True,False
+388,Juliana Sobrenome,2,Agencia 2,Cascavel,2019-03-21,True,19403.0,True,True,False,True,False,False,True,18929,20,9013,3,7.44,Mais de 5 anos,Acima de R$ 15.000,20.7,1,3,0,4,Em Desenvolvimento,False,True
+389,Carlos Sobrenome,1,Agencia 1,Pato Branco,2019-06-25,True,15700.0,True,True,False,True,False,True,True,83274,10,6126,4,7.18,Mais de 5 anos,Acima de R$ 15.000,26.9,2,3,0,5,Maduro,False,True
+390,Lucas Sobrenome,4,Agencia 4,Maringa,2019-04-25,True,16745.0,True,True,True,False,False,True,False,180486,100,15986,3,7.35,Mais de 5 anos,Acima de R$ 15.000,81.4,1,3,3,7,Engajado,False,False
+391,Juliana Sobrenome,4,Agencia 4,Pato Branco,2026-03-05,True,16429.0,True,False,False,False,False,True,False,189640,87,14649,1,0.49,Menos de 2 anos,Acima de R$ 15.000,78.1,0,0,3,3,Em Desenvolvimento,True,False
+392,Juliana Sobrenome,2,Agencia 2,Maringa,2020-05-18,True,28019.0,True,False,True,True,False,True,True,193195,58,13005,4,6.28,Mais de 5 anos,Acima de R$ 15.000,70.2,2,3,3,8,Engajado,False,False
+393,Amanda Sobrenome,3,Agencia 3,Pato Branco,2018-07-13,True,4961.0,True,True,False,False,False,False,False,60836,72,6025,1,8.13,Mais de 5 anos,R$ 3.001 a R$ 8.000,37.3,0,3,1,4,Em Desenvolvimento,False,False
+394,Paula Sobrenome,4,Agencia 4,Pato Branco,2023-07-20,True,19152.0,True,False,False,False,True,False,False,111775,41,4316,1,3.11,3 a 5 anos,Acima de R$ 15.000,38.3,0,2,1,3,Em Desenvolvimento,True,False
+395,Paula Sobrenome,1,Agencia 1,Toledo,2019-08-15,True,10948.0,True,False,False,True,False,False,False,77048,89,10495,1,7.04,Mais de 5 anos,R$ 8.001 a R$ 15.000,51.3,0,3,2,5,Maduro,False,False
+396,Lucas Sobrenome,1,Agencia 1,Pato Branco,2026-04-16,True,10001.0,True,True,True,False,True,True,True,123501,41,9699,5,0.37,Menos de 2 anos,R$ 8.001 a R$ 15.000,48.0,2,0,1,3,Em Desenvolvimento,False,False
+397,Paula Sobrenome,5,Agencia 5,Pato Branco,2023-12-16,True,6369.0,True,False,True,True,True,True,True,104797,46,1609,5,2.7,2 a 3 anos,R$ 3.001 a R$ 8.000,34.4,2,1,0,3,Em Desenvolvimento,False,True
+398,Bruno Sobrenome,3,Agencia 3,Pato Branco,2019-05-05,True,10796.0,True,True,False,True,False,False,True,123669,80,19620,3,7.32,Mais de 5 anos,R$ 8.001 a R$ 15.000,69.4,1,3,3,7,Engajado,False,False
+399,Bruno Sobrenome,5,Agencia 5,Cascavel,2018-05-04,True,25218.0,True,True,True,False,False,False,False,31354,55,3111,2,8.32,Mais de 5 anos,Acima de R$ 15.000,24.3,1,3,0,4,Em Desenvolvimento,True,True
+400,Ricardo Sobrenome,5,Agencia 5,Pato Branco,2023-05-03,True,24026.0,True,True,False,True,True,False,True,84536,40,1868,4,3.33,3 a 5 anos,Acima de R$ 15.000,30.1,2,2,0,4,Em Desenvolvimento,False,True
+401,Amanda Sobrenome,2,Agencia 2,Pato Branco,2021-04-11,True,28056.0,True,True,True,False,False,True,False,191720,57,14748,3,5.39,Mais de 5 anos,Acima de R$ 15.000,71.6,1,3,3,7,Engajado,False,False
+402,Fernanda Sobrenome,3,Agencia 3,Pato Branco,2024-01-08,True,16175.0,True,True,True,True,False,True,True,191603,60,16567,5,2.64,2 a 3 anos,Acima de R$ 15.000,74.5,2,1,3,6,Maduro,False,False
+403,Fernanda Sobrenome,1,Agencia 1,Toledo,2019-08-28,True,5561.0,True,False,True,True,False,False,False,233355,42,16523,2,7.01,Mais de 5 anos,R$ 3.001 a R$ 8.000,78.0,1,3,3,7,Engajado,False,False
+404,Joao Sobrenome,4,Agencia 4,Cascavel,2020-08-20,True,8683.0,True,False,True,True,True,True,False,3784,86,15374,4,6.03,Mais de 5 anos,R$ 8.001 a R$ 15.000,41.3,2,3,1,6,Maduro,False,False
+405,Lucas Sobrenome,1,Agencia 1,Pato Branco,2025-10-11,True,10744.0,True,False,True,False,True,True,False,160714,62,16410,3,0.88,Menos de 2 anos,R$ 8.001 a R$ 15.000,68.4,1,0,3,4,Em Desenvolvimento,False,False
+406,Mariana Sobrenome,2,Agencia 2,Chapeco,2023-06-23,True,6688.0,True,True,False,True,True,True,False,13998,89,12858,4,3.19,3 a 5 anos,R$ 3.001 a R$ 8.000,41.2,2,2,1,5,Maduro,False,False
+407,Amanda Sobrenome,4,Agencia 4,Cascavel,2026-01-08,True,11372.0,True,False,True,False,True,True,False,89084,82,2428,3,0.64,Menos de 2 anos,R$ 8.001 a R$ 15.000,41.3,1,0,1,2,Inicial,False,False
+408,Joao Sobrenome,5,Agencia 5,Pato Branco,2026-02-28,True,19800.0,True,True,False,True,True,False,True,164828,2,13412,4,0.5,Menos de 2 anos,Acima de R$ 15.000,50.5,2,0,2,4,Em Desenvolvimento,False,False
+409,Carlos Sobrenome,4,Agencia 4,Pato Branco,2019-07-02,True,29685.0,True,False,True,True,False,False,True,26778,24,4087,3,7.16,Mais de 5 anos,Acima de R$ 15.000,17.1,1,3,0,4,Em Desenvolvimento,False,True
+410,Amanda Sobrenome,2,Agencia 2,Cascavel,2019-02-11,True,29886.0,True,False,True,True,True,False,True,114581,45,15693,4,7.55,Mais de 5 anos,Acima de R$ 15.000,54.2,2,3,2,7,Engajado,False,False
+411,Carlos Sobrenome,5,Agencia 5,Pato Branco,2019-07-17,True,23769.0,True,False,True,False,False,False,False,244448,76,9913,1,7.12,Mais de 5 anos,Acima de R$ 15.000,80.2,0,3,3,6,Maduro,True,False
+412,Carlos Sobrenome,1,Agencia 1,Pato Branco,2022-11-26,True,25100.0,True,True,False,True,True,False,True,102065,31,11034,4,3.76,3 a 5 anos,Acima de R$ 15.000,42.3,2,2,1,5,Maduro,False,False
+413,Carlos Sobrenome,2,Agencia 2,Pato Branco,2018-07-09,True,9761.0,True,False,True,False,True,False,True,246985,69,16453,3,8.14,Mais de 5 anos,R$ 8.001 a R$ 15.000,87.1,1,3,3,7,Engajado,False,False
+414,Ricardo Sobrenome,3,Agencia 3,Pato Branco,2024-11-22,True,16491.0,True,False,False,True,False,True,False,239467,96,10211,2,1.77,Menos de 2 anos,Acima de R$ 15.000,84.7,1,0,3,4,Em Desenvolvimento,True,False
+415,Paula Sobrenome,1,Agencia 1,Toledo,2019-04-03,True,9034.0,True,False,False,True,False,False,False,90972,45,15770,1,7.41,Mais de 5 anos,R$ 8.001 a R$ 15.000,50.0,0,3,1,4,Em Desenvolvimento,False,False
+416,Amanda Sobrenome,3,Agencia 3,Pato Branco,2019-01-26,True,24752.0,True,False,False,False,False,False,True,4540,83,16084,1,7.59,Mais de 5 anos,Acima de R$ 15.000,41.4,0,3,1,4,Em Desenvolvimento,True,False
+417,Juliana Sobrenome,2,Agencia 2,Maringa,2020-03-28,True,12368.0,True,False,False,True,True,True,False,96170,59,5665,3,6.42,Mais de 5 anos,R$ 8.001 a R$ 15.000,41.2,1,3,1,5,Maduro,False,False
+418,Carlos Sobrenome,1,Agencia 1,Cascavel,2019-01-17,True,24379.0,True,False,False,True,False,True,True,249857,89,12149,3,7.62,Mais de 5 anos,Acima de R$ 15.000,87.0,1,3,3,7,Engajado,False,False
+419,Paula Sobrenome,4,Agencia 4,Cascavel,2022-07-04,True,23929.0,True,False,False,True,False,True,False,98305,37,18438,2,4.16,3 a 5 anos,Acima de R$ 15.000,52.0,1,2,2,5,Maduro,True,False
+420,Fernanda Sobrenome,2,Agencia 2,Toledo,2019-01-20,True,28820.0,True,False,True,True,False,False,False,49984,31,864,2,7.61,Mais de 5 anos,Acima de R$ 15.000,19.3,1,3,0,4,Em Desenvolvimento,True,True
+421,Joao Sobrenome,3,Agencia 3,Maringa,2026-04-04,True,25348.0,True,True,True,True,False,False,True,96058,81,13150,4,0.41,Menos de 2 anos,Acima de R$ 15.000,55.8,2,0,2,4,Em Desenvolvimento,False,False
+422,Bruno Sobrenome,5,Agencia 5,Pato Branco,2025-08-19,True,5132.0,True,True,True,True,False,False,False,147760,92,7545,3,1.03,Menos de 2 anos,R$ 3.001 a R$ 8.000,62.0,1,0,2,3,Em Desenvolvimento,False,False
+423,Bruno Sobrenome,4,Agencia 4,Pato Branco,2025-05-05,True,5891.0,True,True,False,True,False,False,False,5600,37,12483,2,1.32,Menos de 2 anos,R$ 3.001 a R$ 8.000,26.2,1,0,0,1,Inicial,False,True
+424,Amanda Sobrenome,2,Agencia 2,Cascavel,2023-06-23,True,18825.0,True,False,False,False,True,False,False,210435,93,12237,1,3.19,3 a 5 anos,Acima de R$ 15.000,80.7,0,2,3,5,Maduro,True,False
+425,Juliana Sobrenome,5,Agencia 5,Maringa,2025-09-13,True,26756.0,True,True,True,True,False,True,True,35981,58,11793,5,0.96,Menos de 2 anos,Acima de R$ 15.000,37.2,2,0,1,3,Em Desenvolvimento,False,False
+426,Bruno Sobrenome,1,Agencia 1,Chapeco,2019-10-10,True,23546.0,True,False,True,False,True,False,True,10774,30,2207,3,6.89,Mais de 5 anos,Acima de R$ 15.000,12.8,1,3,0,4,Em Desenvolvimento,False,True
+427,Paula Sobrenome,3,Agencia 3,Toledo,2025-10-28,True,27277.0,True,True,True,False,False,False,True,16531,79,11020,3,0.84,Menos de 2 anos,Acima de R$ 15.000,37.0,1,0,0,1,Inicial,False,True
+428,Lucas Sobrenome,5,Agencia 5,Toledo,2026-07-21,True,4210.0,True,True,False,True,False,False,True,65832,50,19298,3,0.11,Menos de 2 anos,R$ 3.001 a R$ 8.000,50.3,1,0,2,3,Em Desenvolvimento,False,False
+429,Carlos Sobrenome,3,Agencia 3,Toledo,2024-06-09,True,11614.0,True,False,False,False,False,False,True,205359,23,757,1,2.22,2 a 3 anos,R$ 8.001 a R$ 15.000,47.8,0,1,1,2,Inicial,False,False
+430,Amanda Sobrenome,5,Agencia 5,Pato Branco,2026-03-27,True,25781.0,True,True,True,False,True,True,True,229149,52,7701,5,0.43,Menos de 2 anos,Acima de R$ 15.000,68.7,2,0,3,5,Maduro,False,False
+431,Bruno Sobrenome,2,Agencia 2,Pato Branco,2022-05-15,True,7548.0,True,True,True,False,True,True,True,59868,29,17302,5,4.29,3 a 5 anos,R$ 3.001 a R$ 8.000,41.0,2,2,1,5,Maduro,False,False
+432,Mariana Sobrenome,3,Agencia 3,Chapeco,2019-09-21,True,9298.0,True,False,True,True,True,False,True,101004,31,12223,4,6.94,Mais de 5 anos,R$ 8.001 a R$ 15.000,43.2,2,3,1,6,Maduro,False,False
+433,Lucas Sobrenome,1,Agencia 1,Chapeco,2019-02-19,True,18443.0,True,False,True,False,False,False,True,107706,28,15272,2,7.53,Mais de 5 anos,Acima de R$ 15.000,47.5,1,3,1,5,Maduro,True,False
+434,Paula Sobrenome,2,Agencia 2,Pato Branco,2023-11-14,True,16373.0,True,False,True,False,True,True,False,142233,11,10096,3,2.79,2 a 3 anos,Acima de R$ 15.000,44.0,1,1,1,3,Em Desenvolvimento,False,False
+435,Carlos Sobrenome,5,Agencia 5,Toledo,2022-08-23,True,13560.0,True,True,True,False,False,True,False,191198,33,7539,3,4.02,3 a 5 anos,R$ 8.001 a R$ 15.000,56.7,1,2,2,5,Maduro,False,False
+436,Ricardo Sobrenome,1,Agencia 1,Chapeco,2018-05-25,True,12654.0,True,True,True,True,True,False,True,168691,93,1575,5,8.27,Mais de 5 anos,R$ 8.001 a R$ 15.000,58.2,2,3,2,7,Engajado,False,False
+437,Lucas Sobrenome,4,Agencia 4,Toledo,2024-05-06,True,10980.0,True,True,True,True,False,True,True,221038,60,5447,5,2.32,2 a 3 anos,R$ 8.001 a R$ 15.000,66.0,2,1,3,6,Maduro,False,False
+438,Joao Sobrenome,5,Agencia 5,Toledo,2022-05-27,True,28614.0,True,True,True,False,False,False,True,149483,67,19319,3,4.26,3 a 5 anos,Acima de R$ 15.000,71.2,1,2,3,6,Maduro,False,False
+439,Fernanda Sobrenome,1,Agencia 1,Cascavel,2018-03-07,True,25347.0,True,True,True,False,False,True,True,210055,23,11451,4,8.48,Mais de 5 anos,Acima de R$ 15.000,62.4,2,3,2,7,Engajado,False,False
+440,Joao Sobrenome,4,Agencia 4,Chapeco,2026-05-26,True,15479.0,True,False,True,False,False,False,False,141953,4,1861,1,0.26,Menos de 2 anos,Acima de R$ 15.000,31.4,0,0,0,0,Inicial,True,True
+441,Joao Sobrenome,2,Agencia 2,Maringa,2023-08-07,True,27712.0,True,True,True,False,True,True,False,129054,32,10280,4,3.06,3 a 5 anos,Acima de R$ 15.000,47.4,2,2,1,5,Maduro,False,False
+442,Bruno Sobrenome,5,Agencia 5,Pato Branco,2023-12-15,True,22171.0,True,False,False,False,True,True,True,186218,55,18725,3,2.71,2 a 3 anos,Acima de R$ 15.000,75.1,1,1,3,5,Maduro,False,False
+443,Bruno Sobrenome,2,Agencia 2,Chapeco,2023-08-16,True,20014.0,True,True,False,False,True,False,True,32909,53,18243,3,3.04,3 a 5 anos,Acima de R$ 15.000,43.5,1,2,1,4,Em Desenvolvimento,False,False
+444,Carlos Sobrenome,1,Agencia 1,Pato Branco,2025-08-17,True,8763.0,True,False,True,False,False,False,True,12892,31,7741,2,1.03,Menos de 2 anos,R$ 8.001 a R$ 15.000,20.5,1,0,0,1,Inicial,False,True
+445,Paula Sobrenome,1,Agencia 1,Pato Branco,2023-12-06,True,10826.0,True,False,False,False,False,False,False,52776,48,16439,0,2.73,2 a 3 anos,R$ 8.001 a R$ 15.000,43.9,0,1,1,2,Inicial,False,False
+446,Ricardo Sobrenome,2,Agencia 2,Chapeco,2025-02-06,True,25236.0,True,True,True,False,True,False,False,30810,100,17640,3,1.56,Menos de 2 anos,Acima de R$ 15.000,53.6,1,0,2,3,Em Desenvolvimento,False,False
+447,Lucas Sobrenome,3,Agencia 3,Pato Branco,2020-06-01,True,8711.0,True,False,True,True,True,False,True,70692,21,5261,4,6.25,Mais de 5 anos,R$ 8.001 a R$ 15.000,26.2,2,3,0,5,Maduro,False,True
+448,Fernanda Sobrenome,2,Agencia 2,Pato Branco,,False,25094.0,True,True,True,True,True,True,True,247968,72,18291,6,,Nao informado,Acima de R$ 15.000,90.2,3,1,3,7,Engajado,False,False
+449,Bruno Sobrenome,4,Agencia 4,Maringa,2023-02-18,True,2715.0,True,True,True,True,True,False,False,118289,92,2188,4,3.53,3 a 5 anos,Ate R$ 3.000,48.9,2,2,1,5,Maduro,False,False
+450,Mariana Sobrenome,3,Agencia 3,Chapeco,2023-01-21,True,22511.0,True,True,False,True,True,True,False,114537,66,10865,4,3.61,3 a 5 anos,Acima de R$ 15.000,53.4,2,2,2,6,Maduro,False,False
+451,Lucas Sobrenome,5,Agencia 5,Pato Branco,2020-02-20,True,28443.0,True,False,True,True,True,False,False,44505,98,7290,3,6.52,Mais de 5 anos,Acima de R$ 15.000,42.9,1,3,1,5,Maduro,False,False
+452,Fernanda Sobrenome,3,Agencia 3,Pato Branco,2021-08-08,True,21760.0,True,True,True,False,False,True,False,195887,85,19978,3,5.06,Mais de 5 anos,Acima de R$ 15.000,85.8,1,3,3,7,Engajado,False,False
+453,Carlos Sobrenome,2,Agencia 2,Pato Branco,2025-03-16,True,11394.0,True,False,False,True,False,True,True,191079,89,17677,3,1.46,Menos de 2 anos,R$ 8.001 a R$ 15.000,82.7,1,0,3,4,Em Desenvolvimento,False,False
+454,Joao Sobrenome,1,Agencia 1,Chapeco,2019-04-14,True,20683.0,True,True,False,False,False,True,True,196365,86,11044,3,7.38,Mais de 5 anos,Acima de R$ 15.000,75.2,1,3,3,7,Engajado,False,False
+455,Fernanda Sobrenome,4,Agencia 4,Toledo,2019-05-08,True,10396.0,True,True,True,True,True,True,True,50941,6,5951,6,7.31,Mais de 5 anos,R$ 8.001 a R$ 15.000,19.3,3,3,0,6,Maduro,False,True
+456,Lucas Sobrenome,5,Agencia 5,Toledo,2021-04-02,True,11565.0,True,True,False,False,True,True,True,19053,35,3112,4,5.41,Mais de 5 anos,R$ 8.001 a R$ 15.000,17.2,2,3,0,5,Maduro,False,True
+457,Joao Sobrenome,1,Agencia 1,Pato Branco,2025-02-14,True,23880.0,True,False,True,True,False,False,True,64847,68,15637,3,1.54,Menos de 2 anos,Acima de R$ 15.000,49.6,1,0,1,2,Inicial,False,False
+458,Juliana Sobrenome,4,Agencia 4,Toledo,2025-08-21,True,4985.0,True,True,True,False,True,False,True,24555,19,9610,4,1.02,Menos de 2 anos,R$ 3.001 a R$ 8.000,22.4,2,0,0,2,Inicial,False,True
+459,Juliana Sobrenome,1,Agencia 1,Pato Branco,2020-10-10,True,29812.0,True,False,True,False,True,True,True,120798,29,8520,4,5.89,Mais de 5 anos,Acima de R$ 15.000,42.5,2,3,1,6,Maduro,False,False
+460,Amanda Sobrenome,5,Agencia 5,Pato Branco,2019-07-03,True,3656.0,True,True,True,True,False,False,False,35719,96,9628,3,7.16,Mais de 5 anos,R$ 3.001 a R$ 8.000,43.7,1,3,1,5,Maduro,False,False
+461,Juliana Sobrenome,3,Agencia 3,Cascavel,2026-02-18,True,15643.0,True,False,True,True,True,True,True,14028,24,16446,5,0.53,Menos de 2 anos,Acima de R$ 15.000,29.5,2,0,0,2,Inicial,False,True
+462,Mariana Sobrenome,1,Agencia 1,Pato Branco,2018-03-25,True,,False,False,True,False,False,False,True,78052,95,4759,2,8.43,Mais de 5 anos,Nao informado,45.8,1,3,1,5,Maduro,False,False
+463,Mariana Sobrenome,1,Agencia 1,Maringa,2020-01-04,True,10573.0,True,True,True,False,True,True,True,45127,36,317,5,6.65,Mais de 5 anos,R$ 8.001 a R$ 15.000,19.1,2,3,0,5,Maduro,False,True
+464,Amanda Sobrenome,2,Agencia 2,Cascavel,2020-04-06,True,9130.0,True,True,False,False,True,False,False,196269,66,19467,2,6.4,Mais de 5 anos,R$ 8.001 a R$ 15.000,81.0,1,3,3,7,Engajado,False,False
+465,Carlos Sobrenome,4,Agencia 4,Maringa,,False,28190.0,True,False,True,False,False,False,False,180578,34,1881,1,,Nao informado,Acima de R$ 15.000,47.4,0,1,1,2,Inicial,True,False
+466,Amanda Sobrenome,3,Agencia 3,Maringa,2019-09-03,True,24883.0,True,True,False,True,True,False,True,120143,28,5620,4,6.99,Mais de 5 anos,Acima de R$ 15.000,38.3,2,3,1,6,Maduro,False,False
+467,Lucas Sobrenome,1,Agencia 1,Maringa,2025-02-27,True,8584.0,True,False,False,True,True,True,True,36663,80,6185,4,1.5,Menos de 2 anos,R$ 8.001 a R$ 15.000,35.4,2,0,0,2,Inicial,False,True
+468,Fernanda Sobrenome,5,Agencia 5,Pato Branco,2025-09-11,True,26057.0,True,False,False,False,True,True,True,195577,37,4825,3,0.97,Menos de 2 anos,Acima de R$ 15.000,55.2,1,0,2,3,Em Desenvolvimento,False,False
+469,Joao Sobrenome,3,Agencia 3,Cascavel,2018-07-10,True,4231.0,True,False,False,True,False,True,False,157955,71,17980,2,8.14,Mais de 5 anos,R$ 3.001 a R$ 8.000,71.9,1,3,3,7,Engajado,False,False
+470,Mariana Sobrenome,5,Agencia 5,Toledo,2022-11-21,True,11171.0,True,True,True,False,True,False,False,22065,88,7679,3,3.77,3 a 5 anos,R$ 8.001 a R$ 15.000,36.9,1,2,0,3,Em Desenvolvimento,False,True
+471,Paula Sobrenome,4,Agencia 4,Pato Branco,2020-02-03,True,14093.0,True,False,True,True,False,False,True,187622,60,15345,3,6.57,Mais de 5 anos,R$ 8.001 a R$ 15.000,72.4,1,3,3,7,Engajado,False,False
+472,Carlos Sobrenome,4,Agencia 4,Maringa,2024-06-21,True,4264.0,True,False,False,True,True,True,True,95980,83,6681,4,2.19,2 a 3 anos,R$ 3.001 a R$ 8.000,47.9,2,1,1,4,Em Desenvolvimento,False,False
+473,Paula Sobrenome,5,Agencia 5,Pato Branco,2024-09-09,True,19571.0,True,True,False,False,False,True,False,17436,99,294,2,1.97,Menos de 2 anos,Acima de R$ 15.000,28.8,1,0,0,1,Inicial,True,True
+474,Fernanda Sobrenome,2,Agencia 2,Toledo,2018-08-13,True,28039.0,True,False,True,False,True,True,True,206829,19,11286,4,8.05,Mais de 5 anos,Acima de R$ 15.000,60.6,2,3,2,7,Engajado,False,False
+475,Joao Sobrenome,3,Agencia 3,Chapeco,2022-09-28,True,21582.0,True,True,False,True,True,True,False,172275,30,16901,4,3.92,3 a 5 anos,Acima de R$ 15.000,63.2,2,2,3,7,Engajado,False,False
+476,Carlos Sobrenome,2,Agencia 2,Chapeco,2021-07-14,True,18487.0,True,True,False,True,True,True,True,32890,39,19334,5,5.13,Mais de 5 anos,Acima de R$ 15.000,41.3,2,3,1,6,Maduro,False,False
+477,Bruno Sobrenome,3,Agencia 3,Toledo,2020-09-22,True,26358.0,True,False,False,True,False,False,False,244552,2,5432,1,5.94,Mais de 5 anos,Acima de R$ 15.000,56.1,0,3,2,5,Maduro,True,False
+478,Juliana Sobrenome,2,Agencia 2,Pato Branco,2022-10-12,True,29215.0,True,False,False,True,True,False,True,168065,48,11870,3,3.88,3 a 5 anos,Acima de R$ 15.000,60.9,1,2,2,5,Maduro,False,False
+479,Joao Sobrenome,1,Agencia 1,Maringa,2021-03-12,True,7581.0,True,False,True,False,False,True,False,206423,13,7523,2,5.47,Mais de 5 anos,R$ 3.001 a R$ 8.000,54.3,1,3,2,6,Maduro,False,False
+480,Ricardo Sobrenome,3,Agencia 3,Cascavel,2024-07-16,True,14286.0,True,True,True,False,False,False,False,245686,28,5046,2,2.12,2 a 3 anos,R$ 8.001 a R$ 15.000,62.5,1,1,2,4,Em Desenvolvimento,False,False
+481,Fernanda Sobrenome,2,Agencia 2,Chapeco,2026-01-28,True,17988.0,True,True,False,False,False,False,False,180928,20,15028,1,0.59,Menos de 2 anos,Acima de R$ 15.000,60.3,0,0,2,2,Inicial,True,False
+482,Juliana Sobrenome,5,Agencia 5,Cascavel,2024-03-25,True,11437.0,True,False,True,True,False,False,False,61777,27,10616,2,2.43,2 a 3 anos,R$ 8.001 a R$ 15.000,32.6,1,1,0,2,Inicial,False,True
+483,Paula Sobrenome,2,Agencia 2,Pato Branco,2024-06-22,True,3066.0,True,True,True,True,True,True,True,176305,74,4116,6,2.19,2 a 3 anos,R$ 3.001 a R$ 8.000,58.9,3,1,2,6,Maduro,False,False
+484,Carlos Sobrenome,1,Agencia 1,Cascavel,2024-09-10,True,26492.0,True,False,True,True,False,True,True,101245,37,5754,4,1.97,Menos de 2 anos,Acima de R$ 15.000,36.6,2,0,0,2,Inicial,False,True
+485,Joao Sobrenome,4,Agencia 4,Pato Branco,2025-10-18,True,26187.0,True,False,True,True,True,False,False,243395,23,8596,3,0.87,Menos de 2 anos,Acima de R$ 15.000,64.6,1,0,3,4,Em Desenvolvimento,False,False
+486,Lucas Sobrenome,1,Agencia 1,Pato Branco,,False,25450.0,True,True,True,False,True,True,False,53624,7,374,4,,Nao informado,Acima de R$ 15.000,13.1,2,1,0,3,Em Desenvolvimento,False,True
+487,Paula Sobrenome,2,Agencia 2,Toledo,2025-10-12,True,9990.0,True,False,False,True,True,False,False,218124,99,17271,2,0.88,Menos de 2 anos,R$ 8.001 a R$ 15.000,90.1,1,0,3,4,Em Desenvolvimento,False,False
+488,Amanda Sobrenome,5,Agencia 5,Toledo,2022-11-14,True,10958.0,True,False,False,True,False,False,False,19944,61,2333,1,3.79,3 a 5 anos,R$ 8.001 a R$ 15.000,23.0,0,2,0,2,Inicial,False,True
+489,Mariana Sobrenome,4,Agencia 4,Chapeco,2026-02-25,True,4619.0,True,False,False,False,False,False,True,235061,5,8417,1,0.51,Menos de 2 anos,R$ 3.001 a R$ 8.000,58.4,0,0,2,2,Inicial,False,False
+490,Juliana Sobrenome,4,Agencia 4,Pato Branco,2022-06-06,True,12447.0,True,False,True,False,True,True,True,186757,4,15977,4,4.23,3 a 5 anos,R$ 8.001 a R$ 15.000,58.8,2,2,2,6,Maduro,False,False
+491,Carlos Sobrenome,4,Agencia 4,Pato Branco,2021-01-15,True,12596.0,True,True,False,False,True,False,False,232146,64,16348,2,5.62,Mais de 5 anos,R$ 8.001 a R$ 15.000,82.6,1,3,3,7,Engajado,False,False
+492,Lucas Sobrenome,5,Agencia 5,Pato Branco,2018-11-06,True,11560.0,True,True,False,False,False,True,False,213816,11,12951,2,7.81,Mais de 5 anos,R$ 8.001 a R$ 15.000,62.2,1,3,2,6,Maduro,False,False
+493,Mariana Sobrenome,4,Agencia 4,Toledo,2023-10-17,True,28874.0,True,False,True,True,False,False,True,113419,94,4263,3,2.87,2 a 3 anos,Acima de R$ 15.000,51.3,1,1,2,4,Em Desenvolvimento,False,False
+494,Lucas Sobrenome,3,Agencia 3,Pato Branco,2022-12-21,True,25491.0,True,True,True,True,True,False,False,221172,5,749,4,3.69,3 a 5 anos,Acima de R$ 15.000,46.1,2,2,1,5,Maduro,False,False
+495,Ricardo Sobrenome,3,Agencia 3,Pato Branco,2018-07-12,True,23730.0,True,True,False,True,True,False,True,244882,60,12461,4,8.13,Mais de 5 anos,Acima de R$ 15.000,79.4,2,3,3,8,Engajado,False,False
+496,Bruno Sobrenome,4,Agencia 4,Toledo,2022-01-18,True,3589.0,True,True,True,True,True,False,True,75617,75,13164,5,4.61,3 a 5 anos,R$ 3.001 a R$ 8.000,50.6,2,2,2,6,Maduro,False,False
+497,Mariana Sobrenome,4,Agencia 4,Pato Branco,2019-03-09,True,11562.0,True,True,True,False,True,True,True,84464,84,8064,5,7.48,Mais de 5 anos,R$ 8.001 a R$ 15.000,48.4,2,3,1,6,Maduro,False,False
+498,Fernanda Sobrenome,2,Agencia 2,Cascavel,2020-01-28,True,10800.0,True,False,False,False,False,True,True,166142,15,13277,2,6.59,Mais de 5 anos,R$ 8.001 a R$ 15.000,53.8,1,3,2,6,Maduro,False,False
+499,Juliana Sobrenome,4,Agencia 4,Chapeco,2022-07-28,True,26548.0,True,False,False,False,False,False,False,114079,26,9050,0,4.09,3 a 5 anos,Acima de R$ 15.000,40.7,0,2,1,3,Em Desenvolvimento,True,False
+500,Juliana Sobrenome,3,Agencia 3,Pato Branco,2024-10-03,True,28613.0,True,False,False,True,True,False,True,195731,24,16970,3,1.91,Menos de 2 anos,Acima de R$ 15.000,66.9,1,0,3,4,Em Desenvolvimento,False,False
+501,Fernanda Sobrenome,1,Agencia 1,Cascavel,2024-09-14,True,19740.0,True,False,True,True,False,False,True,51001,63,18406,3,1.96,Menos de 2 anos,Acima de R$ 15.000,49.4,1,0,1,2,Inicial,False,False
+502,Fernanda Sobrenome,1,Agencia 1,Maringa,2022-07-01,True,15144.0,True,True,False,True,False,True,False,82123,49,2829,3,4.16,3 a 5 anos,Acima de R$ 15.000,33.0,1,2,0,3,Em Desenvolvimento,False,True
+503,Joao Sobrenome,4,Agencia 4,Pato Branco,2026-03-05,True,18940.0,True,True,True,True,True,True,False,107778,89,11575,5,0.49,Menos de 2 anos,Acima de R$ 15.000,57.9,2,0,2,4,Em Desenvolvimento,False,False
+504,Amanda Sobrenome,5,Agencia 5,Pato Branco,2022-05-18,True,19390.0,True,False,False,False,True,False,False,63338,53,14671,1,4.28,3 a 5 anos,Acima de R$ 15.000,44.8,0,2,1,3,Em Desenvolvimento,True,False
+505,Mariana Sobrenome,5,Agencia 5,Maringa,2023-10-27,True,11735.0,True,True,False,False,True,False,True,45065,58,10872,3,2.84,2 a 3 anos,R$ 8.001 a R$ 15.000,38.0,1,1,1,3,Em Desenvolvimento,False,False
+506,Joao Sobrenome,5,Agencia 5,Pato Branco,2020-03-17,True,5182.0,True,False,False,True,True,False,False,185043,97,17625,2,6.45,Mais de 5 anos,R$ 3.001 a R$ 8.000,83.9,1,3,3,7,Engajado,False,False
+507,Fernanda Sobrenome,4,Agencia 4,Pato Branco,2024-09-02,True,17295.0,True,False,False,True,True,False,True,13432,73,9441,3,1.99,Menos de 2 anos,Acima de R$ 15.000,32.8,1,0,0,1,Inicial,False,True
+508,Mariana Sobrenome,2,Agencia 2,Pato Branco,2021-04-13,True,7169.0,True,True,False,True,False,True,False,95125,29,13689,3,5.38,Mais de 5 anos,R$ 3.001 a R$ 8.000,43.6,1,3,1,5,Maduro,False,False
+509,Joao Sobrenome,3,Agencia 3,Pato Branco,2023-02-02,True,8813.0,True,False,True,True,False,True,False,125619,87,12941,3,3.57,3 a 5 anos,R$ 8.001 a R$ 15.000,63.1,1,2,3,6,Maduro,False,False
+510,Lucas Sobrenome,1,Agencia 1,Chapeco,2018-01-10,True,4387.0,True,True,False,True,False,True,True,112205,39,1737,4,8.64,Mais de 5 anos,R$ 3.001 a R$ 8.000,34.4,2,3,0,5,Maduro,False,True
+511,Bruno Sobrenome,2,Agencia 2,Cascavel,2023-06-24,True,11626.0,True,True,True,False,False,True,False,109657,88,10650,3,3.18,3 a 5 anos,R$ 8.001 a R$ 15.000,57.2,1,2,2,5,Maduro,False,False
+512,Paula Sobrenome,3,Agencia 3,Cascavel,2021-04-26,True,14462.0,True,True,False,False,False,True,True,178197,3,12231,3,5.34,Mais de 5 anos,R$ 8.001 a R$ 15.000,52.0,1,3,2,6,Maduro,False,False
+513,Paula Sobrenome,4,Agencia 4,Chapeco,2023-05-28,True,22150.0,True,False,False,False,True,False,False,96827,3,13844,1,3.26,3 a 5 anos,Acima de R$ 15.000,37.6,0,2,1,3,Em Desenvolvimento,True,False
+514,Carlos Sobrenome,5,Agencia 5,Pato Branco,2024-12-10,True,17321.0,True,True,False,False,True,False,False,126040,35,9374,2,1.72,Menos de 2 anos,Acima de R$ 15.000,46.0,1,0,1,2,Inicial,True,False
+515,Juliana Sobrenome,1,Agencia 1,Pato Branco,2022-08-26,True,26966.0,True,False,False,True,True,False,True,105563,68,17828,3,4.01,3 a 5 anos,Acima de R$ 15.000,60.3,1,2,2,5,Maduro,False,False
+516,Lucas Sobrenome,3,Agencia 3,Pato Branco,2019-06-13,True,25558.0,True,True,False,True,False,True,True,71782,87,9822,4,7.21,Mais de 5 anos,Acima de R$ 15.000,48.7,2,3,1,6,Maduro,False,False
+517,Mariana Sobrenome,4,Agencia 4,Chapeco,,False,4039.0,True,False,False,False,True,True,True,25745,52,4143,3,,Nao informado,R$ 3.001 a R$ 8.000,24.6,1,1,0,2,Inicial,False,True
+518,Bruno Sobrenome,2,Agencia 2,Chapeco,2020-06-17,True,8408.0,True,False,True,True,True,True,False,249370,49,13150,4,6.2,Mais de 5 anos,R$ 8.001 a R$ 15.000,79.1,2,3,3,8,Engajado,False,False
+519,Paula Sobrenome,1,Agencia 1,Pato Branco,2022-01-14,True,9498.0,True,True,False,False,False,False,False,5789,41,3864,1,4.62,3 a 5 anos,R$ 8.001 a R$ 15.000,16.4,0,2,0,2,Inicial,False,True
+520,Fernanda Sobrenome,2,Agencia 2,Maringa,2025-11-21,True,4365.0,True,True,True,True,False,True,True,43869,66,14602,5,0.77,Menos de 2 anos,R$ 3.001 a R$ 8.000,44.3,2,0,1,3,Em Desenvolvimento,False,False
+521,Joao Sobrenome,5,Agencia 5,Pato Branco,2022-01-02,True,7529.0,True,True,True,False,True,False,False,127928,82,15593,3,4.66,3 a 5 anos,R$ 3.001 a R$ 8.000,65.6,1,2,3,6,Maduro,False,False
+522,Joao Sobrenome,2,Agencia 2,Cascavel,2021-09-12,True,29060.0,True,False,False,False,True,True,True,43442,83,18800,3,4.96,3 a 5 anos,Acima de R$ 15.000,53.3,1,2,2,5,Maduro,False,False
+523,Mariana Sobrenome,3,Agencia 3,Pato Branco,2023-05-18,True,7461.0,True,False,True,False,True,True,True,119975,24,18557,4,3.29,3 a 5 anos,R$ 3.001 a R$ 8.000,53.2,2,2,2,6,Maduro,False,False
+524,Bruno Sobrenome,4,Agencia 4,Pato Branco,2023-12-16,True,12785.0,True,True,True,True,False,True,True,127823,47,425,5,2.7,2 a 3 anos,R$ 8.001 a R$ 15.000,38.5,2,1,1,4,Em Desenvolvimento,False,False
+525,Ricardo Sobrenome,3,Agencia 3,Pato Branco,2018-11-04,True,16182.0,True,True,False,False,True,True,False,136826,93,15620,3,7.82,Mais de 5 anos,Acima de R$ 15.000,69.8,1,3,3,7,Engajado,False,False
+526,Lucas Sobrenome,3,Agencia 3,Pato Branco,2022-07-22,True,25217.0,True,False,False,True,True,False,False,56140,62,13208,2,4.11,3 a 5 anos,Acima de R$ 15.000,43.7,1,2,1,4,Em Desenvolvimento,True,False
+527,Lucas Sobrenome,3,Agencia 3,Pato Branco,2018-04-20,True,17707.0,True,True,False,True,False,True,False,45559,35,17079,3,8.36,Mais de 5 anos,Acima de R$ 15.000,40.0,1,3,1,5,Maduro,False,False
+528,Joao Sobrenome,2,Agencia 2,Toledo,2024-05-24,True,10548.0,True,True,True,False,True,True,True,19066,2,15153,5,2.27,2 a 3 anos,R$ 8.001 a R$ 15.000,24.2,2,1,0,3,Em Desenvolvimento,False,True
+529,Ricardo Sobrenome,3,Agencia 3,Pato Branco,2021-06-15,True,22917.0,True,False,False,False,True,True,True,5930,8,12002,3,5.21,Mais de 5 anos,Acima de R$ 15.000,18.2,1,3,0,4,Em Desenvolvimento,False,True
+530,Juliana Sobrenome,4,Agencia 4,Maringa,2020-06-13,True,17013.0,True,False,False,True,False,True,False,34225,95,2810,2,6.21,Mais de 5 anos,Acima de R$ 15.000,34.4,1,3,0,4,Em Desenvolvimento,True,True
+531,Bruno Sobrenome,3,Agencia 3,Chapeco,2020-05-20,True,25835.0,True,True,False,True,True,True,False,47946,28,1743,4,6.28,Mais de 5 anos,Acima de R$ 15.000,19.4,2,3,0,5,Maduro,False,True
+532,Ricardo Sobrenome,5,Agencia 5,Chapeco,2026-07-21,True,21509.0,True,True,True,True,True,True,False,81734,67,17460,5,0.11,Menos de 2 anos,Acima de R$ 15.000,55.5,2,0,2,4,Em Desenvolvimento,False,False
+533,Amanda Sobrenome,5,Agencia 5,Pato Branco,2024-02-14,True,10962.0,True,False,True,False,False,False,False,182703,48,9926,1,2.54,2 a 3 anos,R$ 8.001 a R$ 15.000,62.4,0,1,2,3,Em Desenvolvimento,False,False
+534,Ricardo Sobrenome,1,Agencia 1,Pato Branco,2025-10-21,True,3095.0,True,True,True,False,False,True,True,68859,74,15311,4,0.86,Menos de 2 anos,R$ 3.001 a R$ 8.000,51.5,2,0,2,4,Em Desenvolvimento,False,False
+535,Lucas Sobrenome,4,Agencia 4,Pato Branco,2018-09-20,True,28761.0,True,True,False,True,False,False,False,18852,90,17420,2,7.94,Mais de 5 anos,Acima de R$ 15.000,48.4,1,3,1,5,Maduro,True,False
+536,Paula Sobrenome,5,Agencia 5,Pato Branco,2024-03-06,True,27676.0,True,True,True,False,False,True,False,122678,100,8755,3,2.48,2 a 3 anos,Acima de R$ 15.000,60.7,1,1,2,4,Em Desenvolvimento,False,False
+537,Bruno Sobrenome,2,Agencia 2,Chapeco,,False,7422.0,True,False,False,True,True,False,True,230147,2,19408,3,,Nao informado,R$ 3.001 a R$ 8.000,70.7,1,1,3,5,Maduro,False,False
+538,Amanda Sobrenome,3,Agencia 3,Pato Branco,2019-01-28,True,22204.0,True,True,False,True,True,False,True,37001,56,7021,4,7.59,Mais de 5 anos,Acima de R$ 15.000,31.0,2,3,0,5,Maduro,False,True
+539,Ricardo Sobrenome,1,Agencia 1,Maringa,2020-07-21,True,,False,False,False,True,False,True,True,15664,36,16479,3,6.11,Mais de 5 anos,Nao informado,33.2,1,3,0,4,Em Desenvolvimento,False,True
+540,Paula Sobrenome,5,Agencia 5,Cascavel,2025-05-22,True,12305.0,True,True,False,True,False,False,False,80785,73,7571,2,1.27,Menos de 2 anos,R$ 8.001 a R$ 15.000,44.4,1,0,1,2,Inicial,False,False
+541,Fernanda Sobrenome,4,Agencia 4,Pato Branco,2024-11-11,True,8803.0,True,False,False,True,False,True,True,232463,23,17438,3,1.8,Menos de 2 anos,R$ 8.001 a R$ 15.000,73.6,1,0,3,4,Em Desenvolvimento,False,False
+542,Fernanda Sobrenome,5,Agencia 5,Chapeco,2023-01-23,True,9950.0,True,True,False,True,False,False,False,59424,8,16610,2,3.6,3 a 5 anos,R$ 8.001 a R$ 15.000,34.7,1,2,0,3,Em Desenvolvimento,False,True
+543,Ricardo Sobrenome,1,Agencia 1,Pato Branco,2022-12-20,True,8370.0,True,True,True,False,True,True,True,15270,88,10851,5,3.69,3 a 5 anos,R$ 8.001 a R$ 15.000,38.8,2,2,1,5,Maduro,False,False
+544,Mariana Sobrenome,3,Agencia 3,Pato Branco,2025-11-02,True,19475.0,True,True,True,False,False,True,True,36132,36,281,4,0.82,Menos de 2 anos,Acima de R$ 15.000,17.4,2,0,0,2,Inicial,False,True
+545,Carlos Sobrenome,2,Agencia 2,Maringa,2023-04-23,True,18680.0,True,False,False,True,True,False,True,119374,1,17589,3,3.35,3 a 5 anos,Acima de R$ 15.000,46.3,1,2,1,4,Em Desenvolvimento,False,False
+546,Paula Sobrenome,5,Agencia 5,Pato Branco,2022-09-15,True,10100.0,True,True,True,True,True,True,False,11748,41,3788,5,3.96,3 a 5 anos,R$ 8.001 a R$ 15.000,17.7,2,2,0,4,Em Desenvolvimento,False,True
+547,Lucas Sobrenome,5,Agencia 5,Cascavel,2019-05-16,True,24792.0,True,True,False,True,False,True,True,20688,82,2548,4,7.29,Mais de 5 anos,Acima de R$ 15.000,28.3,2,3,0,5,Maduro,False,True
+548,Lucas Sobrenome,1,Agencia 1,Chapeco,,False,22574.0,True,False,False,False,True,True,False,8100,31,6300,2,,Nao informado,Acima de R$ 15.000,17.4,1,1,0,2,Inicial,True,True
+549,Paula Sobrenome,5,Agencia 5,Toledo,2020-06-02,True,2164.0,True,False,False,False,True,False,True,85991,59,425,2,6.24,Mais de 5 anos,Ate R$ 3.000,33.1,1,3,0,4,Em Desenvolvimento,False,True
+550,Ricardo Sobrenome,1,Agencia 1,Toledo,2018-12-07,True,3631.0,True,False,False,True,True,False,True,157322,87,551,3,7.73,Mais de 5 anos,R$ 3.001 a R$ 8.000,53.9,1,3,2,6,Maduro,False,False
+551,Juliana Sobrenome,2,Agencia 2,Pato Branco,2024-12-20,True,7654.0,True,False,True,False,True,False,False,190549,27,10641,2,1.69,Menos de 2 anos,R$ 3.001 a R$ 8.000,58.6,1,0,2,3,Em Desenvolvimento,False,False
+552,Mariana Sobrenome,2,Agencia 2,Pato Branco,2026-07-23,True,27742.0,True,False,True,False,True,True,False,13654,4,3012,3,0.1,Menos de 2 anos,Acima de R$ 15.000,7.5,1,0,0,1,Inicial,False,True
+553,Juliana Sobrenome,2,Agencia 2,Cascavel,2026-01-09,True,19585.0,True,True,True,True,True,True,False,63173,18,11707,5,0.64,Menos de 2 anos,Acima de R$ 15.000,31.7,2,0,0,2,Inicial,False,True
+554,Ricardo Sobrenome,5,Agencia 5,Maringa,2026-08-09,True,19279.0,True,False,True,True,True,True,False,3174,47,15044,4,0.06,Menos de 2 anos,Acima de R$ 15.000,31.6,2,0,0,2,Inicial,False,True
+555,Juliana Sobrenome,2,Agencia 2,Chapeco,2024-08-04,True,27681.0,True,True,True,True,True,False,True,193598,72,6811,5,2.07,2 a 3 anos,Acima de R$ 15.000,65.6,2,1,3,6,Maduro,False,False
+556,Paula Sobrenome,3,Agencia 3,Chapeco,2020-10-11,True,8453.0,True,True,True,False,False,True,True,67238,97,12241,4,5.88,Mais de 5 anos,R$ 8.001 a R$ 15.000,53.1,2,3,2,7,Engajado,False,False
+557,Lucas Sobrenome,5,Agencia 5,Toledo,2023-05-05,True,25474.0,True,True,False,True,False,True,True,122191,64,8935,4,3.32,3 a 5 anos,Acima de R$ 15.000,52.1,2,2,2,6,Maduro,False,False
+558,Fernanda Sobrenome,5,Agencia 5,Pato Branco,2025-04-19,True,17505.0,True,True,False,True,True,True,True,142447,0,10326,5,1.36,Menos de 2 anos,Acima de R$ 15.000,42.0,2,0,1,3,Em Desenvolvimento,False,False
+559,Carlos Sobrenome,1,Agencia 1,Maringa,2026-01-08,True,5566.0,True,True,True,True,False,True,True,159791,23,4989,5,0.64,Menos de 2 anos,R$ 3.001 a R$ 8.000,44.1,2,0,1,3,Em Desenvolvimento,False,False
+560,Carlos Sobrenome,3,Agencia 3,Chapeco,2018-02-22,True,8016.0,True,True,False,False,True,True,True,236465,26,18458,4,8.52,Mais de 5 anos,R$ 8.001 a R$ 15.000,76.5,2,3,3,8,Engajado,False,False
+561,Bruno Sobrenome,5,Agencia 5,Pato Branco,2020-12-22,True,15387.0,True,True,False,True,True,True,False,176031,43,15643,4,5.69,Mais de 5 anos,Acima de R$ 15.000,66.1,2,3,3,8,Engajado,False,False
+562,Mariana Sobrenome,4,Agencia 4,Cascavel,2020-11-05,True,29614.0,True,True,True,False,False,False,True,177714,85,2873,3,5.82,Mais de 5 anos,Acima de R$ 15.000,60.0,1,3,2,6,Maduro,False,False
+563,Amanda Sobrenome,4,Agencia 4,Maringa,2025-10-20,True,4242.0,True,False,True,False,True,True,True,34404,69,15245,4,0.86,Menos de 2 anos,R$ 3.001 a R$ 8.000,44.1,2,0,1,3,Em Desenvolvimento,False,False
+564,Fernanda Sobrenome,4,Agencia 4,Maringa,2019-11-22,True,17693.0,True,False,True,True,False,False,False,230179,73,2326,2,6.77,Mais de 5 anos,Acima de R$ 15.000,66.8,1,3,3,7,Engajado,True,False
+565,Amanda Sobrenome,1,Agencia 1,Cascavel,2025-02-11,True,13541.0,True,True,False,True,False,False,True,48514,11,15081,3,1.55,Menos de 2 anos,R$ 8.001 a R$ 15.000,32.0,1,0,0,1,Inicial,False,True
+566,Ricardo Sobrenome,1,Agencia 1,Pato Branco,2025-04-23,True,8756.0,True,True,False,False,True,False,False,179274,83,10500,2,1.35,Menos de 2 anos,R$ 8.001 a R$ 15.000,70.0,1,0,3,4,Em Desenvolvimento,False,False
+567,Paula Sobrenome,3,Agencia 3,Pato Branco,2019-07-08,True,16091.0,True,True,False,False,True,True,False,214673,22,8399,3,7.15,Mais de 5 anos,Acima de R$ 15.000,59.1,1,3,2,6,Maduro,False,False
+568,Mariana Sobrenome,5,Agencia 5,Pato Branco,2024-10-11,True,29845.0,True,True,True,False,False,True,True,170329,8,14658,4,1.88,Menos de 2 anos,Acima de R$ 15.000,54.5,2,0,2,4,Em Desenvolvimento,False,False
+569,Carlos Sobrenome,2,Agencia 2,Maringa,2022-03-10,True,11720.0,True,False,True,False,True,True,True,52178,95,12814,4,4.47,3 a 5 anos,R$ 8.001 a R$ 15.000,50.4,2,2,2,6,Maduro,False,False
+570,Mariana Sobrenome,5,Agencia 5,Toledo,2025-03-20,True,29880.0,True,False,False,False,False,False,False,240400,12,17678,0,1.45,Menos de 2 anos,Acima de R$ 15.000,73.0,0,0,3,3,Em Desenvolvimento,True,False
+571,Lucas Sobrenome,3,Agencia 3,Toledo,2022-01-26,True,10626.0,True,True,True,True,False,True,True,140837,27,11133,5,4.59,3 a 5 anos,R$ 8.001 a R$ 15.000,49.1,2,2,1,5,Maduro,False,False
+572,Ricardo Sobrenome,2,Agencia 2,Maringa,2020-10-09,True,13665.0,True,True,True,True,True,True,True,199758,42,8179,6,5.89,Mais de 5 anos,R$ 8.001 a R$ 15.000,61.8,3,3,2,8,Engajado,False,False
+573,Amanda Sobrenome,3,Agencia 3,Pato Branco,2023-11-13,True,18504.0,True,True,False,True,False,False,True,190787,49,13067,3,2.8,2 a 3 anos,Acima de R$ 15.000,67.7,1,1,3,5,Maduro,False,False
+574,Bruno Sobrenome,1,Agencia 1,Pato Branco,2026-02-14,True,23883.0,True,False,True,False,True,False,True,207706,18,5395,3,0.54,Menos de 2 anos,Acima de R$ 15.000,52.9,1,0,2,3,Em Desenvolvimento,False,False
+575,Fernanda Sobrenome,2,Agencia 2,Cascavel,2022-01-28,True,16468.0,True,True,False,False,False,True,True,208404,38,4484,3,4.59,3 a 5 anos,Acima de R$ 15.000,57.3,1,2,2,5,Maduro,False,False
+576,Ricardo Sobrenome,1,Agencia 1,Toledo,2024-03-17,True,17227.0,True,True,False,False,False,True,False,69288,64,9643,2,2.45,2 a 3 anos,Acima de R$ 15.000,42.4,1,1,1,3,Em Desenvolvimento,True,False
+577,Juliana Sobrenome,4,Agencia 4,Maringa,2024-03-11,True,6130.0,True,True,True,False,True,True,True,71203,34,15153,5,2.47,2 a 3 anos,R$ 3.001 a R$ 8.000,42.4,2,1,1,4,Em Desenvolvimento,False,False
+578,Juliana Sobrenome,3,Agencia 3,Chapeco,2023-11-18,True,7361.0,True,True,False,False,False,False,True,46149,15,11035,2,2.78,2 a 3 anos,R$ 3.001 a R$ 8.000,27.8,1,1,0,2,Inicial,False,True
+579,Juliana Sobrenome,3,Agencia 3,Toledo,2019-02-07,True,27116.0,True,False,True,False,False,False,False,202560,53,4023,1,7.56,Mais de 5 anos,Acima de R$ 15.000,59.8,0,3,2,5,Maduro,True,False
+580,Fernanda Sobrenome,3,Agencia 3,Cascavel,2020-03-16,True,23820.0,True,True,False,False,True,False,False,36408,46,15706,2,6.46,Mais de 5 anos,Acima de R$ 15.000,39.9,1,3,1,5,Maduro,True,False
+581,Carlos Sobrenome,5,Agencia 5,Cascavel,2024-07-11,True,2314.0,True,True,True,True,False,False,False,32035,98,10287,3,2.14,2 a 3 anos,Ate R$ 3.000,44.4,1,1,1,3,Em Desenvolvimento,False,False
+582,Bruno Sobrenome,4,Agencia 4,Pato Branco,2025-06-10,True,13214.0,True,True,True,False,True,True,True,236971,47,4292,5,1.22,Menos de 2 anos,R$ 8.001 a R$ 15.000,64.9,2,0,3,5,Maduro,False,False
+583,Amanda Sobrenome,1,Agencia 1,Chapeco,2018-03-08,True,5461.0,True,False,True,False,False,False,False,29231,38,6288,1,8.48,Mais de 5 anos,R$ 3.001 a R$ 8.000,23.8,0,3,0,3,Em Desenvolvimento,False,True
+584,Joao Sobrenome,5,Agencia 5,Cascavel,2019-02-25,True,23861.0,True,True,False,True,False,True,False,231262,82,9228,3,7.51,Mais de 5 anos,Acima de R$ 15.000,77.9,1,3,3,7,Engajado,False,False
+585,Carlos Sobrenome,4,Agencia 4,Maringa,2021-01-21,True,5183.0,True,False,False,False,False,True,True,13570,24,8448,2,5.6,Mais de 5 anos,R$ 3.001 a R$ 8.000,19.4,1,3,0,4,Em Desenvolvimento,False,True
+586,Carlos Sobrenome,2,Agencia 2,Pato Branco,2019-05-25,True,8156.0,True,True,True,True,True,True,False,249277,47,3955,5,7.27,Mais de 5 anos,R$ 8.001 a R$ 15.000,66.7,2,3,3,8,Engajado,False,False
+587,Lucas Sobrenome,2,Agencia 2,Pato Branco,2019-04-18,True,10751.0,True,False,False,False,True,False,True,193224,91,8073,2,7.37,Mais de 5 anos,R$ 8.001 a R$ 15.000,71.9,1,3,3,7,Engajado,False,False
+588,Ricardo Sobrenome,1,Agencia 1,Pato Branco,2023-10-16,True,4373.0,True,False,True,False,False,False,True,158836,27,15700,2,2.87,2 a 3 anos,R$ 3.001 a R$ 8.000,58.5,1,1,2,4,Em Desenvolvimento,False,False
+589,Bruno Sobrenome,4,Agencia 4,Chapeco,2019-06-08,True,5868.0,True,True,True,True,True,False,False,55371,76,4098,4,7.23,Mais de 5 anos,R$ 3.001 a R$ 8.000,35.1,2,3,0,5,Maduro,False,True
+590,Mariana Sobrenome,4,Agencia 4,Pato Branco,2026-01-10,True,12522.0,True,True,False,False,True,True,True,217990,36,4230,4,0.64,Menos de 2 anos,R$ 8.001 a R$ 15.000,58.2,2,0,2,4,Em Desenvolvimento,False,False
+591,Fernanda Sobrenome,4,Agencia 4,Chapeco,2020-07-08,True,6318.0,True,False,True,False,False,False,False,154995,80,7012,1,6.14,Mais de 5 anos,R$ 3.001 a R$ 8.000,59.6,0,3,2,5,Maduro,False,False
+592,Bruno Sobrenome,1,Agencia 1,Toledo,2018-05-23,True,21241.0,True,True,True,False,False,True,False,76154,97,1182,3,8.27,Mais de 5 anos,Acima de R$ 15.000,41.0,1,3,1,5,Maduro,False,False
+593,Carlos Sobrenome,5,Agencia 5,Maringa,2025-11-28,True,7954.0,True,False,True,True,True,False,True,193960,29,8365,4,0.75,Menos de 2 anos,R$ 3.001 a R$ 8.000,57.2,2,0,2,4,Em Desenvolvimento,False,False
+594,Mariana Sobrenome,4,Agencia 4,Cascavel,2019-08-19,True,2217.0,True,False,True,False,False,True,False,2640,74,4969,2,7.03,Mais de 5 anos,Ate R$ 3.000,25.0,1,3,0,4,Em Desenvolvimento,False,True
+595,Fernanda Sobrenome,2,Agencia 2,Toledo,2018-07-07,True,18837.0,True,True,True,True,True,True,False,177012,25,7957,5,8.15,Mais de 5 anos,Acima de R$ 15.000,51.7,2,3,2,7,Engajado,False,False
+596,Juliana Sobrenome,3,Agencia 3,Pato Branco,2022-03-09,True,8658.0,True,False,False,True,False,True,True,7311,57,14217,3,4.48,3 a 5 anos,R$ 8.001 a R$ 15.000,33.9,1,2,0,3,Em Desenvolvimento,False,True
+597,Juliana Sobrenome,1,Agencia 1,Pato Branco,,False,27443.0,True,False,False,False,False,True,False,101812,64,8789,1,,Nao informado,Acima de R$ 15.000,47.4,0,1,1,2,Inicial,True,False
+598,Amanda Sobrenome,4,Agencia 4,Pato Branco,2023-02-15,True,17206.0,True,True,True,True,True,True,True,144070,77,13518,6,3.54,3 a 5 anos,Acima de R$ 15.000,65.1,3,2,3,8,Engajado,False,False
+599,Joao Sobrenome,5,Agencia 5,Pato Branco,2019-08-25,True,9678.0,True,False,True,True,True,False,False,196783,61,3275,3,7.01,Mais de 5 anos,R$ 8.001 a R$ 15.000,59.2,1,3,2,6,Maduro,False,False
+600,Mariana Sobrenome,2,Agencia 2,Toledo,2022-10-16,True,8351.0,True,True,True,True,True,True,False,171017,98,7633,5,3.87,3 a 5 anos,R$ 8.001 a R$ 15.000,68.4,2,2,3,7,Engajado,False,False
+601,Ricardo Sobrenome,1,Agencia 1,Maringa,2023-09-18,True,19764.0,True,False,False,False,False,True,False,76258,19,12990,1,2.95,2 a 3 anos,Acima de R$ 15.000,36.8,0,1,0,1,Inicial,True,True
+602,Bruno Sobrenome,3,Agencia 3,Pato Branco,2018-11-04,True,22109.0,True,False,False,True,True,True,False,138199,54,18222,3,7.82,Mais de 5 anos,Acima de R$ 15.000,64.0,1,3,3,7,Engajado,False,False
+603,Fernanda Sobrenome,5,Agencia 5,Toledo,2018-01-05,True,6629.0,True,True,False,True,False,False,False,4125,16,7223,2,8.65,Mais de 5 anos,R$ 3.001 a R$ 8.000,13.6,1,3,0,4,Em Desenvolvimento,False,True
+604,Amanda Sobrenome,2,Agencia 2,Toledo,2024-08-26,True,12680.0,True,True,False,False,True,True,False,98941,31,10493,3,2.01,2 a 3 anos,R$ 8.001 a R$ 15.000,40.8,1,1,1,3,Em Desenvolvimento,False,False
+605,Mariana Sobrenome,4,Agencia 4,Pato Branco,2026-05-05,True,8975.0,True,False,True,True,True,True,True,181834,48,1512,5,0.32,Menos de 2 anos,R$ 8.001 a R$ 15.000,51.1,2,0,2,4,Em Desenvolvimento,False,False
+606,Carlos Sobrenome,1,Agencia 1,Pato Branco,2026-03-18,True,3964.0,True,True,False,False,False,True,False,5942,59,18870,2,0.45,Menos de 2 anos,R$ 3.001 a R$ 8.000,39.7,1,0,1,2,Inicial,False,False
+607,Mariana Sobrenome,5,Agencia 5,Pato Branco,2023-09-01,True,2010.0,True,False,True,True,True,False,True,17780,97,3978,4,3.0,2 a 3 anos,Ate R$ 3.000,32.9,2,1,0,3,Em Desenvolvimento,False,True
+608,Joao Sobrenome,1,Agencia 1,Toledo,2021-04-04,True,17235.0,True,False,False,True,True,False,False,155990,65,6269,2,5.4,Mais de 5 anos,Acima de R$ 15.000,55.7,1,3,2,6,Maduro,True,False
+609,Carlos Sobrenome,4,Agencia 4,Pato Branco,2019-12-16,True,11234.0,True,False,True,True,True,True,True,243544,13,4880,5,6.7,Mais de 5 anos,R$ 8.001 a R$ 15.000,57.8,2,3,2,7,Engajado,False,False
+610,Joao Sobrenome,5,Agencia 5,Chapeco,2019-11-17,True,27548.0,True,True,True,False,False,True,False,10726,17,3443,3,6.78,Mais de 5 anos,Acima de R$ 15.000,10.6,1,3,0,4,Em Desenvolvimento,False,True
+611,Carlos Sobrenome,3,Agencia 3,Maringa,2021-10-08,True,11870.0,True,True,False,True,False,True,False,154460,8,10176,3,4.89,3 a 5 anos,R$ 8.001 a R$ 15.000,46.2,1,2,1,4,Em Desenvolvimento,False,False
+612,Ricardo Sobrenome,1,Agencia 1,Pato Branco,2019-11-28,True,12947.0,True,True,True,False,False,False,False,83806,19,3053,2,6.75,Mais de 5 anos,R$ 8.001 a R$ 15.000,25.5,1,3,0,4,Em Desenvolvimento,False,True
+613,Lucas Sobrenome,5,Agencia 5,Pato Branco,2025-07-28,True,7671.0,True,False,True,True,True,False,False,83742,13,14555,3,1.09,Menos de 2 anos,R$ 3.001 a R$ 8.000,38.7,1,0,1,2,Inicial,False,False
+614,Mariana Sobrenome,2,Agencia 2,Pato Branco,2026-08-24,True,26289.0,True,True,True,False,True,False,True,4905,26,11577,4,0.02,Menos de 2 anos,Acima de R$ 15.000,22.0,2,0,0,2,Inicial,False,True
+615,Joao Sobrenome,2,Agencia 2,Cascavel,,False,25715.0,True,True,False,False,True,True,False,227796,7,6687,3,,Nao informado,Acima de R$ 15.000,55.3,1,1,2,4,Em Desenvolvimento,False,False
+616,Carlos Sobrenome,1,Agencia 1,Pato Branco,,False,,False,True,False,False,False,True,False,235568,95,9004,2,,Nao informado,Nao informado,81.6,1,1,3,5,Maduro,False,False
+617,Ricardo Sobrenome,5,Agencia 5,Cascavel,2022-06-08,True,15096.0,True,False,True,True,False,True,False,135206,31,15334,3,4.23,3 a 5 anos,Acima de R$ 15.000,54.2,1,2,2,5,Maduro,False,False
+618,Mariana Sobrenome,1,Agencia 1,Pato Branco,2026-02-14,True,21119.0,True,True,False,False,False,False,False,145747,93,14657,1,0.54,Menos de 2 anos,Acima de R$ 15.000,70.7,0,0,3,3,Em Desenvolvimento,True,False
+619,Joao Sobrenome,2,Agencia 2,Pato Branco,2024-03-14,True,17438.0,True,False,False,True,False,True,True,116657,44,14502,3,2.46,2 a 3 anos,Acima de R$ 15.000,52.8,1,1,2,4,Em Desenvolvimento,False,False
+620,Carlos Sobrenome,5,Agencia 5,Pato Branco,2018-05-08,True,8847.0,True,False,False,False,False,False,True,31531,84,12255,1,8.31,Mais de 5 anos,R$ 8.001 a R$ 15.000,42.8,0,3,1,4,Em Desenvolvimento,False,False
+621,Lucas Sobrenome,5,Agencia 5,Maringa,2021-07-23,True,21818.0,True,True,False,False,False,False,True,4642,24,12273,2,5.1,Mais de 5 anos,Acima de R$ 15.000,22.2,1,3,0,4,Em Desenvolvimento,True,True
+622,Ricardo Sobrenome,5,Agencia 5,Pato Branco,2025-07-05,True,2247.0,True,True,False,False,True,True,False,62191,37,7510,3,1.15,Menos de 2 anos,Ate R$ 3.000,31.4,1,0,0,1,Inicial,False,True
+623,Bruno Sobrenome,5,Agencia 5,Pato Branco,2018-12-06,True,12450.0,True,False,False,False,True,False,False,40653,97,6260,1,7.73,Mais de 5 anos,R$ 8.001 a R$ 15.000,40.5,0,3,1,4,Em Desenvolvimento,False,False
+624,Bruno Sobrenome,5,Agencia 5,Pato Branco,2021-01-25,True,24350.0,True,False,False,False,False,False,False,10697,32,19356,0,5.59,Mais de 5 anos,Acima de R$ 15.000,34.9,0,3,0,3,Em Desenvolvimento,True,True
+625,Mariana Sobrenome,2,Agencia 2,Cascavel,2018-12-19,True,14081.0,True,True,False,True,False,True,False,95354,65,11821,3,7.7,Mais de 5 anos,R$ 8.001 a R$ 15.000,50.2,1,3,1,5,Maduro,False,False
+626,Mariana Sobrenome,1,Agencia 1,Toledo,2021-02-10,True,15078.0,True,False,False,True,True,False,False,195125,46,5078,2,5.55,Mais de 5 anos,Acima de R$ 15.000,58.0,1,3,2,6,Maduro,True,False
+627,Paula Sobrenome,4,Agencia 4,Toledo,2026-03-06,True,11046.0,True,False,False,True,False,False,True,205504,98,9952,2,0.48,Menos de 2 anos,R$ 8.001 a R$ 15.000,78.7,1,0,3,4,Em Desenvolvimento,False,False
+628,Fernanda Sobrenome,2,Agencia 2,Pato Branco,2023-02-11,True,26984.0,True,False,True,True,True,True,False,144771,31,3509,4,3.55,3 a 5 anos,Acima de R$ 15.000,41.3,2,2,1,5,Maduro,False,False
+629,Paula Sobrenome,2,Agencia 2,Pato Branco,2018-07-05,True,14712.0,True,False,True,True,True,True,True,193220,32,14640,5,8.15,Mais de 5 anos,R$ 8.001 a R$ 15.000,65.8,2,3,3,8,Engajado,False,False
+630,Amanda Sobrenome,3,Agencia 3,Chapeco,2018-04-03,True,21029.0,True,True,True,False,False,False,False,15663,47,1821,2,8.41,Mais de 5 anos,Acima de R$ 15.000,17.7,1,3,0,4,Em Desenvolvimento,True,True
+631,Juliana Sobrenome,5,Agencia 5,Chapeco,2026-04-24,True,11201.0,True,False,True,True,False,True,True,60867,68,18372,4,0.35,Menos de 2 anos,R$ 8.001 a R$ 15.000,52.2,2,0,2,4,Em Desenvolvimento,False,False
+632,Lucas Sobrenome,3,Agencia 3,Maringa,2025-06-24,True,19912.0,True,False,True,True,False,True,True,65180,7,10142,4,1.18,Menos de 2 anos,Acima de R$ 15.000,27.7,2,0,0,2,Inicial,False,True
+633,Paula Sobrenome,1,Agencia 1,Pato Branco,2024-02-26,True,28054.0,True,False,False,False,True,False,True,160432,84,467,2,2.51,2 a 3 anos,Acima de R$ 15.000,53.6,1,1,2,4,Em Desenvolvimento,True,False
+634,Mariana Sobrenome,4,Agencia 4,Cascavel,2023-05-26,True,26699.0,True,True,False,False,False,True,False,155692,45,6026,2,3.26,3 a 5 anos,Acima de R$ 15.000,50.5,1,2,2,5,Maduro,True,False
+635,Paula Sobrenome,4,Agencia 4,Pato Branco,2020-06-06,True,11802.0,True,True,False,True,False,False,True,128633,38,8873,3,6.23,Mais de 5 anos,R$ 8.001 a R$ 15.000,46.8,1,3,1,5,Maduro,False,False
+636,Amanda Sobrenome,1,Agencia 1,Pato Branco,2021-08-22,True,5111.0,True,False,False,True,False,False,False,12070,23,19387,1,5.02,Mais de 5 anos,R$ 3.001 a R$ 8.000,32.5,0,3,0,3,Em Desenvolvimento,False,True
+637,Mariana Sobrenome,2,Agencia 2,Pato Branco,2026-08-17,True,14802.0,True,True,True,True,False,True,False,75992,79,8739,4,0.04,Menos de 2 anos,R$ 8.001 a R$ 15.000,45.9,2,0,1,3,Em Desenvolvimento,False,False
+638,Fernanda Sobrenome,3,Agencia 3,Pato Branco,2022-05-20,True,8845.0,True,False,False,False,True,True,True,181731,57,4319,3,4.28,3 a 5 anos,R$ 8.001 a R$ 15.000,56.8,1,2,2,5,Maduro,False,False
+639,Amanda Sobrenome,2,Agencia 2,Cascavel,2024-07-04,True,3376.0,True,True,True,False,False,True,True,245182,52,8013,4,2.15,2 a 3 anos,R$ 3.001 a R$ 8.000,72.3,2,1,3,6,Maduro,False,False
+640,Fernanda Sobrenome,2,Agencia 2,Maringa,2020-11-18,True,29640.0,True,False,True,False,True,True,True,43170,25,15211,4,5.78,Mais de 5 anos,Acima de R$ 15.000,34.6,2,3,0,5,Maduro,False,True
+641,Bruno Sobrenome,2,Agencia 2,Toledo,2019-07-04,True,22533.0,True,True,False,False,False,True,True,241015,89,3027,3,7.16,Mais de 5 anos,Acima de R$ 15.000,73.7,1,3,3,7,Engajado,False,False
+642,Carlos Sobrenome,3,Agencia 3,Toledo,2020-03-07,True,27966.0,True,True,False,False,True,True,True,247106,28,18878,4,6.48,Mais de 5 anos,Acima de R$ 15.000,80.0,2,3,3,8,Engajado,False,False
+643,Ricardo Sobrenome,2,Agencia 2,Chapeco,2020-08-05,True,10682.0,True,True,True,False,False,True,True,188049,98,12687,4,6.07,Mais de 5 anos,R$ 8.001 a R$ 15.000,78.4,2,3,3,8,Engajado,False,False
+644,Carlos Sobrenome,4,Agencia 4,Chapeco,2019-03-24,True,29785.0,True,True,False,False,True,False,False,46177,71,4037,2,7.44,Mais de 5 anos,Acima de R$ 15.000,32.7,1,3,0,4,Em Desenvolvimento,True,True
+645,Ricardo Sobrenome,2,Agencia 2,Maringa,2020-10-17,True,8908.0,True,True,True,False,True,True,False,54491,14,6734,4,5.87,Mais de 5 anos,R$ 8.001 a R$ 15.000,22.9,2,3,0,5,Maduro,False,True
+646,Lucas Sobrenome,3,Agencia 3,Toledo,2022-02-17,True,8988.0,True,False,False,False,False,False,True,79070,29,11090,1,4.53,3 a 5 anos,R$ 8.001 a R$ 15.000,38.0,0,2,1,3,Em Desenvolvimento,False,False
+647,Bruno Sobrenome,3,Agencia 3,Cascavel,2026-01-16,True,15472.0,True,False,False,True,False,True,False,170854,65,16512,2,0.62,Menos de 2 anos,Acima de R$ 15.000,71.3,1,0,3,4,Em Desenvolvimento,True,False
+648,Ricardo Sobrenome,4,Agencia 4,Pato Branco,2018-07-09,True,17955.0,True,True,False,False,True,True,True,105325,19,16399,4,8.14,Mais de 5 anos,Acima de R$ 15.000,45.8,2,3,1,6,Maduro,False,False
+649,Fernanda Sobrenome,4,Agencia 4,Pato Branco,2020-07-15,True,27451.0,True,True,False,False,True,False,False,6843,98,4605,2,6.12,Mais de 5 anos,Acima de R$ 15.000,31.8,1,3,0,4,Em Desenvolvimento,True,True
+650,Amanda Sobrenome,1,Agencia 1,Pato Branco,2020-04-22,True,21666.0,True,True,True,False,True,True,True,119006,73,9893,5,6.35,Mais de 5 anos,Acima de R$ 15.000,54.6,2,3,2,7,Engajado,False,False
+651,Amanda Sobrenome,4,Agencia 4,Pato Branco,2026-04-17,True,19384.0,True,True,False,True,False,False,False,140951,94,12731,2,0.37,Menos de 2 anos,Acima de R$ 15.000,67.4,1,0,3,4,Em Desenvolvimento,True,False
+652,Mariana Sobrenome,3,Agencia 3,Maringa,2025-01-25,True,2776.0,True,False,False,False,False,True,True,79420,5,11869,2,1.59,Menos de 2 anos,Ate R$ 3.000,32.6,1,0,0,1,Inicial,False,True
+653,Carlos Sobrenome,4,Agencia 4,Cascavel,2023-08-14,True,26031.0,True,True,True,True,False,False,False,235283,6,16433,3,3.04,3 a 5 anos,Acima de R$ 15.000,68.6,1,2,3,6,Maduro,False,False
+654,Juliana Sobrenome,1,Agencia 1,Pato Branco,2019-05-04,True,21750.0,True,True,True,False,False,True,True,191731,98,1433,4,7.32,Mais de 5 anos,Acima de R$ 15.000,64.8,2,3,3,8,Engajado,False,False
+655,Juliana Sobrenome,5,Agencia 5,Cascavel,2021-02-17,True,7218.0,True,True,True,False,True,True,False,244407,25,12847,4,5.53,Mais de 5 anos,R$ 3.001 a R$ 8.000,70.9,2,3,3,8,Engajado,False,False
+656,Paula Sobrenome,3,Agencia 3,Maringa,2018-01-14,True,21102.0,True,True,False,False,True,True,False,82195,73,9940,3,8.62,Mais de 5 anos,Acima de R$ 15.000,47.8,1,3,1,5,Maduro,False,False
+657,Amanda Sobrenome,5,Agencia 5,Pato Branco,2018-08-08,True,27927.0,True,False,True,True,True,False,False,228331,89,18717,3,8.06,Mais de 5 anos,Acima de R$ 15.000,90.7,1,3,3,7,Engajado,False,False
+658,Mariana Sobrenome,1,Agencia 1,Cascavel,2026-04-04,True,12886.0,True,True,True,True,True,False,False,141884,52,7749,4,0.41,Menos de 2 anos,R$ 8.001 a R$ 15.000,51.4,2,0,2,4,Em Desenvolvimento,False,False
+659,Amanda Sobrenome,5,Agencia 5,Pato Branco,2025-05-21,True,24715.0,True,True,False,False,False,False,False,77066,8,3732,1,1.28,Menos de 2 anos,Acima de R$ 15.000,22.5,0,0,0,0,Inicial,True,True
+660,Paula Sobrenome,2,Agencia 2,Chapeco,2024-07-16,True,12906.0,True,True,True,False,False,False,False,214818,20,13939,2,2.12,2 a 3 anos,R$ 8.001 a R$ 15.000,65.8,1,1,3,5,Maduro,False,False
+661,Amanda Sobrenome,1,Agencia 1,Chapeco,2026-03-15,True,12317.0,True,True,True,True,True,True,True,236531,22,14531,6,0.46,Menos de 2 anos,R$ 8.001 a R$ 15.000,70.6,3,0,3,6,Maduro,False,False
+662,Fernanda Sobrenome,3,Agencia 3,Toledo,2021-01-18,True,12949.0,True,False,False,True,True,False,False,226391,68,5660,2,5.61,Mais de 5 anos,R$ 8.001 a R$ 15.000,69.4,1,3,3,7,Engajado,False,False
+663,Joao Sobrenome,4,Agencia 4,Toledo,2026-02-13,True,4824.0,True,True,True,False,True,False,True,178349,28,8126,4,0.54,Menos de 2 anos,R$ 3.001 a R$ 8.000,53.3,2,0,2,4,Em Desenvolvimento,False,False
+664,Lucas Sobrenome,4,Agencia 4,Pato Branco,2025-06-12,True,27130.0,True,False,True,False,True,False,False,175724,90,2137,2,1.22,Menos de 2 anos,Acima de R$ 15.000,60.0,1,0,2,3,Em Desenvolvimento,True,False
+665,Lucas Sobrenome,4,Agencia 4,Cascavel,2021-02-15,True,10396.0,True,False,False,True,True,False,False,188939,81,15275,2,5.54,Mais de 5 anos,R$ 8.001 a R$ 15.000,77.3,1,3,3,7,Engajado,False,False
+666,Ricardo Sobrenome,5,Agencia 5,Toledo,2019-11-15,True,24651.0,True,True,True,True,False,False,True,128074,30,1768,4,6.79,Mais de 5 anos,Acima de R$ 15.000,35.6,2,3,0,5,Maduro,False,True
+667,Juliana Sobrenome,1,Agencia 1,Chapeco,2022-08-24,True,7294.0,True,True,True,True,False,True,True,14275,67,2163,5,4.02,3 a 5 anos,R$ 3.001 a R$ 8.000,22.7,2,2,0,4,Em Desenvolvimento,False,True
+668,Lucas Sobrenome,1,Agencia 1,Maringa,2024-02-10,True,21199.0,True,False,False,True,True,False,True,64875,2,5721,3,2.55,2 a 3 anos,Acima de R$ 15.000,20.6,1,1,0,2,Inicial,False,True
+669,Carlos Sobrenome,3,Agencia 3,Pato Branco,2023-05-11,True,3078.0,True,True,True,True,True,True,True,238905,78,1491,6,3.3,3 a 5 anos,R$ 3.001 a R$ 8.000,68.4,3,2,3,8,Engajado,False,False
+670,Fernanda Sobrenome,1,Agencia 1,Toledo,2020-10-04,True,16758.0,True,True,False,False,False,False,True,38359,78,1942,2,5.9,Mais de 5 anos,Acima de R$ 15.000,30.0,1,3,0,4,Em Desenvolvimento,True,True
+671,Amanda Sobrenome,1,Agencia 1,Cascavel,2021-07-04,True,19754.0,True,True,True,True,False,True,False,171218,75,463,4,5.16,Mais de 5 anos,Acima de R$ 15.000,53.4,2,3,2,7,Engajado,False,False
+672,Lucas Sobrenome,1,Agencia 1,Pato Branco,2019-01-10,True,9364.0,True,False,True,True,True,True,False,151154,63,1300,4,7.64,Mais de 5 anos,R$ 8.001 a R$ 15.000,47.8,2,3,1,6,Maduro,False,False
+673,Paula Sobrenome,3,Agencia 3,Pato Branco,,False,25329.0,True,False,True,False,True,False,True,50021,82,6638,3,,Nao informado,Acima de R$ 15.000,38.9,1,1,1,3,Em Desenvolvimento,False,False
+674,Carlos Sobrenome,1,Agencia 1,Chapeco,2020-06-10,True,9026.0,True,False,True,True,False,False,False,180155,81,11470,2,6.22,Mais de 5 anos,R$ 8.001 a R$ 15.000,70.8,1,3,3,7,Engajado,False,False
+675,Bruno Sobrenome,5,Agencia 5,Pato Branco,2018-07-21,True,21041.0,True,False,True,False,False,True,True,238028,42,4974,3,8.11,Mais de 5 anos,Acima de R$ 15.000,64.5,1,3,3,7,Engajado,False,False
+676,Carlos Sobrenome,1,Agencia 1,Maringa,2019-02-25,True,15371.0,True,True,False,False,True,False,False,158206,95,19120,2,7.51,Mais de 5 anos,Acima de R$ 15.000,79.3,1,3,3,7,Engajado,True,False
+677,Ricardo Sobrenome,4,Agencia 4,Cascavel,2026-03-23,True,26986.0,True,False,True,True,True,False,True,113337,86,7037,4,0.44,Menos de 2 anos,Acima de R$ 15.000,52.5,2,0,2,4,Em Desenvolvimento,False,False
+678,Ricardo Sobrenome,3,Agencia 3,Maringa,2018-08-02,True,7056.0,True,True,True,False,False,False,False,102656,5,11161,2,8.08,Mais de 5 anos,R$ 3.001 a R$ 8.000,35.9,1,3,0,4,Em Desenvolvimento,False,True
+679,Paula Sobrenome,1,Agencia 1,Maringa,2024-05-03,True,13349.0,True,False,True,True,False,False,False,69071,61,7216,2,2.32,2 a 3 anos,R$ 8.001 a R$ 15.000,38.2,1,1,1,3,Em Desenvolvimento,False,False
+680,Ricardo Sobrenome,3,Agencia 3,Toledo,2021-06-08,True,25598.0,True,True,False,False,False,True,True,197379,45,19882,3,5.23,Mais de 5 anos,Acima de R$ 15.000,76.7,1,3,3,7,Engajado,False,False
+681,Bruno Sobrenome,3,Agencia 3,Pato Branco,2021-12-18,True,9052.0,True,False,True,False,False,False,False,131017,28,6750,1,4.7,3 a 5 anos,R$ 8.001 a R$ 15.000,41.9,0,2,1,3,Em Desenvolvimento,False,False
+682,Paula Sobrenome,3,Agencia 3,Toledo,2021-01-18,True,5684.0,True,False,False,True,True,True,False,178170,13,17619,3,5.61,Mais de 5 anos,R$ 3.001 a R$ 8.000,61.0,1,3,2,6,Maduro,False,False
+683,Amanda Sobrenome,1,Agencia 1,Chapeco,2026-02-15,True,8796.0,True,True,False,False,False,True,True,87886,45,4903,3,0.54,Menos de 2 anos,R$ 8.001 a R$ 15.000,35.8,1,0,0,1,Inicial,False,True
+684,Carlos Sobrenome,2,Agencia 2,Chapeco,2018-01-02,True,27319.0,True,True,True,True,False,False,False,203931,13,7272,3,8.66,Mais de 5 anos,Acima de R$ 15.000,53.6,1,3,2,6,Maduro,False,False
+685,Paula Sobrenome,3,Agencia 3,Pato Branco,2024-12-09,True,15290.0,True,True,False,True,True,True,True,229351,88,15661,5,1.72,Menos de 2 anos,Acima de R$ 15.000,87.1,2,0,3,5,Maduro,False,False
+686,Juliana Sobrenome,2,Agencia 2,Pato Branco,2023-05-21,True,21551.0,True,True,True,False,True,False,False,60254,7,6129,3,3.28,3 a 5 anos,Acima de R$ 15.000,21.2,1,2,0,3,Em Desenvolvimento,False,True
+687,Carlos Sobrenome,1,Agencia 1,Chapeco,2022-05-08,True,6020.0,True,False,False,False,False,False,True,10835,32,7390,1,4.31,3 a 5 anos,R$ 3.001 a R$ 8.000,19.9,0,2,0,2,Inicial,False,True
+688,Bruno Sobrenome,4,Agencia 4,Toledo,2018-06-05,True,12524.0,True,False,False,True,False,True,True,215117,81,293,3,8.24,Mais de 5 anos,R$ 8.001 a R$ 15.000,63.6,1,3,3,7,Engajado,False,False
+689,Amanda Sobrenome,2,Agencia 2,Toledo,2019-07-17,True,22244.0,True,False,True,False,False,False,True,19280,69,2220,2,7.12,Mais de 5 anos,Acima de R$ 15.000,24.7,1,3,0,4,Em Desenvolvimento,True,True
+690,Carlos Sobrenome,5,Agencia 5,Pato Branco,2019-07-26,True,20322.0,True,True,False,False,False,True,True,184344,53,15004,3,7.1,Mais de 5 anos,Acima de R$ 15.000,69.9,1,3,3,7,Engajado,False,False
+691,Fernanda Sobrenome,2,Agencia 2,Pato Branco,2019-08-13,True,23751.0,True,True,True,True,True,False,False,90684,28,1129,4,7.05,Mais de 5 anos,Acima de R$ 15.000,26.5,2,3,0,5,Maduro,False,True
+692,Carlos Sobrenome,1,Agencia 1,Toledo,2018-06-17,True,16669.0,True,False,True,False,False,False,False,25429,7,7629,1,8.2,Mais de 5 anos,Acima de R$ 15.000,17.3,0,3,0,3,Em Desenvolvimento,True,True
+693,Fernanda Sobrenome,1,Agencia 1,Maringa,2025-06-21,True,,False,False,False,False,False,False,True,199730,39,18495,1,1.19,Menos de 2 anos,Nao informado,73.6,0,0,3,3,Em Desenvolvimento,False,False
+694,Bruno Sobrenome,3,Agencia 3,Pato Branco,2020-10-14,True,11425.0,True,True,False,False,True,False,True,169795,53,3505,3,5.88,Mais de 5 anos,R$ 8.001 a R$ 15.000,51.7,1,3,2,6,Maduro,False,False
+695,Amanda Sobrenome,2,Agencia 2,Pato Branco,2024-01-23,True,29777.0,True,False,True,False,True,False,True,227092,88,14269,3,2.6,2 a 3 anos,Acima de R$ 15.000,85.0,1,1,3,5,Maduro,False,False
+696,Paula Sobrenome,3,Agencia 3,Cascavel,,False,14817.0,True,False,False,False,False,False,True,42436,10,14894,1,,Nao informado,R$ 8.001 a R$ 15.000,30.2,0,1,0,1,Inicial,False,True
+697,Fernanda Sobrenome,4,Agencia 4,Pato Branco,2025-05-03,True,7656.0,True,True,False,False,True,True,True,20757,6,816,4,1.33,Menos de 2 anos,R$ 3.001 a R$ 8.000,7.2,2,0,0,2,Inicial,False,True
+698,Fernanda Sobrenome,2,Agencia 2,Maringa,2026-01-23,True,13227.0,True,True,False,False,True,False,False,765,25,19302,2,0.6,Menos de 2 anos,R$ 8.001 a R$ 15.000,30.4,1,0,0,1,Inicial,False,True
+699,Juliana Sobrenome,5,Agencia 5,Chapeco,2024-08-20,True,11944.0,True,False,False,False,False,True,False,145221,78,3955,1,2.03,2 a 3 anos,R$ 8.001 a R$ 15.000,53.5,0,1,2,3,Em Desenvolvimento,False,False
+700,Mariana Sobrenome,3,Agencia 3,Cascavel,2018-11-18,True,26015.0,True,True,False,True,False,True,True,76070,50,13999,4,7.78,Mais de 5 anos,Acima de R$ 15.000,46.3,2,3,1,6,Maduro,False,False
+701,Mariana Sobrenome,3,Agencia 3,Toledo,2022-09-09,True,4565.0,True,True,True,False,True,True,False,224146,78,17728,4,3.97,3 a 5 anos,R$ 3.001 a R$ 8.000,86.2,2,2,3,7,Engajado,False,False
+702,Bruno Sobrenome,5,Agencia 5,Pato Branco,2022-01-22,True,6817.0,True,True,False,False,False,False,True,199971,35,8531,2,4.6,3 a 5 anos,R$ 3.001 a R$ 8.000,60.2,1,2,2,5,Maduro,False,False
+703,Mariana Sobrenome,2,Agencia 2,Toledo,2026-06-03,True,12836.0,True,False,True,True,True,False,True,17788,65,13418,4,0.24,Menos de 2 anos,R$ 8.001 a R$ 15.000,37.3,2,0,1,3,Em Desenvolvimento,False,False
+704,Fernanda Sobrenome,5,Agencia 5,Cascavel,,False,23479.0,True,False,False,False,False,False,True,89851,57,13184,1,,Nao informado,Acima de R$ 15.000,49.2,0,1,1,2,Inicial,True,False
+705,Carlos Sobrenome,4,Agencia 4,Cascavel,2019-08-10,True,13982.0,True,False,True,True,False,False,False,68635,83,18927,2,7.06,Mais de 5 anos,R$ 8.001 a R$ 15.000,58.0,1,3,2,6,Maduro,False,False
+706,Lucas Sobrenome,1,Agencia 1,Toledo,2018-11-22,True,3577.0,True,True,True,True,False,False,False,75618,97,10121,3,7.77,Mais de 5 anos,R$ 3.001 a R$ 8.000,52.5,1,3,2,6,Maduro,False,False
+707,Amanda Sobrenome,3,Agencia 3,Chapeco,2023-09-04,True,16568.0,True,False,True,False,False,False,True,36117,44,18947,2,2.99,2 a 3 anos,Acima de R$ 15.000,43.1,1,1,1,3,Em Desenvolvimento,True,False
+708,Juliana Sobrenome,2,Agencia 2,Maringa,2018-09-16,True,28280.0,True,False,True,True,True,False,True,69220,61,1121,4,7.95,Mais de 5 anos,Acima de R$ 15.000,30.5,2,3,0,5,Maduro,False,True
+709,Carlos Sobrenome,3,Agencia 3,Pato Branco,2021-01-07,True,26071.0,True,False,True,False,False,False,True,105965,23,3180,2,5.64,Mais de 5 anos,Acima de R$ 15.000,30.3,1,3,0,4,Em Desenvolvimento,True,True
+710,Joao Sobrenome,4,Agencia 4,Pato Branco,2020-08-11,True,11680.0,True,True,True,False,True,True,True,135835,31,18571,5,6.05,Mais de 5 anos,R$ 8.001 a R$ 15.000,58.3,2,3,2,7,Engajado,False,False
+711,Juliana Sobrenome,4,Agencia 4,Chapeco,2021-04-24,True,4382.0,True,True,True,False,True,False,True,242040,85,6406,4,5.35,Mais de 5 anos,R$ 3.001 a R$ 8.000,76.9,2,3,3,8,Engajado,False,False
+712,Amanda Sobrenome,1,Agencia 1,Cascavel,2019-05-22,True,13692.0,True,False,True,False,False,False,True,117371,13,13428,2,7.27,Mais de 5 anos,R$ 8.001 a R$ 15.000,43.6,1,3,1,5,Maduro,False,False
+713,Lucas Sobrenome,5,Agencia 5,Chapeco,2022-12-18,True,19246.0,True,False,False,False,False,False,True,208484,50,3461,1,3.7,3 a 5 anos,Acima de R$ 15.000,59.1,0,2,2,4,Em Desenvolvimento,True,False
+714,Fernanda Sobrenome,5,Agencia 5,Toledo,2018-10-26,True,7825.0,True,True,False,False,True,True,True,169622,70,12595,4,7.84,Mais de 5 anos,R$ 3.001 a R$ 8.000,67.1,2,3,3,8,Engajado,False,False
+715,Lucas Sobrenome,2,Agencia 2,Cascavel,2022-03-17,True,9276.0,True,True,True,True,True,True,True,35692,68,9036,6,4.45,3 a 5 anos,R$ 8.001 a R$ 15.000,36.3,3,2,0,5,Maduro,False,True
+716,Paula Sobrenome,1,Agencia 1,Pato Branco,2020-02-21,True,19260.0,True,True,False,True,True,False,False,119741,73,321,3,6.52,Mais de 5 anos,Acima de R$ 15.000,42.6,1,3,1,5,Maduro,False,False
+717,Lucas Sobrenome,3,Agencia 3,Pato Branco,2021-10-28,True,19085.0,True,True,False,True,False,False,True,96599,84,18125,3,4.84,3 a 5 anos,Acima de R$ 15.000,62.7,1,2,2,5,Maduro,False,False
+718,Bruno Sobrenome,4,Agencia 4,Cascavel,2021-07-15,True,20195.0,True,False,True,True,False,False,False,194982,76,5474,2,5.13,Mais de 5 anos,Acima de R$ 15.000,65.3,1,3,3,7,Engajado,True,False
+719,Paula Sobrenome,1,Agencia 1,Pato Branco,2022-08-19,True,3946.0,True,True,True,True,True,True,False,89664,94,16424,5,4.03,3 a 5 anos,R$ 3.001 a R$ 8.000,61.8,2,2,2,6,Maduro,False,False
+720,Paula Sobrenome,2,Agencia 2,Pato Branco,2025-03-26,True,13404.0,True,True,True,True,False,False,False,66236,99,9028,3,1.43,Menos de 2 anos,R$ 8.001 a R$ 15.000,49.5,1,0,1,2,Inicial,False,False
+721,Lucas Sobrenome,1,Agencia 1,Pato Branco,2024-07-06,True,6599.0,True,True,True,True,True,True,False,24860,34,1979,5,2.15,2 a 3 anos,R$ 3.001 a R$ 8.000,16.8,2,1,0,3,Em Desenvolvimento,False,True
+722,Paula Sobrenome,3,Agencia 3,Pato Branco,2019-08-04,True,23273.0,True,False,True,False,False,False,True,27035,72,16397,2,7.07,Mais de 5 anos,Acima de R$ 15.000,44.5,1,3,1,5,Maduro,True,False
+723,Fernanda Sobrenome,2,Agencia 2,Toledo,2019-02-10,True,10088.0,True,True,False,False,False,False,False,219158,19,6993,1,7.55,Mais de 5 anos,R$ 8.001 a R$ 15.000,57.2,0,3,2,5,Maduro,False,False
+724,Carlos Sobrenome,5,Agencia 5,Maringa,2022-10-19,True,22735.0,True,True,False,True,False,True,False,131080,66,14610,3,3.86,3 a 5 anos,Acima de R$ 15.000,61.5,1,2,2,5,Maduro,False,False
+725,Fernanda Sobrenome,3,Agencia 3,Pato Branco,2023-01-06,True,5717.0,True,False,True,True,False,False,True,15104,60,2349,3,3.65,3 a 5 anos,R$ 3.001 a R$ 8.000,21.2,1,2,0,3,Em Desenvolvimento,False,True
+726,Ricardo Sobrenome,3,Agencia 3,Chapeco,2019-11-08,True,19724.0,True,True,False,True,False,False,False,245954,60,15734,2,6.81,Mais de 5 anos,Acima de R$ 15.000,84.0,1,3,3,7,Engajado,True,False
+727,Mariana Sobrenome,4,Agencia 4,Pato Branco,2024-06-19,True,21338.0,True,False,False,False,False,True,True,46128,67,2546,2,2.2,2 a 3 anos,Acima de R$ 15.000,30.0,1,1,0,2,Inicial,True,True
+728,Bruno Sobrenome,1,Agencia 1,Cascavel,2024-01-01,True,22558.0,True,True,True,False,False,False,True,201618,48,19994,3,2.66,2 a 3 anos,Acima de R$ 15.000,78.6,1,1,3,5,Maduro,False,False
+729,Amanda Sobrenome,5,Agencia 5,Chapeco,2022-03-17,True,14832.0,True,True,False,False,False,True,True,69687,100,9682,3,4.45,3 a 5 anos,R$ 8.001 a R$ 15.000,51.6,1,2,2,5,Maduro,False,False
+730,Paula Sobrenome,2,Agencia 2,Chapeco,2023-12-03,True,2462.0,True,True,True,True,True,False,False,248208,37,12120,4,2.74,2 a 3 anos,Ate R$ 3.000,74.1,2,1,3,6,Maduro,False,False
+731,Joao Sobrenome,5,Agencia 5,Maringa,2019-06-07,True,16400.0,True,False,True,True,True,True,True,174360,78,6486,5,7.23,Mais de 5 anos,Acima de R$ 15.000,62.1,2,3,2,7,Engajado,False,False
+732,Carlos Sobrenome,1,Agencia 1,Cascavel,2020-05-04,True,29466.0,True,False,True,True,False,False,True,142708,30,8141,3,6.32,Mais de 5 anos,Acima de R$ 15.000,46.5,1,3,1,5,Maduro,False,False
+733,Amanda Sobrenome,1,Agencia 1,Pato Branco,2018-09-09,True,2345.0,True,False,False,False,False,True,False,184693,94,14292,1,7.97,Mais de 5 anos,Ate R$ 3.000,78.8,0,3,3,6,Maduro,False,False
+734,Carlos Sobrenome,2,Agencia 2,Pato Branco,2026-05-16,True,29016.0,True,True,True,False,False,False,False,69533,23,5789,2,0.29,Menos de 2 anos,Acima de R$ 15.000,27.0,1,0,0,1,Inicial,True,True
+735,Amanda Sobrenome,5,Agencia 5,Pato Branco,2024-05-24,True,13347.0,True,True,False,True,True,False,False,95689,37,12641,3,2.27,2 a 3 anos,R$ 8.001 a R$ 15.000,44.4,1,1,1,3,Em Desenvolvimento,False,False
+736,Juliana Sobrenome,2,Agencia 2,Pato Branco,2023-05-21,True,17883.0,True,False,False,False,False,False,True,230947,97,8889,1,3.28,3 a 5 anos,Acima de R$ 15.000,81.3,0,2,3,5,Maduro,True,False
+737,Bruno Sobrenome,2,Agencia 2,Toledo,2019-05-02,True,11771.0,True,False,True,False,False,False,True,166734,78,2213,2,7.33,Mais de 5 anos,R$ 8.001 a R$ 15.000,55.4,1,3,2,6,Maduro,False,False
+738,Ricardo Sobrenome,5,Agencia 5,Toledo,2023-05-01,True,22278.0,True,False,True,True,True,False,True,189368,70,19873,4,3.33,3 a 5 anos,Acima de R$ 15.000,80.6,2,2,3,7,Engajado,False,False
+739,Paula Sobrenome,3,Agencia 3,Pato Branco,2026-01-10,True,8687.0,True,False,False,True,False,False,False,40246,84,6614,1,0.64,Menos de 2 anos,R$ 8.001 a R$ 15.000,37.4,0,0,1,1,Inicial,False,False
+740,Joao Sobrenome,1,Agencia 1,Pato Branco,2021-01-14,True,29823.0,True,False,True,True,False,True,False,17935,21,15056,3,5.62,Mais de 5 anos,Acima de R$ 15.000,28.1,1,3,0,4,Em Desenvolvimento,False,True
+741,Juliana Sobrenome,2,Agencia 2,Maringa,2024-11-23,True,29847.0,True,False,False,False,True,True,True,236206,59,13274,3,1.77,Menos de 2 anos,Acima de R$ 15.000,78.4,1,0,3,4,Em Desenvolvimento,False,False
+742,Bruno Sobrenome,3,Agencia 3,Pato Branco,2025-02-17,True,18862.0,True,True,True,False,True,False,False,236467,13,18067,3,1.53,Menos de 2 anos,Acima de R$ 15.000,72.8,1,0,3,4,Em Desenvolvimento,False,False
+743,Joao Sobrenome,4,Agencia 4,Maringa,2025-04-11,True,6768.0,True,True,True,True,False,False,False,119421,41,4936,3,1.39,Menos de 2 anos,R$ 3.001 a R$ 8.000,40.7,1,0,1,2,Inicial,False,False
+744,Bruno Sobrenome,5,Agencia 5,Maringa,2018-04-25,True,12906.0,True,False,False,True,False,False,True,56933,1,19165,2,8.35,Mais de 5 anos,R$ 8.001 a R$ 15.000,35.9,1,3,0,4,Em Desenvolvimento,False,True
+745,Fernanda Sobrenome,5,Agencia 5,Toledo,2022-09-21,True,22928.0,True,False,False,True,True,False,True,119702,19,9519,3,3.94,3 a 5 anos,Acima de R$ 15.000,40.5,1,2,1,4,Em Desenvolvimento,False,False
+746,Ricardo Sobrenome,2,Agencia 2,Pato Branco,2018-03-14,True,8774.0,True,False,False,False,False,True,True,23717,76,3637,2,8.46,Mais de 5 anos,R$ 8.001 a R$ 15.000,28.9,1,3,0,4,Em Desenvolvimento,False,True
+747,Joao Sobrenome,3,Agencia 3,Pato Branco,2026-01-13,True,11050.0,True,True,True,True,True,True,True,76558,6,13401,6,0.63,Menos de 2 anos,R$ 8.001 a R$ 15.000,34.2,3,0,0,3,Em Desenvolvimento,False,True
+748,Paula Sobrenome,2,Agencia 2,Cascavel,2026-05-07,True,23083.0,True,False,True,False,False,False,False,66067,95,19678,1,0.31,Menos de 2 anos,Acima de R$ 15.000,61.4,0,0,2,2,Inicial,True,False
+749,Juliana Sobrenome,4,Agencia 4,Cascavel,2021-02-18,True,15200.0,True,True,True,True,False,True,False,144977,94,10613,4,5.53,Mais de 5 anos,Acima de R$ 15.000,65.8,2,3,3,8,Engajado,False,False
+750,Lucas Sobrenome,3,Agencia 3,Pato Branco,,False,29426.0,True,False,True,False,False,False,False,33713,28,14911,1,,Nao informado,Acima de R$ 15.000,33.2,0,1,0,1,Inicial,True,True
+751,Joao Sobrenome,1,Agencia 1,Toledo,2023-06-12,True,25085.0,True,False,True,False,False,False,True,129248,11,8617,2,3.22,3 a 5 anos,Acima de R$ 15.000,39.6,1,2,1,4,Em Desenvolvimento,True,False
+752,Bruno Sobrenome,3,Agencia 3,Maringa,2021-09-10,True,28810.0,True,True,True,True,True,True,True,210173,19,6213,6,4.97,3 a 5 anos,Acima de R$ 15.000,54.6,3,2,2,7,Engajado,False,False
+753,Fernanda Sobrenome,3,Agencia 3,Maringa,2024-06-13,True,20401.0,True,False,True,False,False,True,False,230415,88,11973,2,2.21,2 a 3 anos,Acima de R$ 15.000,82.5,1,1,3,5,Maduro,True,False
+754,Ricardo Sobrenome,3,Agencia 3,Pato Branco,2024-09-07,True,15120.0,True,False,False,True,True,True,False,45902,92,14456,3,1.98,Menos de 2 anos,Acima de R$ 15.000,50.6,1,0,2,3,Em Desenvolvimento,False,False
+755,Paula Sobrenome,4,Agencia 4,Pato Branco,2023-11-04,True,17906.0,True,False,False,True,False,True,False,744,60,15550,2,2.82,2 a 3 anos,Acima de R$ 15.000,34.4,1,1,0,2,Inicial,True,True
+756,Carlos Sobrenome,2,Agencia 2,Cascavel,2021-05-25,True,28070.0,True,False,False,False,False,False,True,239149,19,2114,1,5.26,Mais de 5 anos,Acima de R$ 15.000,54.7,0,3,2,5,Maduro,True,False
+757,Ricardo Sobrenome,3,Agencia 3,Pato Branco,2023-05-10,True,20426.0,True,True,True,True,False,True,False,222692,82,12347,4,3.31,3 a 5 anos,Acima de R$ 15.000,80.2,2,2,3,7,Engajado,False,False
+758,Juliana Sobrenome,3,Agencia 3,Pato Branco,2025-06-22,True,29289.0,True,True,True,False,False,True,False,135577,64,18586,3,1.19,Menos de 2 anos,Acima de R$ 15.000,66.5,1,0,3,4,Em Desenvolvimento,False,False
+759,Juliana Sobrenome,4,Agencia 4,Toledo,2019-01-15,True,4675.0,True,False,False,False,False,False,True,172570,35,16750,1,7.62,Mais de 5 anos,R$ 3.001 a R$ 8.000,64.4,0,3,3,6,Maduro,False,False
+760,Paula Sobrenome,4,Agencia 4,Pato Branco,2020-10-04,True,6952.0,True,False,False,False,False,True,False,83812,65,18239,1,5.9,Mais de 5 anos,R$ 3.001 a R$ 8.000,56.5,0,3,2,5,Maduro,False,False
+761,Paula Sobrenome,3,Agencia 3,Toledo,2019-09-20,True,5369.0,True,False,False,True,True,True,True,17395,11,14259,4,6.94,Mais de 5 anos,R$ 3.001 a R$ 8.000,24.3,2,3,0,5,Maduro,False,True
+762,Carlos Sobrenome,2,Agencia 2,Pato Branco,2018-09-20,True,3420.0,True,True,False,False,False,True,False,47490,73,18014,2,7.94,Mais de 5 anos,R$ 3.001 a R$ 8.000,50.8,1,3,2,6,Maduro,False,False
+763,Amanda Sobrenome,1,Agencia 1,Chapeco,2025-04-02,True,5771.0,True,True,True,True,True,False,False,118417,70,1523,4,1.41,Menos de 2 anos,R$ 3.001 a R$ 8.000,42.9,2,0,1,3,Em Desenvolvimento,False,False
+764,Fernanda Sobrenome,5,Agencia 5,Pato Branco,2025-05-13,True,15197.0,True,False,False,True,False,True,False,108868,99,14648,2,1.3,Menos de 2 anos,Acima de R$ 15.000,64.8,1,0,3,4,Em Desenvolvimento,True,False
+765,Joao Sobrenome,1,Agencia 1,Pato Branco,2019-07-11,True,12349.0,True,True,False,True,False,False,False,16658,16,9789,2,7.14,Mais de 5 anos,R$ 8.001 a R$ 15.000,20.0,1,3,0,4,Em Desenvolvimento,False,True
+766,Bruno Sobrenome,1,Agencia 1,Chapeco,2018-03-10,True,8356.0,True,True,False,False,True,True,True,106931,7,10847,4,8.47,Mais de 5 anos,R$ 8.001 a R$ 15.000,36.6,2,3,0,5,Maduro,False,True
+767,Amanda Sobrenome,1,Agencia 1,Chapeco,2026-06-22,True,9584.0,True,True,True,True,True,True,False,228812,67,6459,5,0.19,Menos de 2 anos,R$ 8.001 a R$ 15.000,70.4,2,0,3,5,Maduro,False,False
+768,Joao Sobrenome,1,Agencia 1,Pato Branco,2026-04-21,True,7823.0,True,True,True,False,False,False,False,180624,26,7101,2,0.36,Menos de 2 anos,R$ 3.001 a R$ 8.000,51.8,1,0,2,3,Em Desenvolvimento,False,False
+769,Paula Sobrenome,1,Agencia 1,Pato Branco,2024-06-01,True,15727.0,True,False,True,True,False,True,True,154452,28,1694,4,2.25,2 a 3 anos,Acima de R$ 15.000,40.1,2,1,1,4,Em Desenvolvimento,False,False
+770,Mariana Sobrenome,5,Agencia 5,Maringa,,False,,False,False,False,True,True,False,False,117826,1,2270,2,,Nao informado,Nao informado,26.8,1,1,0,2,Inicial,False,True
+771,Fernanda Sobrenome,3,Agencia 3,Toledo,2026-01-02,True,9341.0,True,False,True,True,False,False,True,181400,53,7125,3,0.66,Menos de 2 anos,R$ 8.001 a R$ 15.000,59.2,1,0,2,3,Em Desenvolvimento,False,False
+772,Fernanda Sobrenome,5,Agencia 5,Maringa,2018-03-14,True,11922.0,True,False,False,False,True,True,False,139692,60,5095,2,8.46,Mais de 5 anos,R$ 8.001 a R$ 15.000,49.3,1,3,1,5,Maduro,False,False
+773,Carlos Sobrenome,2,Agencia 2,Pato Branco,,False,2883.0,True,True,False,False,True,False,True,146005,78,5421,3,,Nao informado,Ate R$ 3.000,55.6,1,1,2,4,Em Desenvolvimento,False,False
+774,Amanda Sobrenome,5,Agencia 5,Chapeco,,False,19659.0,True,True,False,False,False,True,False,209603,95,18968,2,,Nao informado,Acima de R$ 15.000,89.6,1,1,3,5,Maduro,True,False
+775,Mariana Sobrenome,1,Agencia 1,Pato Branco,2025-11-27,True,17970.0,True,True,True,False,False,False,False,192696,37,13625,2,0.76,Menos de 2 anos,Acima de R$ 15.000,65.7,1,0,3,4,Em Desenvolvimento,True,False
+776,Mariana Sobrenome,4,Agencia 4,Cascavel,2023-08-14,True,27845.0,True,True,False,True,True,True,True,225906,48,13146,5,3.04,3 a 5 anos,Acima de R$ 15.000,74.2,2,2,3,7,Engajado,False,False
+777,Joao Sobrenome,4,Agencia 4,Cascavel,2019-08-09,True,7905.0,True,False,True,True,False,False,True,201854,0,1420,3,7.06,Mais de 5 anos,R$ 3.001 a R$ 8.000,42.8,1,3,1,5,Maduro,False,False
+778,Ricardo Sobrenome,2,Agencia 2,Chapeco,2025-05-16,True,18751.0,True,True,False,False,True,True,False,33150,32,2078,3,1.29,Menos de 2 anos,Acima de R$ 15.000,18.0,1,0,0,1,Inicial,False,True
+779,Mariana Sobrenome,1,Agencia 1,Pato Branco,2023-04-18,True,12082.0,True,False,True,False,True,False,False,236852,15,10766,2,3.37,3 a 5 anos,R$ 8.001 a R$ 15.000,64.6,1,2,3,6,Maduro,False,False
+780,Lucas Sobrenome,2,Agencia 2,Maringa,2019-08-09,True,22244.0,True,True,False,False,False,False,False,79096,22,12511,1,7.06,Mais de 5 anos,Acima de R$ 15.000,37.4,0,3,1,4,Em Desenvolvimento,True,False
+781,Joao Sobrenome,2,Agencia 2,Pato Branco,2020-02-24,True,10245.0,True,True,True,True,True,True,False,32696,59,3906,5,6.51,Mais de 5 anos,R$ 8.001 a R$ 15.000,26.6,2,3,0,5,Maduro,False,True
+782,Fernanda Sobrenome,3,Agencia 3,Chapeco,2020-06-09,True,13131.0,True,True,False,False,True,False,True,47558,22,16215,3,6.22,Mais de 5 anos,R$ 8.001 a R$ 15.000,35.7,1,3,0,4,Em Desenvolvimento,False,True
+783,Carlos Sobrenome,3,Agencia 3,Cascavel,2023-12-11,True,26712.0,True,True,True,False,False,False,True,69376,36,7377,3,2.72,2 a 3 anos,Acima de R$ 15.000,32.5,1,1,0,2,Inicial,False,True
+784,Lucas Sobrenome,2,Agencia 2,Pato Branco,2026-05-05,True,18114.0,True,False,True,False,True,True,True,198009,40,1473,4,0.32,Menos de 2 anos,Acima de R$ 15.000,52.2,2,0,2,4,Em Desenvolvimento,False,False
+785,Bruno Sobrenome,2,Agencia 2,Pato Branco,2024-09-21,True,27122.0,True,False,True,True,True,True,True,140696,65,18832,5,1.94,Menos de 2 anos,Acima de R$ 15.000,68.0,2,0,3,5,Maduro,False,False
+786,Bruno Sobrenome,3,Agencia 3,Pato Branco,2018-12-17,True,29898.0,True,False,True,True,False,True,True,18569,74,283,4,7.7,Mais de 5 anos,Acima de R$ 15.000,22.9,2,3,0,5,Maduro,False,True
+787,Paula Sobrenome,1,Agencia 1,Cascavel,2018-09-19,True,22480.0,True,False,False,True,False,False,False,140678,32,12956,1,7.95,Mais de 5 anos,Acima de R$ 15.000,52.6,0,3,2,5,Maduro,True,False
+788,Fernanda Sobrenome,3,Agencia 3,Pato Branco,2021-09-07,True,27341.0,True,True,False,True,False,False,True,173733,94,9801,3,4.98,3 a 5 anos,Acima de R$ 15.000,70.4,1,2,3,6,Maduro,False,False
+789,Ricardo Sobrenome,5,Agencia 5,Pato Branco,2018-07-15,True,3275.0,True,True,True,True,False,True,False,98854,85,1964,4,8.13,Mais de 5 anos,R$ 3.001 a R$ 8.000,42.9,2,3,1,6,Maduro,False,False
+790,Juliana Sobrenome,3,Agencia 3,Cascavel,2024-10-20,True,21481.0,True,False,False,True,False,True,True,118253,11,8579,3,1.86,Menos de 2 anos,Acima de R$ 15.000,37.0,1,0,0,1,Inicial,False,True
+791,Fernanda Sobrenome,2,Agencia 2,Cascavel,2022-11-26,True,14585.0,True,True,False,False,False,False,False,221724,63,10647,1,3.76,3 a 5 anos,R$ 8.001 a R$ 15.000,73.6,0,2,3,5,Maduro,False,False
+792,Mariana Sobrenome,2,Agencia 2,Maringa,2024-05-20,True,2373.0,True,False,True,False,False,True,False,95708,48,11088,2,2.28,2 a 3 anos,Ate R$ 3.000,45.8,1,1,1,3,Em Desenvolvimento,False,False
+793,Joao Sobrenome,2,Agencia 2,Cascavel,2024-11-18,True,19731.0,True,False,False,False,True,False,False,144462,25,9747,1,1.78,Menos de 2 anos,Acima de R$ 15.000,47.7,0,0,1,1,Inicial,True,False
+794,Lucas Sobrenome,3,Agencia 3,Pato Branco,2021-06-11,True,19061.0,True,True,True,False,True,True,True,150156,41,14065,5,5.22,Mais de 5 anos,Acima de R$ 15.000,58.5,2,3,2,7,Engajado,False,False
+795,Lucas Sobrenome,4,Agencia 4,Maringa,2024-02-02,True,15359.0,True,False,False,False,False,True,True,130951,2,8868,2,2.57,2 a 3 anos,Acima de R$ 15.000,38.1,1,1,1,3,Em Desenvolvimento,True,False
+796,Juliana Sobrenome,5,Agencia 5,Pato Branco,2018-06-13,True,10240.0,True,False,False,False,False,False,False,113086,4,18598,0,8.21,Mais de 5 anos,R$ 8.001 a R$ 15.000,46.8,0,3,1,4,Em Desenvolvimento,False,False
+797,Ricardo Sobrenome,4,Agencia 4,Chapeco,2021-10-01,True,10885.0,True,False,True,False,True,False,False,196387,7,16861,2,4.91,3 a 5 anos,R$ 8.001 a R$ 15.000,62.9,1,2,2,5,Maduro,False,False
+798,Ricardo Sobrenome,5,Agencia 5,Pato Branco,2018-01-23,True,27242.0,True,False,True,False,False,False,True,149586,68,7522,2,8.6,Mais de 5 anos,Acima de R$ 15.000,56.7,1,3,2,6,Maduro,True,False
+799,Ricardo Sobrenome,5,Agencia 5,Toledo,2025-07-20,True,16371.0,True,False,False,True,False,False,False,17745,76,2598,1,1.11,Menos de 2 anos,Acima de R$ 15.000,26.0,0,0,0,0,Inicial,True,True
+800,Amanda Sobrenome,5,Agencia 5,Pato Branco,2021-06-20,True,26892.0,True,False,True,True,True,True,True,97810,31,15094,5,5.19,Mais de 5 anos,Acima de R$ 15.000,46.4,2,3,1,6,Maduro,False,False
+801,Juliana Sobrenome,1,Agencia 1,Pato Branco,2025-11-04,True,23261.0,True,False,True,True,True,False,False,111796,62,13494,3,0.82,Menos de 2 anos,Acima de R$ 15.000,55.0,1,0,2,3,Em Desenvolvimento,False,False
+802,Bruno Sobrenome,4,Agencia 4,Pato Branco,2018-05-28,True,15560.0,True,True,True,False,True,True,True,135670,6,9330,5,8.26,Mais de 5 anos,Acima de R$ 15.000,40.2,2,3,1,6,Maduro,False,False
+803,Mariana Sobrenome,5,Agencia 5,Chapeco,2022-07-01,True,8453.0,True,False,True,False,True,True,False,234345,93,14066,3,4.16,3 a 5 anos,R$ 8.001 a R$ 15.000,87.2,1,2,3,6,Maduro,False,False
+804,Ricardo Sobrenome,3,Agencia 3,Cascavel,2023-01-25,True,20779.0,True,True,True,False,False,True,False,16972,72,6468,3,3.59,3 a 5 anos,Acima de R$ 15.000,29.4,1,2,0,3,Em Desenvolvimento,False,True
+805,Fernanda Sobrenome,5,Agencia 5,Cascavel,2018-07-11,True,4358.0,True,False,False,True,True,False,True,242911,20,4926,3,8.14,Mais de 5 anos,R$ 3.001 a R$ 8.000,59.2,1,3,2,6,Maduro,False,False
+806,Fernanda Sobrenome,3,Agencia 3,Chapeco,2025-05-11,True,6234.0,True,True,False,False,True,True,True,121099,76,6384,4,1.3,Menos de 2 anos,R$ 3.001 a R$ 8.000,51.2,2,0,2,4,Em Desenvolvimento,False,False
+807,Mariana Sobrenome,4,Agencia 4,Pato Branco,2018-05-20,True,26274.0,True,True,False,False,True,True,False,94096,39,18473,3,8.28,Mais de 5 anos,Acima de R$ 15.000,51.8,1,3,2,6,Maduro,False,False
+808,Fernanda Sobrenome,4,Agencia 4,Pato Branco,2019-03-15,True,19429.0,True,False,False,True,True,True,True,195483,81,3613,4,7.46,Mais de 5 anos,Acima de R$ 15.000,63.9,2,3,3,8,Engajado,False,False
+809,Bruno Sobrenome,2,Agencia 2,Pato Branco,2026-01-14,True,12486.0,True,True,True,False,False,True,False,182058,72,2337,3,0.62,Menos de 2 anos,R$ 8.001 a R$ 15.000,57.9,1,0,2,3,Em Desenvolvimento,False,False
+810,Ricardo Sobrenome,1,Agencia 1,Toledo,2019-01-24,True,21323.0,True,False,True,False,False,True,False,112207,38,7380,2,7.6,Mais de 5 anos,Acima de R$ 15.000,41.3,1,3,1,5,Maduro,True,False
+811,Lucas Sobrenome,5,Agencia 5,Pato Branco,2019-05-17,True,11443.0,True,True,False,False,False,False,False,1942,15,12811,1,7.29,Mais de 5 anos,R$ 8.001 a R$ 15.000,20.1,0,3,0,3,Em Desenvolvimento,False,True
+812,Lucas Sobrenome,4,Agencia 4,Toledo,2024-07-15,True,10273.0,True,False,False,False,True,False,False,196364,7,16952,1,2.12,2 a 3 anos,R$ 8.001 a R$ 15.000,62.9,0,1,2,3,Em Desenvolvimento,False,False
+813,Paula Sobrenome,4,Agencia 4,Maringa,2021-06-13,True,19919.0,True,True,False,False,False,False,True,143439,72,2493,2,5.21,Mais de 5 anos,Acima de R$ 15.000,49.8,1,3,1,5,Maduro,True,False
+814,Joao Sobrenome,4,Agencia 4,Cascavel,2023-10-17,True,20998.0,True,True,True,True,True,True,False,177825,62,8886,5,2.87,2 a 3 anos,Acima de R$ 15.000,62.4,2,1,2,5,Maduro,False,False
+815,Ricardo Sobrenome,2,Agencia 2,Pato Branco,2021-08-11,True,3549.0,True,True,True,False,False,True,True,42445,98,9848,4,5.05,Mais de 5 anos,R$ 3.001 a R$ 8.000,46.2,2,3,1,6,Maduro,False,False
+816,Juliana Sobrenome,2,Agencia 2,Toledo,2020-05-08,True,9227.0,True,False,True,False,False,False,True,153192,57,15034,2,6.31,Mais de 5 anos,R$ 8.001 a R$ 15.000,63.9,1,3,3,7,Engajado,False,False
+817,Paula Sobrenome,1,Agencia 1,Chapeco,2021-04-14,True,12026.0,True,False,False,True,False,False,True,5320,30,3760,2,5.38,Mais de 5 anos,R$ 8.001 a R$ 15.000,13.1,1,3,0,4,Em Desenvolvimento,False,True
+818,Juliana Sobrenome,2,Agencia 2,Maringa,2023-11-16,True,16638.0,True,True,False,True,True,True,True,182016,90,12418,5,2.79,2 a 3 anos,Acima de R$ 15.000,74.9,2,1,3,6,Maduro,False,False
+819,Amanda Sobrenome,1,Agencia 1,Pato Branco,,False,27511.0,True,False,False,False,False,True,True,150213,41,13470,2,,Nao informado,Acima de R$ 15.000,57.9,1,1,2,4,Em Desenvolvimento,True,False
+820,Ricardo Sobrenome,3,Agencia 3,Chapeco,2019-11-25,True,29972.0,True,True,True,False,False,False,False,148572,22,18791,2,6.76,Mais de 5 anos,Acima de R$ 15.000,58.6,1,3,2,6,Maduro,True,False
+821,Mariana Sobrenome,2,Agencia 2,Pato Branco,2022-11-17,True,14704.0,True,False,False,False,True,False,True,55547,56,6786,2,3.78,3 a 5 anos,R$ 8.001 a R$ 15.000,33.7,1,2,0,3,Em Desenvolvimento,False,True
+822,Carlos Sobrenome,1,Agencia 1,Toledo,2018-03-02,True,20187.0,True,True,True,True,True,False,False,93281,49,18210,4,8.5,Mais de 5 anos,Acima de R$ 15.000,54.1,2,3,2,7,Engajado,False,False
+823,Paula Sobrenome,2,Agencia 2,Chapeco,2025-06-06,True,10588.0,True,False,False,False,True,True,True,234469,92,15343,3,1.23,Menos de 2 anos,R$ 8.001 a R$ 15.000,88.6,1,0,3,4,Em Desenvolvimento,False,False
+824,Joao Sobrenome,4,Agencia 4,Cascavel,2024-04-11,True,9275.0,True,False,False,False,True,False,False,56379,85,5834,1,2.38,2 a 3 anos,R$ 8.001 a R$ 15.000,39.6,0,1,1,2,Inicial,False,False
+825,Juliana Sobrenome,5,Agencia 5,Maringa,2018-06-02,True,11622.0,True,False,True,False,False,True,True,151866,55,13869,3,8.24,Mais de 5 anos,R$ 8.001 a R$ 15.000,61.9,1,3,2,6,Maduro,False,False
+826,Ricardo Sobrenome,5,Agencia 5,Pato Branco,2021-10-21,True,24068.0,True,False,False,True,False,False,True,233339,42,15174,2,4.86,3 a 5 anos,Acima de R$ 15.000,76.4,1,2,3,6,Maduro,True,False
+827,Paula Sobrenome,5,Agencia 5,Chapeco,2018-10-01,True,11801.0,True,True,True,True,False,True,False,65251,57,14355,4,7.91,Mais de 5 anos,R$ 8.001 a R$ 15.000,45.4,2,3,1,6,Maduro,False,False
+828,Mariana Sobrenome,5,Agencia 5,Pato Branco,2025-02-14,True,8342.0,True,False,False,False,False,True,False,22615,99,13372,1,1.54,Menos de 2 anos,R$ 8.001 a R$ 15.000,47.2,0,0,1,1,Inicial,False,False
+829,Lucas Sobrenome,5,Agencia 5,Chapeco,2022-10-17,True,6188.0,True,False,False,True,True,False,True,158940,19,3002,3,3.87,3 a 5 anos,R$ 3.001 a R$ 8.000,40.2,1,2,1,4,Em Desenvolvimento,False,False
+830,Lucas Sobrenome,3,Agencia 3,Pato Branco,2019-04-17,True,15413.0,True,True,False,False,False,True,True,72400,15,11593,3,7.37,Mais de 5 anos,Acima de R$ 15.000,33.1,1,3,0,4,Em Desenvolvimento,False,True
+831,Bruno Sobrenome,5,Agencia 5,Pato Branco,2018-08-16,True,14879.0,True,True,False,False,False,False,True,112067,58,13095,2,8.04,Mais de 5 anos,R$ 8.001 a R$ 15.000,53.5,1,3,2,6,Maduro,False,False
+832,Amanda Sobrenome,5,Agencia 5,Maringa,2024-02-09,True,3889.0,True,True,True,False,False,False,True,166847,81,4046,3,2.55,2 a 3 anos,R$ 3.001 a R$ 8.000,58.4,1,1,2,4,Em Desenvolvimento,False,False
+833,Amanda Sobrenome,5,Agencia 5,Pato Branco,2026-05-14,True,11756.0,True,False,True,True,True,False,True,120556,4,9066,4,0.3,Menos de 2 anos,R$ 8.001 a R$ 15.000,36.7,2,0,0,2,Inicial,False,True
+834,Lucas Sobrenome,1,Agencia 1,Maringa,2023-03-17,True,18756.0,True,True,False,False,False,True,False,50813,10,6446,2,3.46,3 a 5 anos,Acima de R$ 15.000,20.9,1,2,0,3,Em Desenvolvimento,True,True
+835,Bruno Sobrenome,5,Agencia 5,Pato Branco,2020-02-14,True,10239.0,True,False,False,True,False,False,True,21808,80,10994,2,6.54,Mais de 5 anos,R$ 8.001 a R$ 15.000,39.1,1,3,1,5,Maduro,False,False
+836,Fernanda Sobrenome,1,Agencia 1,Pato Branco,2019-03-26,True,13116.0,True,False,True,False,True,True,True,153250,64,8940,4,7.43,Mais de 5 anos,R$ 8.001 a R$ 15.000,58.2,2,3,2,7,Engajado,False,False
+837,Mariana Sobrenome,1,Agencia 1,Cascavel,2020-03-17,True,6528.0,True,True,False,False,False,True,True,8448,62,4340,3,6.45,Mais de 5 anos,R$ 3.001 a R$ 8.000,23.0,1,3,0,4,Em Desenvolvimento,False,True
+838,Juliana Sobrenome,5,Agencia 5,Pato Branco,2022-10-05,True,20019.0,True,False,False,True,True,True,True,66096,36,11388,4,3.9,3 a 5 anos,Acima de R$ 15.000,36.8,2,2,0,4,Em Desenvolvimento,False,True
+839,Juliana Sobrenome,3,Agencia 3,Cascavel,2026-04-05,True,9635.0,True,True,False,True,False,False,True,132448,53,2912,3,0.4,Menos de 2 anos,R$ 8.001 a R$ 15.000,43.6,1,0,1,2,Inicial,False,False
+840,Lucas Sobrenome,1,Agencia 1,Chapeco,2023-05-07,True,2540.0,True,False,True,False,True,False,True,32444,63,19433,3,3.32,3 a 5 anos,Ate R$ 3.000,47.1,1,2,1,4,Em Desenvolvimento,False,False
+841,Fernanda Sobrenome,4,Agencia 4,Maringa,2022-07-11,True,4137.0,True,False,True,False,True,True,False,8291,73,705,3,4.14,3 a 5 anos,R$ 3.001 a R$ 8.000,20.8,1,2,0,3,Em Desenvolvimento,False,True
+842,Lucas Sobrenome,1,Agencia 1,Pato Branco,2024-02-10,True,15360.0,True,False,True,False,True,True,True,17027,50,2030,4,2.55,2 a 3 anos,Acima de R$ 15.000,19.1,2,1,0,3,Em Desenvolvimento,False,True
+843,Fernanda Sobrenome,3,Agencia 3,Toledo,2018-07-06,True,17039.0,True,False,True,False,True,False,True,182009,93,16960,3,8.15,Mais de 5 anos,Acima de R$ 15.000,81.2,1,3,3,7,Engajado,False,False
+844,Joao Sobrenome,1,Agencia 1,Maringa,2018-01-10,True,11142.0,True,False,False,True,False,False,False,154884,40,3121,1,8.64,Mais de 5 anos,R$ 8.001 a R$ 15.000,45.4,0,3,1,4,Em Desenvolvimento,False,False
+845,Amanda Sobrenome,4,Agencia 4,Pato Branco,2019-09-01,True,2169.0,True,True,False,True,False,False,True,176699,12,16708,3,7.0,Mais de 5 anos,Ate R$ 3.000,59.2,1,3,2,6,Maduro,False,False
+846,Mariana Sobrenome,2,Agencia 2,Chapeco,2023-02-15,True,7683.0,True,False,False,True,True,False,True,183043,26,16517,3,3.54,3 a 5 anos,R$ 3.001 a R$ 8.000,64.5,1,2,3,6,Maduro,False,False
+847,Bruno Sobrenome,1,Agencia 1,Pato Branco,2024-08-10,True,,False,False,True,False,False,True,False,30745,39,13383,2,2.05,2 a 3 anos,Nao informado,33.3,1,1,0,2,Inicial,False,True
+848,Bruno Sobrenome,4,Agencia 4,Chapeco,2022-11-13,True,14187.0,True,False,False,False,True,True,False,42080,76,19914,2,3.79,3 a 5 anos,R$ 8.001 a R$ 15.000,52.8,1,2,2,5,Maduro,False,False
+849,Fernanda Sobrenome,3,Agencia 3,Pato Branco,2026-08-08,True,27427.0,True,True,True,False,False,False,True,163768,17,15554,3,0.06,Menos de 2 anos,Acima de R$ 15.000,56.6,1,0,2,3,Em Desenvolvimento,False,False
+850,Paula Sobrenome,2,Agencia 2,Chapeco,2019-05-01,True,11035.0,True,True,False,True,False,False,False,212169,24,7946,2,7.33,Mais de 5 anos,R$ 8.001 a R$ 15.000,58.7,1,3,2,6,Maduro,False,False
+851,Joao Sobrenome,4,Agencia 4,Maringa,2020-03-18,True,13362.0,True,False,False,False,True,True,False,110944,60,4005,2,6.45,Mais de 5 anos,R$ 8.001 a R$ 15.000,42.1,1,3,1,5,Maduro,False,False
+852,Amanda Sobrenome,2,Agencia 2,Toledo,2018-10-05,True,13068.0,True,True,True,False,False,False,False,5515,61,10095,2,7.9,Mais de 5 anos,R$ 8.001 a R$ 15.000,29.2,1,3,0,4,Em Desenvolvimento,False,True
+853,Mariana Sobrenome,4,Agencia 4,Chapeco,2024-02-19,True,8434.0,True,False,False,False,False,True,True,101705,50,11713,2,2.53,2 a 3 anos,R$ 8.001 a R$ 15.000,48.0,1,1,1,3,Em Desenvolvimento,False,False
+854,Fernanda Sobrenome,3,Agencia 3,Maringa,2025-11-20,True,26257.0,True,False,False,True,False,True,True,139249,41,3831,3,0.77,Menos de 2 anos,Acima de R$ 15.000,42.9,1,0,1,2,Inicial,False,False
+855,Juliana Sobrenome,2,Agencia 2,Pato Branco,2025-06-23,True,2708.0,True,False,True,True,True,False,True,75940,23,4357,4,1.19,Menos de 2 anos,Ate R$ 3.000,26.7,2,0,0,2,Inicial,False,True
+856,Ricardo Sobrenome,1,Agencia 1,Pato Branco,2021-11-10,True,24743.0,True,False,False,True,True,False,True,88912,6,655,3,4.8,3 a 5 anos,Acima de R$ 15.000,20.1,1,2,0,3,Em Desenvolvimento,False,True
+857,Joao Sobrenome,2,Agencia 2,Chapeco,2022-10-26,True,28091.0,True,True,False,True,False,False,True,140549,42,3627,3,3.84,3 a 5 anos,Acima de R$ 15.000,43.2,1,2,1,4,Em Desenvolvimento,False,False
+858,Mariana Sobrenome,5,Agencia 5,Pato Branco,,False,24327.0,True,True,True,False,True,True,True,20880,30,16704,5,,Nao informado,Acima de R$ 15.000,33.5,2,1,0,3,Em Desenvolvimento,False,True
+859,Joao Sobrenome,5,Agencia 5,Toledo,2023-12-20,True,16583.0,True,False,False,False,False,False,False,11238,47,18912,0,2.69,2 a 3 anos,Acima de R$ 15.000,38.4,0,1,1,2,Inicial,True,False
+860,Paula Sobrenome,5,Agencia 5,Chapeco,2021-03-23,True,26980.0,True,True,True,True,True,False,True,49947,33,12197,5,5.44,Mais de 5 anos,Acima de R$ 15.000,34.2,2,3,0,5,Maduro,False,True
+861,Juliana Sobrenome,1,Agencia 1,Maringa,2024-11-27,True,21981.0,True,False,False,False,False,True,True,12168,75,6630,2,1.75,Menos de 2 anos,Acima de R$ 15.000,29.3,1,0,0,1,Inicial,True,True
+862,Bruno Sobrenome,4,Agencia 4,Chapeco,2024-06-16,True,16911.0,True,True,False,False,True,False,True,134810,92,5584,3,2.2,2 a 3 anos,Acima de R$ 15.000,56.6,1,1,2,4,Em Desenvolvimento,False,False
+863,Carlos Sobrenome,4,Agencia 4,Pato Branco,2026-05-26,True,24492.0,True,False,True,True,False,False,True,178191,84,7632,3,0.26,Menos de 2 anos,Acima de R$ 15.000,66.2,1,0,3,4,Em Desenvolvimento,False,False
+864,Juliana Sobrenome,4,Agencia 4,Pato Branco,2020-01-12,True,16600.0,True,False,False,True,True,True,True,190376,42,4292,4,6.63,Mais de 5 anos,Acima de R$ 15.000,54.7,2,3,2,7,Engajado,False,False
+865,Juliana Sobrenome,3,Agencia 3,Cascavel,2025-06-27,True,26490.0,True,True,False,False,False,False,True,21475,43,13950,2,1.17,Menos de 2 anos,Acima de R$ 15.000,34.0,1,0,0,1,Inicial,True,True
+866,Amanda Sobrenome,2,Agencia 2,Cascavel,2018-08-17,True,12083.0,True,False,False,False,False,False,True,139656,76,14658,1,8.04,Mais de 5 anos,R$ 8.001 a R$ 15.000,65.1,0,3,3,6,Maduro,False,False
+867,Fernanda Sobrenome,5,Agencia 5,Pato Branco,2021-04-21,True,26854.0,True,False,True,False,True,True,False,209557,76,14722,3,5.36,Mais de 5 anos,Acima de R$ 15.000,79.5,1,3,3,7,Engajado,False,False
+868,Fernanda Sobrenome,5,Agencia 5,Pato Branco,2019-08-09,True,3524.0,True,True,True,False,False,False,False,129817,88,318,2,7.06,Mais de 5 anos,R$ 3.001 a R$ 8.000,48.3,1,3,1,5,Maduro,False,False
+869,Bruno Sobrenome,1,Agencia 1,Chapeco,2026-02-28,True,2039.0,True,True,False,False,True,False,True,107943,93,3367,3,0.5,Menos de 2 anos,Ate R$ 3.000,48.3,1,0,1,2,Inicial,False,False
+870,Mariana Sobrenome,3,Agencia 3,Pato Branco,2024-06-13,True,26401.0,True,False,True,False,True,True,True,239751,44,14262,4,2.21,2 a 3 anos,Acima de R$ 15.000,77.2,2,1,3,6,Maduro,False,False
+871,Fernanda Sobrenome,4,Agencia 4,Pato Branco,2022-06-05,True,21931.0,True,False,False,True,False,False,False,174831,0,17059,1,4.24,3 a 5 anos,Acima de R$ 15.000,56.6,0,2,2,4,Em Desenvolvimento,True,False
+872,Bruno Sobrenome,4,Agencia 4,Cascavel,2019-01-27,True,9975.0,True,False,True,True,False,True,False,18068,2,13916,3,7.59,Mais de 5 anos,R$ 8.001 a R$ 15.000,22.2,1,3,0,4,Em Desenvolvimento,False,True
+873,Ricardo Sobrenome,1,Agencia 1,Pato Branco,2021-05-13,True,3660.0,True,True,False,True,False,False,False,197332,37,10966,2,5.3,Mais de 5 anos,R$ 3.001 a R$ 8.000,63.5,1,3,3,7,Engajado,False,False
+874,Bruno Sobrenome,5,Agencia 5,Chapeco,2020-11-08,True,25150.0,True,False,True,True,True,False,True,247234,21,19135,4,5.81,Mais de 5 anos,Acima de R$ 15.000,78.3,2,3,3,8,Engajado,False,False
+875,Lucas Sobrenome,3,Agencia 3,Maringa,2020-06-04,True,21874.0,True,True,False,False,False,True,True,194932,52,19338,3,6.24,Mais de 5 anos,Acima de R$ 15.000,77.1,1,3,3,7,Engajado,False,False
+876,Juliana Sobrenome,1,Agencia 1,Pato Branco,2018-05-01,True,11207.0,True,False,False,False,True,True,True,74372,18,14046,3,8.33,Mais de 5 anos,R$ 8.001 a R$ 15.000,37.1,1,3,0,4,Em Desenvolvimento,False,True
+877,Juliana Sobrenome,3,Agencia 3,Pato Branco,2019-10-14,True,24150.0,True,False,True,True,True,False,False,165462,98,18936,3,6.88,Mais de 5 anos,Acima de R$ 15.000,81.2,1,3,3,7,Engajado,False,False
+878,Juliana Sobrenome,4,Agencia 4,Chapeco,2026-02-09,True,18915.0,True,False,True,False,True,False,True,126821,34,17401,3,0.55,Menos de 2 anos,Acima de R$ 15.000,56.0,1,0,2,3,Em Desenvolvimento,False,False
+879,Lucas Sobrenome,5,Agencia 5,Maringa,2023-08-24,True,25714.0,True,True,False,True,True,True,False,48207,3,11309,4,3.02,3 a 5 anos,Acima de R$ 15.000,25.4,2,2,0,4,Em Desenvolvimento,False,True
+880,Bruno Sobrenome,4,Agencia 4,Pato Branco,2022-11-03,True,9661.0,True,True,True,False,False,False,True,27332,17,9761,3,3.82,3 a 5 anos,R$ 8.001 a R$ 15.000,22.8,1,2,0,3,Em Desenvolvimento,False,True
+881,Ricardo Sobrenome,5,Agencia 5,Pato Branco,2018-01-27,True,17940.0,True,True,True,True,True,True,True,25295,75,13100,6,8.59,Mais de 5 anos,Acima de R$ 15.000,41.0,3,3,1,7,Engajado,False,False
+882,Lucas Sobrenome,3,Agencia 3,Chapeco,2020-04-19,True,24851.0,True,True,True,False,False,True,False,209830,65,5324,3,6.36,Mais de 5 anos,Acima de R$ 15.000,65.4,1,3,3,7,Engajado,False,False
+883,Paula Sobrenome,4,Agencia 4,Pato Branco,2024-04-16,True,25392.0,True,False,True,False,True,False,True,158784,11,19681,3,2.37,2 a 3 anos,Acima de R$ 15.000,59.4,1,1,2,4,Em Desenvolvimento,False,False
+884,Lucas Sobrenome,4,Agencia 4,Pato Branco,2026-05-03,True,12996.0,True,False,True,False,True,True,True,191312,27,17273,4,0.33,Menos de 2 anos,R$ 8.001 a R$ 15.000,67.0,2,0,3,5,Maduro,False,False
+885,Juliana Sobrenome,5,Agencia 5,Toledo,2018-01-23,True,9898.0,True,False,True,True,True,True,True,1896,94,7722,5,8.6,Mais de 5 anos,R$ 8.001 a R$ 15.000,33.1,2,3,0,5,Maduro,False,True
+886,Paula Sobrenome,2,Agencia 2,Pato Branco,2024-12-18,True,21431.0,True,False,False,True,True,False,True,36347,35,1736,3,1.7,Menos de 2 anos,Acima de R$ 15.000,19.0,1,0,0,1,Inicial,False,True
+887,Ricardo Sobrenome,3,Agencia 3,Pato Branco,2025-08-19,True,6298.0,True,True,True,True,True,True,False,31378,72,1060,5,1.03,Menos de 2 anos,R$ 3.001 a R$ 8.000,25.5,2,0,0,2,Inicial,False,True
+888,Lucas Sobrenome,5,Agencia 5,Pato Branco,2021-05-18,True,13286.0,True,False,True,True,True,False,False,33315,73,14174,3,5.28,Mais de 5 anos,R$ 8.001 a R$ 15.000,43.3,1,3,1,5,Maduro,False,False
+889,Bruno Sobrenome,5,Agencia 5,Cascavel,2023-09-03,True,10233.0,True,True,True,False,True,False,True,192450,22,19453,4,2.99,2 a 3 anos,R$ 8.001 a R$ 15.000,68.6,2,1,3,6,Maduro,False,False
+890,Carlos Sobrenome,2,Agencia 2,Pato Branco,2023-04-16,True,10799.0,True,False,False,False,True,True,False,170040,21,9059,2,3.37,3 a 5 anos,R$ 8.001 a R$ 15.000,50.5,1,2,2,5,Maduro,False,False
+891,Lucas Sobrenome,3,Agencia 3,Pato Branco,2024-04-14,True,11168.0,True,True,True,False,True,True,False,34710,24,2757,4,2.38,2 a 3 anos,R$ 8.001 a R$ 15.000,16.8,2,1,0,3,Em Desenvolvimento,False,True
+892,Mariana Sobrenome,1,Agencia 1,Pato Branco,2018-11-24,True,29812.0,True,True,False,False,True,True,False,206162,21,6968,3,7.76,Mais de 5 anos,Acima de R$ 15.000,55.2,1,3,2,6,Maduro,False,False
+893,Juliana Sobrenome,2,Agencia 2,Pato Branco,,False,9332.0,True,False,True,False,True,False,True,77722,25,4823,3,,Nao informado,R$ 8.001 a R$ 15.000,28.4,1,1,0,2,Inicial,False,True
+894,Mariana Sobrenome,5,Agencia 5,Pato Branco,2025-11-15,True,29680.0,True,False,False,False,False,True,True,225412,81,512,2,0.79,Menos de 2 anos,Acima de R$ 15.000,65.5,1,0,3,4,Em Desenvolvimento,True,False
+895,Lucas Sobrenome,3,Agencia 3,Maringa,2022-08-02,True,7463.0,True,True,True,False,False,False,False,69027,15,10616,2,4.08,3 a 5 anos,R$ 3.001 a R$ 8.000,31.1,1,2,0,3,Em Desenvolvimento,False,True
+896,Amanda Sobrenome,2,Agencia 2,Pato Branco,2018-08-12,True,12880.0,True,True,False,True,False,False,True,244465,51,2032,3,8.05,Mais de 5 anos,R$ 8.001 a R$ 15.000,64.3,1,3,3,7,Engajado,False,False
+897,Carlos Sobrenome,3,Agencia 3,Cascavel,2023-09-06,True,17699.0,True,False,False,False,False,False,False,232430,32,15288,0,2.98,2 a 3 anos,Acima de R$ 15.000,73.8,0,1,3,4,Em Desenvolvimento,True,False
+898,Mariana Sobrenome,1,Agencia 1,Pato Branco,2021-05-02,True,6246.0,True,True,True,True,True,False,False,77122,89,815,4,5.33,Mais de 5 anos,R$ 3.001 a R$ 8.000,38.9,2,3,1,6,Maduro,False,False
+899,Juliana Sobrenome,1,Agencia 1,Pato Branco,2018-06-13,True,27620.0,True,False,False,False,True,False,False,52960,97,1480,1,8.21,Mais de 5 anos,Acima de R$ 15.000,36.6,0,3,0,3,Em Desenvolvimento,True,True
+900,Carlos Sobrenome,5,Agencia 5,Pato Branco,2018-06-24,True,7166.0,True,True,True,True,True,True,True,61972,74,18739,6,8.18,Mais de 5 anos,R$ 3.001 a R$ 8.000,54.2,3,3,2,8,Engajado,False,False
+901,Lucas Sobrenome,1,Agencia 1,Toledo,2023-02-26,True,19654.0,True,True,True,True,True,False,False,143469,40,1052,4,3.51,3 a 5 anos,Acima de R$ 15.000,40.2,2,2,1,5,Maduro,False,False
+902,Lucas Sobrenome,3,Agencia 3,Pato Branco,2025-01-23,True,20859.0,True,False,True,False,True,False,False,248549,58,13845,2,1.6,Menos de 2 anos,Acima de R$ 15.000,81.5,1,0,3,4,Em Desenvolvimento,True,False
+903,Lucas Sobrenome,5,Agencia 5,Pato Branco,2022-06-21,True,15970.0,True,False,False,False,False,False,False,231832,40,16619,0,4.19,3 a 5 anos,Acima de R$ 15.000,77.2,0,2,3,5,Maduro,True,False
+904,Bruno Sobrenome,5,Agencia 5,Chapeco,2023-09-02,True,17255.0,True,False,True,True,True,False,False,202998,62,8765,3,2.99,2 a 3 anos,Acima de R$ 15.000,67.8,1,1,3,5,Maduro,False,False
+905,Joao Sobrenome,3,Agencia 3,Maringa,2021-07-09,True,23920.0,True,True,True,False,False,False,False,86596,33,7464,2,5.14,Mais de 5 anos,Acima de R$ 15.000,35.7,1,3,0,4,Em Desenvolvimento,True,True
+906,Juliana Sobrenome,2,Agencia 2,Cascavel,2026-07-15,True,7070.0,True,False,False,False,False,True,True,208486,72,1620,2,0.13,Menos de 2 anos,R$ 3.001 a R$ 8.000,61.8,1,0,2,3,Em Desenvolvimento,False,False
+907,Lucas Sobrenome,4,Agencia 4,Chapeco,2019-06-16,True,13477.0,True,True,True,False,True,False,True,78556,64,4606,4,7.21,Mais de 5 anos,R$ 8.001 a R$ 15.000,38.4,2,3,1,6,Maduro,False,False
+908,Paula Sobrenome,4,Agencia 4,Cascavel,2021-04-07,True,5580.0,True,False,False,False,True,True,False,3199,35,10801,2,5.4,Mais de 5 anos,R$ 3.001 a R$ 8.000,23.2,1,3,0,4,Em Desenvolvimento,False,True
+909,Joao Sobrenome,5,Agencia 5,Toledo,2021-10-04,True,25723.0,True,True,False,False,True,False,True,142419,59,9657,3,4.9,3 a 5 anos,Acima de R$ 15.000,55.5,1,2,2,5,Maduro,False,False
+910,Amanda Sobrenome,5,Agencia 5,Cascavel,2023-10-28,True,15384.0,True,True,True,True,False,True,False,120754,9,6955,4,2.84,2 a 3 anos,Acima de R$ 15.000,35.1,2,1,0,3,Em Desenvolvimento,False,True
+911,Fernanda Sobrenome,5,Agencia 5,Pato Branco,2018-02-23,True,9854.0,True,True,False,True,False,True,True,59928,28,7252,4,8.51,Mais de 5 anos,R$ 8.001 a R$ 15.000,28.0,2,3,0,5,Maduro,False,True
+912,Fernanda Sobrenome,5,Agencia 5,Cascavel,2019-12-22,True,16530.0,True,True,True,True,True,False,True,141371,42,15117,5,6.69,Mais de 5 anos,Acima de R$ 15.000,58.1,2,3,2,7,Engajado,False,False
+913,Lucas Sobrenome,4,Agencia 4,Cascavel,2023-02-07,True,6962.0,True,True,True,True,False,False,False,245600,43,12499,3,3.56,3 a 5 anos,R$ 3.001 a R$ 8.000,75.8,1,2,3,6,Maduro,False,False
+914,Paula Sobrenome,5,Agencia 5,Pato Branco,2026-03-28,True,16021.0,True,True,False,False,False,False,False,159570,64,1229,1,0.42,Menos de 2 anos,Acima de R$ 15.000,49.6,0,0,1,1,Inicial,True,False
+915,Mariana Sobrenome,4,Agencia 4,Pato Branco,2025-01-28,True,10182.0,True,True,False,False,False,False,True,139352,39,13182,2,1.59,Menos de 2 anos,R$ 8.001 a R$ 15.000,54.5,1,0,2,3,Em Desenvolvimento,False,False
+916,Amanda Sobrenome,1,Agencia 1,Pato Branco,2021-09-02,True,2842.0,True,False,False,True,False,False,True,215542,45,2179,2,4.99,3 a 5 anos,Ate R$ 3.000,57.8,1,2,2,5,Maduro,False,False
+917,Carlos Sobrenome,2,Agencia 2,Toledo,2020-05-04,True,7818.0,True,False,True,True,False,True,False,159001,90,11203,3,6.32,Mais de 5 anos,R$ 3.001 a R$ 8.000,68.6,1,3,3,7,Engajado,False,False
+918,Juliana Sobrenome,3,Agencia 3,Toledo,2025-10-25,True,12576.0,True,True,False,False,False,False,True,75602,3,11856,2,0.85,Menos de 2 anos,R$ 8.001 a R$ 15.000,31.0,1,0,0,1,Inicial,False,True
+919,Bruno Sobrenome,2,Agencia 2,Pato Branco,,False,18799.0,True,True,True,False,True,True,True,2289,5,3995,5,,Nao informado,Acima de R$ 15.000,6.4,2,1,0,3,Em Desenvolvimento,False,True
+920,Juliana Sobrenome,1,Agencia 1,Cascavel,2024-10-02,True,7542.0,True,True,True,True,True,True,True,21115,60,13082,6,1.91,Menos de 2 anos,R$ 3.001 a R$ 8.000,36.6,3,0,0,3,Em Desenvolvimento,False,True
+921,Paula Sobrenome,1,Agencia 1,Pato Branco,,False,16100.0,True,False,True,False,False,False,True,47399,40,6176,2,,Nao informado,Acima de R$ 15.000,27.9,1,1,0,2,Inicial,True,True
+922,Carlos Sobrenome,4,Agencia 4,Pato Branco,2021-09-10,True,22275.0,True,True,True,True,True,True,True,154644,47,17227,6,4.97,3 a 5 anos,Acima de R$ 15.000,64.9,3,2,3,8,Engajado,False,False
+923,Bruno Sobrenome,1,Agencia 1,Pato Branco,2024-01-14,True,5720.0,True,False,False,False,False,False,True,249834,26,12597,1,2.63,2 a 3 anos,R$ 3.001 a R$ 8.000,72.1,0,1,3,4,Em Desenvolvimento,False,False
+924,Amanda Sobrenome,2,Agencia 2,Maringa,2023-09-10,True,,False,False,True,False,False,True,True,124520,1,19515,3,2.97,2 a 3 anos,Nao informado,50.1,1,1,1,3,Em Desenvolvimento,False,False
+925,Lucas Sobrenome,5,Agencia 5,Pato Branco,2024-10-26,True,2606.0,True,True,False,True,True,False,True,148137,45,18543,4,1.84,Menos de 2 anos,Ate R$ 3.000,64.7,2,0,3,5,Maduro,False,False
+926,Lucas Sobrenome,3,Agencia 3,Pato Branco,2019-12-06,True,15194.0,True,True,False,False,False,False,True,90212,38,17519,2,6.73,Mais de 5 anos,Acima de R$ 15.000,49.9,1,3,1,5,Maduro,True,False
+927,Juliana Sobrenome,3,Agencia 3,Chapeco,2024-11-01,True,12788.0,True,False,True,True,True,False,True,69131,63,18840,4,1.83,Menos de 2 anos,R$ 8.001 a R$ 15.000,53.4,2,0,2,4,Em Desenvolvimento,False,False
+928,Ricardo Sobrenome,5,Agencia 5,Pato Branco,,False,5346.0,True,False,False,False,False,False,True,76249,70,7273,1,,Nao informado,R$ 3.001 a R$ 8.000,42.3,0,1,1,2,Inicial,False,False
+929,Paula Sobrenome,3,Agencia 3,Pato Branco,2020-02-09,True,13662.0,True,True,True,False,False,False,False,212669,34,2349,2,6.55,Mais de 5 anos,R$ 8.001 a R$ 15.000,54.7,1,3,2,6,Maduro,False,False
+930,Carlos Sobrenome,5,Agencia 5,Pato Branco,2020-10-12,True,24445.0,True,True,True,True,False,False,True,58244,75,12655,4,5.88,Mais de 5 anos,Acima de R$ 15.000,46.1,2,3,1,6,Maduro,False,False
+931,Paula Sobrenome,5,Agencia 5,Pato Branco,2024-09-27,True,18009.0,True,False,False,False,True,True,True,105850,66,9393,3,1.92,Menos de 2 anos,Acima de R$ 15.000,49.4,1,0,1,2,Inicial,False,False
+932,Juliana Sobrenome,3,Agencia 3,Maringa,2020-01-01,True,9164.0,True,True,True,False,False,False,True,166714,81,16048,3,6.66,Mais de 5 anos,R$ 8.001 a R$ 15.000,73.3,1,3,3,7,Engajado,False,False
+933,Fernanda Sobrenome,1,Agencia 1,Pato Branco,2020-06-09,True,13774.0,True,True,False,True,False,False,False,212006,10,17562,2,6.22,Mais de 5 anos,R$ 8.001 a R$ 15.000,67.2,1,3,3,7,Engajado,False,False
+934,Joao Sobrenome,2,Agencia 2,Pato Branco,2024-06-25,True,12392.0,True,True,False,False,False,True,False,122406,41,9783,2,2.18,2 a 3 anos,R$ 8.001 a R$ 15.000,47.9,1,1,1,3,Em Desenvolvimento,False,False
+935,Bruno Sobrenome,2,Agencia 2,Pato Branco,2024-06-04,True,17445.0,True,True,True,False,True,False,False,77655,55,7413,3,2.24,2 a 3 anos,Acima de R$ 15.000,39.3,1,1,1,3,Em Desenvolvimento,False,False
+936,Paula Sobrenome,3,Agencia 3,Pato Branco,2025-07-22,True,18032.0,True,True,False,True,True,False,True,137816,42,18502,4,1.11,Menos de 2 anos,Acima de R$ 15.000,61.4,2,0,2,4,Em Desenvolvimento,False,False
+937,Ricardo Sobrenome,2,Agencia 2,Chapeco,2026-03-19,True,26372.0,True,False,True,False,True,True,False,108693,79,9831,3,0.45,Menos de 2 anos,Acima de R$ 15.000,53.7,1,0,2,3,Em Desenvolvimento,False,False
+938,Carlos Sobrenome,2,Agencia 2,Chapeco,2023-04-24,True,16890.0,True,True,False,False,False,False,True,240479,75,7490,2,3.35,3 a 5 anos,Acima de R$ 15.000,75.8,1,2,3,6,Maduro,True,False
+939,Fernanda Sobrenome,1,Agencia 1,Toledo,2021-08-24,True,17687.0,True,False,False,True,True,False,True,85986,47,2443,3,5.02,Mais de 5 anos,Acima de R$ 15.000,33.1,1,3,0,4,Em Desenvolvimento,False,True
+940,Joao Sobrenome,1,Agencia 1,Maringa,2024-11-24,True,4238.0,True,True,True,False,False,True,False,171789,61,4516,3,1.76,Menos de 2 anos,R$ 3.001 a R$ 8.000,55.4,1,0,2,3,Em Desenvolvimento,False,False
+941,Paula Sobrenome,1,Agencia 1,Toledo,2023-04-04,True,12817.0,True,False,True,True,True,False,True,160798,7,7438,4,3.41,3 a 5 anos,R$ 8.001 a R$ 15.000,43.4,2,2,1,5,Maduro,False,False
+942,Amanda Sobrenome,2,Agencia 2,Pato Branco,2019-06-10,True,10620.0,True,True,True,False,False,True,False,223412,13,7516,3,7.22,Mais de 5 anos,R$ 8.001 a R$ 15.000,57.3,1,3,2,6,Maduro,False,False
+943,Lucas Sobrenome,4,Agencia 4,Maringa,2026-03-03,True,11319.0,True,False,True,True,True,False,True,178216,49,11393,4,0.49,Menos de 2 anos,R$ 8.001 a R$ 15.000,63.1,2,0,3,5,Maduro,False,False
+944,Paula Sobrenome,1,Agencia 1,Pato Branco,2019-04-20,True,21250.0,True,False,True,False,False,True,True,83918,83,14114,3,7.36,Mais de 5 anos,Acima de R$ 15.000,55.7,1,3,2,6,Maduro,False,False
+945,Lucas Sobrenome,1,Agencia 1,Cascavel,2020-02-11,True,24363.0,True,True,False,False,True,True,False,69153,33,19733,3,6.55,Mais de 5 anos,Acima de R$ 15.000,47.4,1,3,1,5,Maduro,False,False
+946,Amanda Sobrenome,2,Agencia 2,Chapeco,2024-12-27,True,29717.0,True,True,True,True,False,True,False,117456,24,7453,4,1.67,Menos de 2 anos,Acima de R$ 15.000,38.6,2,0,1,3,Em Desenvolvimento,False,False
+947,Ricardo Sobrenome,4,Agencia 4,Maringa,2024-04-06,True,14582.0,True,False,True,False,False,True,False,174580,40,1603,2,2.4,2 a 3 anos,R$ 8.001 a R$ 15.000,47.2,1,1,1,3,Em Desenvolvimento,False,False
+948,Fernanda Sobrenome,5,Agencia 5,Pato Branco,2021-06-04,True,10902.0,True,True,True,False,True,False,False,122609,87,18079,3,5.24,Mais de 5 anos,R$ 8.001 a R$ 15.000,68.9,1,3,3,7,Engajado,False,False
+949,Ricardo Sobrenome,3,Agencia 3,Cascavel,2022-01-25,True,24077.0,True,False,False,True,True,False,False,119844,14,703,2,4.59,3 a 5 anos,Acima de R$ 15.000,28.4,1,2,0,3,Em Desenvolvimento,True,True
+950,Bruno Sobrenome,1,Agencia 1,Pato Branco,2022-03-03,True,22143.0,True,True,False,False,True,False,True,208841,16,14019,3,4.49,3 a 5 anos,Acima de R$ 15.000,63.7,1,2,3,6,Maduro,False,False
+951,Fernanda Sobrenome,5,Agencia 5,Pato Branco,2025-07-19,True,2334.0,True,False,True,False,True,False,False,162446,10,4035,2,1.11,Menos de 2 anos,Ate R$ 3.000,40.2,1,0,1,2,Inicial,False,False
+952,Mariana Sobrenome,2,Agencia 2,Chapeco,2020-03-02,True,22390.0,True,False,False,True,False,True,False,131726,94,2161,2,6.49,Mais de 5 anos,Acima de R$ 15.000,52.3,1,3,2,6,Maduro,True,False
+953,Juliana Sobrenome,3,Agencia 3,Maringa,2026-01-19,True,3432.0,True,False,True,False,False,True,True,156892,6,9619,3,0.61,Menos de 2 anos,R$ 3.001 a R$ 8.000,45.2,1,0,1,2,Inicial,False,False
+954,Paula Sobrenome,3,Agencia 3,Pato Branco,2021-02-24,True,22203.0,True,True,False,False,False,True,True,91989,46,15033,3,5.51,Mais de 5 anos,Acima de R$ 15.000,49.4,1,3,1,5,Maduro,False,False
+955,Paula Sobrenome,3,Agencia 3,Pato Branco,2018-06-09,True,26569.0,True,False,False,True,False,False,True,236214,98,2037,2,8.22,Mais de 5 anos,Acima de R$ 15.000,73.8,1,3,3,7,Engajado,True,False
+956,Juliana Sobrenome,2,Agencia 2,Cascavel,,False,28364.0,True,True,False,True,False,True,False,174055,62,8743,3,,Nao informado,Acima de R$ 15.000,61.2,1,1,2,4,Em Desenvolvimento,False,False
+957,Bruno Sobrenome,2,Agencia 2,Maringa,2023-12-19,True,18035.0,True,True,True,True,False,False,False,117050,13,18797,3,2.7,2 a 3 anos,Acima de R$ 15.000,50.0,1,1,1,3,Em Desenvolvimento,False,False
+958,Lucas Sobrenome,2,Agencia 2,Cascavel,2023-04-17,True,2273.0,True,True,True,False,True,False,True,120668,31,6429,4,3.37,3 a 5 anos,Ate R$ 3.000,40.1,2,2,1,5,Maduro,False,False
+959,Amanda Sobrenome,3,Agencia 3,Chapeco,2024-05-02,True,19521.0,True,False,True,True,True,False,False,115118,84,7325,3,2.33,2 a 3 anos,Acima de R$ 15.000,52.8,1,1,2,4,Em Desenvolvimento,False,False
+960,Mariana Sobrenome,4,Agencia 4,Pato Branco,2025-03-17,True,5094.0,True,True,False,True,False,False,True,101333,43,12401,3,1.45,Menos de 2 anos,R$ 3.001 a R$ 8.000,46.8,1,0,1,2,Inicial,False,False
+961,Fernanda Sobrenome,4,Agencia 4,Cascavel,2025-05-03,True,9902.0,True,True,True,True,True,False,True,32905,65,13603,5,1.33,Menos de 2 anos,R$ 8.001 a R$ 15.000,40.7,2,0,1,3,Em Desenvolvimento,False,False
+962,Joao Sobrenome,3,Agencia 3,Pato Branco,2025-12-13,True,21552.0,True,False,True,True,False,True,False,245421,98,14793,3,0.71,Menos de 2 anos,Acima de R$ 15.000,92.0,1,0,3,4,Em Desenvolvimento,False,False
+963,Paula Sobrenome,5,Agencia 5,Chapeco,2023-11-25,True,26997.0,True,True,True,True,False,True,False,202446,25,19177,4,2.76,2 a 3 anos,Acima de R$ 15.000,71.4,2,1,3,6,Maduro,False,False
+964,Ricardo Sobrenome,3,Agencia 3,Maringa,2019-10-18,True,4655.0,True,True,False,False,False,True,True,56046,35,1350,3,6.87,Mais de 5 anos,R$ 3.001 a R$ 8.000,21.7,1,3,0,4,Em Desenvolvimento,False,True
+965,Mariana Sobrenome,4,Agencia 4,Toledo,2021-06-19,True,3034.0,True,True,False,False,True,True,False,22380,10,17214,3,5.2,Mais de 5 anos,R$ 3.001 a R$ 8.000,29.4,1,3,0,4,Em Desenvolvimento,False,True
+966,Juliana Sobrenome,5,Agencia 5,Pato Branco,2019-10-20,True,23199.0,True,False,True,True,True,True,True,32723,95,12854,5,6.86,Mais de 5 anos,Acima de R$ 15.000,46.8,2,3,1,6,Maduro,False,False
+967,Paula Sobrenome,2,Agencia 2,Chapeco,2023-10-08,True,26077.0,True,True,False,True,True,True,False,239539,95,12923,4,2.89,2 a 3 anos,Acima de R$ 15.000,87.6,2,1,3,6,Maduro,False,False
+968,Fernanda Sobrenome,3,Agencia 3,Toledo,2018-04-15,True,27684.0,True,False,False,False,False,False,True,168787,49,18278,1,8.38,Mais de 5 anos,Acima de R$ 15.000,69.2,0,3,3,6,Maduro,True,False
+969,Carlos Sobrenome,5,Agencia 5,Maringa,2021-03-11,True,22074.0,True,True,False,True,False,False,True,173025,89,6717,3,5.47,Mais de 5 anos,Acima de R$ 15.000,65.0,1,3,3,7,Engajado,False,False
+970,Amanda Sobrenome,2,Agencia 2,Pato Branco,2022-11-17,True,7015.0,True,True,False,False,True,False,True,4213,9,2474,3,3.78,3 a 5 anos,R$ 3.001 a R$ 8.000,6.1,1,2,0,3,Em Desenvolvimento,False,True
+971,Carlos Sobrenome,5,Agencia 5,Pato Branco,2026-08-21,True,3281.0,True,False,False,False,True,True,False,78361,64,15442,2,0.02,Menos de 2 anos,R$ 3.001 a R$ 8.000,51.9,1,0,2,3,Em Desenvolvimento,False,False
+972,Fernanda Sobrenome,1,Agencia 1,Maringa,2019-02-03,True,5247.0,True,True,True,True,False,True,False,129260,71,3579,4,7.57,Mais de 5 anos,R$ 3.001 a R$ 8.000,48.1,2,3,1,6,Maduro,False,False
+973,Bruno Sobrenome,5,Agencia 5,Chapeco,2019-08-08,True,20654.0,True,False,True,False,False,True,False,80233,86,8186,2,7.06,Mais de 5 anos,Acima de R$ 15.000,48.2,1,3,1,5,Maduro,True,False
+974,Juliana Sobrenome,5,Agencia 5,Pato Branco,2025-06-14,True,25056.0,True,True,False,False,False,False,False,73734,15,11242,1,1.21,Menos de 2 anos,Acima de R$ 15.000,33.1,0,0,0,0,Inicial,True,True
+975,Lucas Sobrenome,4,Agencia 4,Toledo,2018-05-02,True,13713.0,True,False,False,False,True,True,True,218510,41,13779,3,8.33,Mais de 5 anos,R$ 8.001 a R$ 15.000,71.7,1,3,3,7,Engajado,False,False
+976,Joao Sobrenome,1,Agencia 1,Maringa,2024-12-26,True,6884.0,True,False,False,True,False,False,True,38638,90,7927,2,1.68,Menos de 2 anos,R$ 3.001 a R$ 8.000,40.8,1,0,1,2,Inicial,False,False
+977,Bruno Sobrenome,5,Agencia 5,Pato Branco,2025-05-20,True,14704.0,True,False,True,False,False,False,False,192604,75,3553,1,1.28,Menos de 2 anos,R$ 8.001 a R$ 15.000,61.8,0,0,2,2,Inicial,False,False
+978,Juliana Sobrenome,1,Agencia 1,Toledo,2018-09-08,True,3694.0,True,True,False,False,True,False,False,31996,38,17081,2,7.98,Mais de 5 anos,R$ 3.001 a R$ 8.000,37.9,1,3,1,5,Maduro,False,False
+979,Amanda Sobrenome,2,Agencia 2,Cascavel,2018-10-02,True,6001.0,True,False,False,True,False,True,True,122722,80,15381,3,7.91,Mais de 5 anos,R$ 3.001 a R$ 8.000,64.0,1,3,3,7,Engajado,False,False
+980,Mariana Sobrenome,3,Agencia 3,Chapeco,2025-03-05,True,8781.0,True,True,False,False,True,True,False,45277,90,13775,3,1.49,Menos de 2 anos,R$ 8.001 a R$ 15.000,49.2,1,0,1,2,Inicial,False,False
+981,Bruno Sobrenome,3,Agencia 3,Maringa,2024-05-13,True,6728.0,True,True,True,True,True,True,False,102334,84,13931,5,2.3,2 a 3 anos,R$ 3.001 a R$ 8.000,58.7,2,1,2,5,Maduro,False,False
+982,Bruno Sobrenome,5,Agencia 5,Toledo,2025-02-01,True,15395.0,True,True,False,False,True,False,False,111219,34,5134,2,1.57,Menos de 2 anos,Acima de R$ 15.000,37.3,1,0,1,2,Inicial,True,False
+983,Ricardo Sobrenome,4,Agencia 4,Chapeco,2023-11-18,True,11370.0,True,True,False,True,True,True,True,164572,41,3078,5,2.78,2 a 3 anos,R$ 8.001 a R$ 15.000,47.2,2,1,1,4,Em Desenvolvimento,False,False
+984,Mariana Sobrenome,1,Agencia 1,Pato Branco,2021-10-10,True,22939.0,True,True,False,True,True,True,True,145149,39,7073,5,4.89,3 a 5 anos,Acima de R$ 15.000,48.1,2,2,1,5,Maduro,False,False
+985,Ricardo Sobrenome,4,Agencia 4,Pato Branco,2022-07-19,True,2901.0,True,False,False,False,True,True,True,139159,76,2160,3,4.11,3 a 5 anos,Ate R$ 3.000,49.0,1,2,1,4,Em Desenvolvimento,False,False
+986,Joao Sobrenome,3,Agencia 3,Pato Branco,2025-09-28,True,7228.0,True,False,False,True,False,True,True,130947,39,16757,3,0.92,Menos de 2 anos,R$ 3.001 a R$ 8.000,57.4,1,0,2,3,Em Desenvolvimento,False,False
+987,Carlos Sobrenome,2,Agencia 2,Cascavel,2020-04-17,True,21977.0,True,False,True,True,True,True,False,167332,25,10594,4,6.37,Mais de 5 anos,Acima de R$ 15.000,53.0,2,3,2,7,Engajado,False,False
+988,Carlos Sobrenome,2,Agencia 2,Cascavel,2018-07-06,True,3457.0,True,False,True,True,True,False,False,33513,90,1280,3,8.15,Mais de 5 anos,R$ 3.001 a R$ 8.000,31.0,1,3,0,4,Em Desenvolvimento,False,True
+989,Juliana Sobrenome,4,Agencia 4,Chapeco,2019-10-19,True,28904.0,True,False,True,True,False,True,True,228379,13,9617,4,6.86,Mais de 5 anos,Acima de R$ 15.000,60.7,2,3,2,7,Engajado,False,False
+990,Mariana Sobrenome,1,Agencia 1,Pato Branco,2021-05-06,True,22398.0,True,True,False,False,True,True,True,61729,13,4578,4,5.32,Mais de 5 anos,Acima de R$ 15.000,21.3,2,3,0,5,Maduro,False,True
+991,Mariana Sobrenome,5,Agencia 5,Pato Branco,2022-09-15,True,4193.0,True,True,False,False,True,True,True,212448,42,4255,4,3.96,3 a 5 anos,R$ 3.001 a R$ 8.000,59.2,2,2,2,6,Maduro,False,False
+992,Paula Sobrenome,5,Agencia 5,Pato Branco,2026-01-28,True,15270.0,True,False,False,False,False,False,False,112394,10,7194,0,0.59,Menos de 2 anos,Acima de R$ 15.000,33.8,0,0,0,0,Inicial,True,True
+993,Bruno Sobrenome,2,Agencia 2,Chapeco,2021-09-07,True,24405.0,True,False,False,False,True,False,True,108431,14,463,2,4.98,3 a 5 anos,Acima de R$ 15.000,25.6,1,2,0,3,Em Desenvolvimento,True,True
+994,Lucas Sobrenome,2,Agencia 2,Pato Branco,2019-12-11,True,3430.0,True,False,False,True,True,False,True,144529,43,19788,3,6.72,Mais de 5 anos,R$ 3.001 a R$ 8.000,65.1,1,3,3,7,Engajado,False,False
+995,Fernanda Sobrenome,2,Agencia 2,Maringa,2019-01-05,True,2014.0,True,True,True,True,False,False,True,211560,20,13947,4,7.65,Mais de 5 anos,Ate R$ 3.000,65.0,2,3,3,8,Engajado,False,False
+996,Amanda Sobrenome,2,Agencia 2,Pato Branco,2026-06-17,True,2644.0,True,False,True,True,False,True,False,67574,45,8033,3,0.2,Menos de 2 anos,Ate R$ 3.000,35.5,1,0,0,1,Inicial,False,True
+997,Paula Sobrenome,5,Agencia 5,Pato Branco,2024-03-08,True,12968.0,True,False,True,True,False,True,False,138318,45,7794,3,2.48,2 a 3 anos,R$ 8.001 a R$ 15.000,49.1,1,1,1,3,Em Desenvolvimento,False,False
+998,Paula Sobrenome,2,Agencia 2,Cascavel,2025-06-21,True,27403.0,True,False,False,False,True,False,False,109228,70,8033,1,1.19,Menos de 2 anos,Acima de R$ 15.000,49.5,0,0,1,1,Inicial,True,False
+999,Ricardo Sobrenome,3,Agencia 3,Pato Branco,,False,16962.0,True,False,True,True,False,True,True,47251,87,16158,4,,Nao informado,Acima de R$ 15.000,51.7,2,1,2,5,Maduro,False,False
+1000,Mariana Sobrenome,1,Agencia 1,Toledo,2019-03-22,True,4918.0,True,False,False,False,True,True,False,127172,29,4159,2,7.44,Mais de 5 anos,R$ 3.001 a R$ 8.000,38.3,1,3,1,5,Maduro,False,False
